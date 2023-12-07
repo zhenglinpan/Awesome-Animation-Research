@@ -5,15 +5,19 @@
 
 # Awesome Animation Research 🎥📚
 
-Welcome to the `Awesome Animation Research` repository! This repository provides a curated collection of dataset, research, and resources related to animation(video) specifically. 
+This repository provides a curated collection of dataset, research, and resources related to **cartoon animation(video)** specifically. 
 
 **What You'll Find Here:** Papers closely related to animation(video) that could potentially assist creating animation. e.g. Inbetweening, Video Colorization. 
 
 **What's Not Included:** General Anime Research. i.e. Anime Style Transfer, Anime Image Enhancement, Anime Image generation. If you are interested in general anime research, please refer to [AwesomeAnimeResearch](https://github.com/SerialLain3170/AwesomeAnimeResearch).
 
+****
+
 Creating animation is time-consuming and often involves manual work. AI tools are changing this landscape. Researchers are tackling animation-specific challenges like inbetweening and frame-to-frame color propagation. 
 
 You might notice the repo's list is currently short. Animation research is a relatively new and niche area, and we look forward to more researchers, including you, contributing to its growth.
+
+The repo will keep track of the latest research. Feel free to follow and star ! 🌟
 
 ## New Papers
 <!-- [<span style="color:red">*new</span>]  -->
