@@ -92,7 +92,7 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 **Deep Geometrized Cartoon Line Inbetweening** \
 *Li Siyao, Tianpei Gu, Weiye Xiao, Henghui Ding, Ziwei Liu, Chen Change Loy*\
 [Nov., 2023] [ICCV 2023] \
-[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Siyao_Deep_Geometrized_Cartoon_Line_Inbetweening_ICCV_2023_paper.pdf)] | [[project](https://github.com/lisiyao21/AnimeInbet)]
+[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Siyao_Deep_Geometrized_Cartoon_Line_Inbetweening_ICCV_2023_paper.pdf)] | [[project](https://github.com/lisiyao21/AnimeInbet)] | [[dataset](https://github.com/lisiyao21/AnimeInbet)]
 
 **Enhanced Deep Animation Video Interpolation** \
 *Wang Shen, Cheng Ming, Wenbo Bao, Guangtao Zhai, Li Chen, Zhiyong Gao*\
