@@ -111,8 +111,13 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 **SketchBetween: Video-to-Video Synthesis for Sprite Animation via Sketches** \
 *Dagmar Lukka Loftsdóttir, Matthew Guzdial*\
-[1 Sep., 2022] [arXiv, 2022] \
+[1 Sep., 2022] [ECCV, 2022] \
 [[paper](https://arxiv.org/abs/2209.00185)] | [[project](https://github.com/ribombee/SketchBetween)]
+
+**Improving the Perceptual Quality of 2D Animation Interpolation** \
+*Shuhong Chen, Matthias Zwicker*\
+[24 Nov., 2021] [arXiv, 2021] \
+[[paper](https://arxiv.org/abs/2111.12792)]
 
 **Deep Animation Video Interpolation in the Wild** \
 *Li Siyao, Shiyu Zhao, Weijiang Yu, Wenxiu Sun, Dimitris N. Metaxas, Chen Change Loy, Ziwei Liu*\
