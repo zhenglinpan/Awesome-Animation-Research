@@ -22,7 +22,7 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 ## New Papers
 <!-- [<span style="color:red">*new</span>]  -->
 
-🚩 **Exploring inbetween charts with trajectory-guided sliders for cutout animation**
+🚩 **Exploring inbetween charts with trajectory-guided sliders for cutout animation** \
 *T Fukusato, A Maejima, T Igarashi, T Yotsukura*\
 [1 Sep., 2023] [MTA 2023] \
 [[paper](https://link.springer.com/article/10.1007/s11042-023-17354-x)]
@@ -99,7 +99,7 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 [Nov., 2023] [ICCV 2023] \
 [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Siyao_Deep_Geometrized_Cartoon_Line_Inbetweening_ICCV_2023_paper.pdf)] | [[project](https://github.com/lisiyao21/AnimeInbet)] | [[dataset](https://github.com/lisiyao21/AnimeInbet)]
 
-**Exploring inbetween charts with trajectory-guided sliders for cutout animation**
+**Exploring inbetween charts with trajectory-guided sliders for cutout animation** \
 *T Fukusato, A Maejima, T Igarashi, T Yotsukura*\
 [1 Sep., 2023] [MTA 2023] \
 [[paper](https://link.springer.com/article/10.1007/s11042-023-17354-x)]
