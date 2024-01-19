@@ -22,6 +22,11 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 ## New Papers
 <!-- [<span style="color:red">*new</span>]  -->
 
+🚩 **Re:Draw -- Context Aware Translation as a Controllable Method for Artistic Production** \
+*Joao Liborio Cardoso, Francesco Banterle, Paolo Cignoni, Michael Wimmer*\
+[Jan., 2024] [*TBA 2024] \
+[[paper](https://arxiv.org/abs/2401.03499)]
+
 🚩 **Exploring inbetween charts with trajectory-guided sliders for cutout animation** \
 *T Fukusato, A Maejima, T Igarashi, T Yotsukura*\
 [1 Sep., 2023] [MTA 2023] \
@@ -31,11 +36,6 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 *Li Siyao, Tianpei Gu, Weiye Xiao, Henghui Ding, Ziwei Liu, Chen Change Loy*\
 [Nov., 2023] [ICCV 2023] \
 [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Siyao_Deep_Geometrized_Cartoon_Line_Inbetweening_ICCV_2023_paper.pdf)] | [[project](https://github.com/lisiyao21/AnimeInbet)] | [[dataset](https://github.com/lisiyao21/AnimeInbet)]
-
-🚩 **Coloring anime line art videos with transformation region enhancement network** \
-*Ning Wang, Muyao Niu, Zhi Dou, Zhihui Wang, Zhiyong Wang, Zhaoyan Ming, Bin Liu, Haojie Li*\
-[Sep., 2023] [Elsevier, 2023] \
-[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320323002625)]
 
 
 ## Datasets
@@ -139,6 +139,19 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 [Jun., 2017] [Elsevier, 2017] \
 [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0097849317300390)]
 
+
+
+## Editing
+
+**Re:Draw -- Context Aware Translation as a Controllable Method for Artistic Production** \
+*Joao Liborio Cardoso, Francesco Banterle, Paolo Cignoni, Michael Wimmer*\
+[Jan., 2024] [*TBA 2024] \
+[[paper](https://arxiv.org/abs/2401.03499)]
+
+**Sprite-from-Sprite: Cartoon Animation Decomposition with Self-supervised Sprite Estimation** \
+*Lvmin Zhang, Tien-Tsin Wong, Yuxin Liu*\
+[Nov., 2022] [ACM 2022] \
+[[paper](https://dl.acm.org/doi/pdf/10.1145/3550454.3555439)] | [[project](https://lllyasviel.github.io/GitPageToonDecompose/)]
 
 ## How to Contribute
 We encourage animation enthusiasts, researchers, and scholars to contribute to this repository by adding relevant papers, articles, and resources. Your contributions will help build a valuable reference for anyone interested in the art and science of animation.
