@@ -46,21 +46,6 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 [[Paper](https://arxiv.org/abs/2211.05709)] | [[project](https://lisiyao21.github.io/projects/AnimeRun)] | [[dataset](https://lisiyao21.github.io/projects/AnimeRun)]
 
 
-## Tracking & Matching
-
-**Globally Optimal Toon Tracking** \
-*Haichao Zhu, Xueting Liu, Tien-Tsin Wong, Pheng-Ann Heng* \
-[11 Jul., 2016] [TOG, 2016] \
-[[Paper](https://dl.acm.org/doi/10.1145/2897824.2925872)]
-
-## Segmentation
-
-**Stereoscopizing Cel Animations** \
-*Xueting Liu, Xiangyu Mao, Xuan Yang, Linling Zhang, Tien-Tsin Wong* \
-[11 Jul., 2016] [ACM, 2013] \
-[[Paper](https://dl.acm.org/doi/abs/10.1145/2508363.2508396)]
-
-
 ## Colorization
 
 **Coloring anime line art videos with transformation region enhancement network** \
@@ -163,6 +148,22 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 *Lvmin Zhang, Tien-Tsin Wong, Yuxin Liu*\
 [Nov., 2022] [ACM 2022] \
 [[paper](https://dl.acm.org/doi/pdf/10.1145/3550454.3555439)] | [[project](https://lllyasviel.github.io/GitPageToonDecompose/)]
+
+
+## Tracking & Matching
+
+**Globally Optimal Toon Tracking** \
+*Haichao Zhu, Xueting Liu, Tien-Tsin Wong, Pheng-Ann Heng* \
+[11 Jul., 2016] [TOG, 2016] \
+[[Paper](https://dl.acm.org/doi/10.1145/2897824.2925872)]
+
+## Segmentation
+
+**Stereoscopizing Cel Animations** \
+*Xueting Liu, Xiangyu Mao, Xuan Yang, Linling Zhang, Tien-Tsin Wong* \
+[11 Jul., 2016] [ACM, 2013] \
+[[Paper](https://dl.acm.org/doi/abs/10.1145/2508363.2508396)]
+
 
 ## How to Contribute
 We encourage animation enthusiasts, researchers, and scholars to contribute to this repository by adding relevant papers, articles, and resources. Your contributions will help build a valuable reference for anyone interested in the art and science of animation.
