@@ -1,6 +1,6 @@
 # <p align=center>`Awesome Animation Research`</p> # 
 
-![img1](https://lllyasviel.github.io/DanbooRegion/page_imgs/ex.jpg)
+![img1](https://github.com/zhenglinpan/Awesome-Animation-Research/blob/master/assets/teaser.gif)
 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging) 
