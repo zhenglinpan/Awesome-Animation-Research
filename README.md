@@ -3,6 +3,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Teaser](https://img.shields.io/badge/Teaser_by-寝国-pink)](https://space.bilibili.com/177312952?spm_id_from=333.337.0.0)
 
 # Awesome Animation Research 🎥📚
 
