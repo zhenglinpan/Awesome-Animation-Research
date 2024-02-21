@@ -1,5 +1,3 @@
-# <p align=center>`Awesome Animation Research`</p> # 
-
 ![img1](https://github.com/zhenglinpan/Awesome-Animation-Research/blob/master/assets/teaser.gif)
 
 
