@@ -102,15 +102,15 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 [1 Sep., 2023] [MTA 2023] \
 [[paper](https://link.springer.com/article/10.1007/s11042-023-17354-x)]
 
-**Enhanced Deep Animation Video Interpolation** \
-*Wang Shen, Cheng Ming, Wenbo Bao, Guangtao Zhai, Li Chen, Zhiyong Gao*\
-[25 Jun., 2022] [arXiv, 2022] \
-[[paper](https://arxiv.org/abs/2206.12657)]
-
 **SketchBetween: Video-to-Video Synthesis for Sprite Animation via Sketches** \
 *Dagmar Lukka Loftsdóttir, Matthew Guzdial*\
 [1 Sep., 2022] [ECCV, 2022] \
 [[paper](https://arxiv.org/abs/2209.00185)] | [[project](https://github.com/ribombee/SketchBetween)]
+
+**Enhanced Deep Animation Video Interpolation** \
+*Wang Shen, Cheng Ming, Wenbo Bao, Guangtao Zhai, Li Chen, Zhiyong Gao*\
+[25 Jun., 2022] [arXiv, 2022] \
+[[paper](https://arxiv.org/abs/2206.12657)]
 
 **Improving the Perceptual Quality of 2D Animation Interpolation** \
 *Shuhong Chen, Matthias Zwicker*\
