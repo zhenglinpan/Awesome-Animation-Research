@@ -70,15 +70,15 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 [22 Jun., 2020] [arXiv, 2020] \
 [[Paper](https://arxiv.org/abs/2006.13717)]
 
-**Deep Line Art Video Colorization with a Few References** \
-*Min Shi, Jia-Qi Zhang, Shu-Yu Chen, Lin Gao, Yu-Kun Lai, Fang-Lue Zhang* \
-[24 Mar., 2020] [arXiv, 2020] \
-[[Paper](https://arxiv.org/abs/2003.10685)]
-
 **Line Art Correlation Matching Feature Transfer Network for Automatic Animation Colorization** \
 *Zhang Qian, Wang Bo, Wen Wei, Li Hai, Liu Jun Hui* \
 [14 Apr., 2020] [arXiv, 2020] \
 [[Paper](https://arxiv.org/abs/2004.06718)]
+
+**Deep Line Art Video Colorization with a Few References** \
+*Min Shi, Jia-Qi Zhang, Shu-Yu Chen, Lin Gao, Yu-Kun Lai, Fang-Lue Zhang* \
+[24 Mar., 2020] [arXiv, 2020] \
+[[Paper](https://arxiv.org/abs/2003.10685)]
 
 **Automatic Temporally Coherent Video Colorization** \
 *Harrish Thasarathan, Kamyar Nazeri, Mehran Ebrahimi* \
