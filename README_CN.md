@@ -154,6 +154,10 @@
 [Nov., 2022] [ACM 2022] \
 [[paper](https://dl.acm.org/doi/pdf/10.1145/3550454.3555439)] | [[project](https://lllyasviel.github.io/GitPageToonDecompose/)]
 
+**Toonsynth: example-based synthesis of hand-colored cartoon animations** \
+*M Dvorožnák, W Li, VG Kim, D Sýkora*\
+[Jul., 2018] [TOG 2018] \
+[[paper](https://dl.acm.org/doi/abs/10.1145/3197517.3201326)]
 
 ## 跟踪/匹配
 
