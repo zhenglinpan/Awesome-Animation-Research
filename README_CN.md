@@ -28,7 +28,7 @@
 <!-- [<span style="color:red">*new</span>]  -->
 
 🚩**Learning Inclusion Matching for Animation Paint Bucket Colorization** \
-*Y. Dai, S. Zhou, Q. Li, C. Li, C. C. Loy*\
+*Yuekun Dai, Shangchen Zhou, Qinyue Li, Chongyi Li, Chen Change Loy*\
 [2024] [CVPR, 2024] \
 [[Paper](https://www.scholar-inbox.com/papers/Dai2024ARXIV_Learning_Inclusion_Matching_for.pdf)]
 
@@ -54,7 +54,7 @@
 ## 上色
 
 **Learning Inclusion Matching for Animation Paint Bucket Colorization** \
-*Y. Dai, S. Zhou, Q. Li, C. Li, C. C. Loy*\
+*Yuekun Dai, Shangchen Zhou, Qinyue Li, Chongyi Li, Chen Change Loy*\
 [2024] [CVPR, 2024] \
 [[Paper](https://www.scholar-inbox.com/papers/Dai2024ARXIV_Learning_Inclusion_Matching_for.pdf)]
 
