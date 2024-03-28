@@ -27,6 +27,11 @@
 ## 新文章
 <!-- [<span style="color:red">*new</span>]  -->
 
+🚩**Learning Inclusion Matching for Animation Paint Bucket Colorization** \
+*Y. Dai, S. Zhou, Q. Li, C. Li, C. C. Loy*\
+[2024] [CVPR, 2024] \
+[[Paper](https://www.scholar-inbox.com/papers/Dai2024ARXIV_Learning_Inclusion_Matching_for.pdf)]
+
 🚩 **Re:Draw -- Context Aware Translation as a Controllable Method for Artistic Production** \
 *Joao Liborio Cardoso, Francesco Banterle, Paolo Cignoni, Michael Wimmer*\
 [Jan., 2024] [*TBA 2024] \
@@ -36,11 +41,6 @@
 *T Fukusato, A Maejima, T Igarashi, T Yotsukura*\
 [1 Sep., 2023] [MTA 2023] \
 [[paper](https://link.springer.com/article/10.1007/s11042-023-17354-x)]
-
-🚩 **Deep Geometrized Cartoon Line Inbetweening** \
-*Li Siyao, Tianpei Gu, Weiye Xiao, Henghui Ding, Ziwei Liu, Chen Change Loy*\
-[Nov., 2023] [ICCV 2023] \
-[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Siyao_Deep_Geometrized_Cartoon_Line_Inbetweening_ICCV_2023_paper.pdf)] | [[project](https://github.com/lisiyao21/AnimeInbet)] | [[dataset](https://github.com/lisiyao21/AnimeInbet)]
 
 
 ## 数据集
@@ -52,6 +52,11 @@
 
 
 ## 上色
+
+**Learning Inclusion Matching for Animation Paint Bucket Colorization** \
+*Y. Dai, S. Zhou, Q. Li, C. Li, C. C. Loy*\
+[2024] [CVPR, 2024] \
+[[Paper](https://www.scholar-inbox.com/papers/Dai2024ARXIV_Learning_Inclusion_Matching_for.pdf)]
 
 **Coloring anime line art videos with transformation region enhancement network** \
 *Ning Wang, Muyao Niu, Zhi Dou, Zhihui Wang, Zhiyong Wang, Zhaoyan Ming, Bin Liu, Haojie Li*\
