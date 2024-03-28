@@ -30,7 +30,7 @@
 🚩**Learning Inclusion Matching for Animation Paint Bucket Colorization** \
 *Yuekun Dai, Shangchen Zhou, Qinyue Li, Chongyi Li, Chen Change Loy*\
 [2024] [CVPR, 2024] \
-[[Paper](https://www.scholar-inbox.com/papers/Dai2024ARXIV_Learning_Inclusion_Matching_for.pdf)]
+[[Paper](https://www.scholar-inbox.com/papers/Dai2024ARXIV_Learning_Inclusion_Matching_for.pdf)] | [[demo](https://www.youtube.com/watch?v=nNnPUItGvSo&ab_channel=YuekunDai)] | [dataset]
 
 🚩 **Re:Draw -- Context Aware Translation as a Controllable Method for Artistic Production** \
 *Joao Liborio Cardoso, Francesco Banterle, Paolo Cignoni, Michael Wimmer*\
@@ -56,7 +56,7 @@
 **Learning Inclusion Matching for Animation Paint Bucket Colorization** \
 *Yuekun Dai, Shangchen Zhou, Qinyue Li, Chongyi Li, Chen Change Loy*\
 [2024] [CVPR, 2024] \
-[[Paper](https://www.scholar-inbox.com/papers/Dai2024ARXIV_Learning_Inclusion_Matching_for.pdf)]
+[[Paper](https://www.scholar-inbox.com/papers/Dai2024ARXIV_Learning_Inclusion_Matching_for.pdf)] | [[demo](https://www.youtube.com/watch?v=nNnPUItGvSo&ab_channel=YuekunDai)] | [dataset]
 
 **Coloring anime line art videos with transformation region enhancement network** \
 *Ning Wang, Muyao Niu, Zhi Dou, Zhihui Wang, Zhiyong Wang, Zhaoyan Ming, Bin Liu, Haojie Li*\
