@@ -27,6 +27,11 @@
 ## 新文章
 <!-- [<span style="color:red">*new</span>]  -->
 
+🚩**Joint Stroke Tracing and Correspondence for 2D Animationn** \
+*Haoran Mo, Chengying Gao, Ruomei Wang*\
+[9 Apr., 2024] [SIGGRAPH, 2024] \
+[[Paper](https://dl.acm.org/doi/10.1145/3649890)] | [[project](https://github.com/MarkMoHR/JoSTC)]
+
 🚩**Learning Inclusion Matching for Animation Paint Bucket Colorization** \
 *Yuekun Dai, Shangchen Zhou, Qinyue Li, Chongyi Li, Chen Change Loy*\
 [2024] [CVPR, 2024] \
@@ -36,11 +41,6 @@
 *Joao Liborio Cardoso, Francesco Banterle, Paolo Cignoni, Michael Wimmer*\
 [Jan., 2024] [*TBA 2024] \
 [[paper](https://arxiv.org/abs/2401.03499)]
-
-🚩 **Exploring inbetween charts with trajectory-guided sliders for cutout animation** \
-*T Fukusato, A Maejima, T Igarashi, T Yotsukura*\
-[1 Sep., 2023] [MTA 2023] \
-[[paper](https://link.springer.com/article/10.1007/s11042-023-17354-x)]
 
 
 ## 数据集
@@ -99,6 +99,11 @@
 
 
 ## 中割/插帧
+
+**Joint Stroke Tracing and Correspondence for 2D Animationn** \
+*Haoran Mo, Chengying Gao, Ruomei Wang*\
+[9 Apr., 2024] [SIGGRAPH, 2024] \
+[[Paper](https://dl.acm.org/doi/10.1145/3649890)] | [[project](https://github.com/MarkMoHR/JoSTC)]
 
 **Deep Geometrized Cartoon Line Inbetweening** \
 *Li Siyao, Tianpei Gu, Weiye Xiao, Henghui Ding, Ziwei Liu, Chen Change Loy*\
