@@ -26,15 +26,15 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 ## New Papers
 <!-- [<span style="color:red">*new</span>]  -->
 
-🚩**Joint Stroke Tracing and Correspondence for 2D Animationn** \
+🚩**Joint Stroke Tracing and Correspondence for 2D Animation** \
 *Haoran Mo, Chengying Gao, Ruomei Wang*\
 [9 Apr., 2024] [SIGGRAPH, 2024] \
-[[Paper](https://dl.acm.org/doi/10.1145/3649890)] | [[project](https://github.com/MarkMoHR/JoSTC)]
+[[paper](https://dl.acm.org/doi/10.1145/3649890)] | [[project](https://github.com/MarkMoHR/JoSTC)]
 
 🚩**Learning Inclusion Matching for Animation Paint Bucket Colorization** \
 *Yuekun Dai, Shangchen Zhou, Qinyue Li, Chongyi Li, Chen Change Loy*\
 [2024] [CVPR, 2024] \
-[[Paper](https://www.scholar-inbox.com/papers/Dai2024ARXIV_Learning_Inclusion_Matching_for.pdf)] | [[demo](https://www.youtube.com/watch?v=nNnPUItGvSo&ab_channel=YuekunDai)] | [dataset]
+[[paper](https://arxiv.org/pdf/2403.18342.pdf)] | [[demo](https://www.youtube.com/watch?v=nNnPUItGvSo&ab_channel=YuekunDai)] | [[project](https://github.com/ykdai/BasicPBC)] | [[dataset](https://github.com/ykdai/BasicPBC/tree/main/dataset)]
 
 🚩 **Re:Draw -- Context Aware Translation as a Controllable Method for Artistic Production** \
 *Joao Liborio Cardoso, Francesco Banterle, Paolo Cignoni, Michael Wimmer*\
@@ -46,7 +46,7 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 **AnimeRun: 2D Animation Visual Correspondence from Open Source 3D Movies** \
 *Li Siyao, Yuhang Li, Bo Li, Chao Dong, Ziwei Liu, Chen Change Loy* \
 [10 Nov., 2022] [arXiv, 2022] \
-[[Paper](https://arxiv.org/abs/2211.05709)] | [[project](https://lisiyao21.github.io/projects/AnimeRun)] | [[dataset](https://lisiyao21.github.io/projects/AnimeRun)]
+[[paper](https://arxiv.org/abs/2211.05709)] | [[project](https://lisiyao21.github.io/projects/AnimeRun)] | [[dataset](https://lisiyao21.github.io/projects/AnimeRun)]
 
 
 ## Colorization
@@ -54,42 +54,42 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 **Learning Inclusion Matching for Animation Paint Bucket Colorization** \
 *Yuekun Dai, Shangchen Zhou, Qinyue Li, Chongyi Li, Chen Change Loy*\
 [2024] [CVPR, 2024] \
-[[Paper](https://www.scholar-inbox.com/papers/Dai2024ARXIV_Learning_Inclusion_Matching_for.pdf)] | [[demo](https://www.youtube.com/watch?v=nNnPUItGvSo&ab_channel=YuekunDai)] | [dataset]
+[[paper](https://arxiv.org/pdf/2403.18342.pdf)] | [[demo](https://www.youtube.com/watch?v=nNnPUItGvSo&ab_channel=YuekunDai)] | [[project](https://github.com/ykdai/BasicPBC)] | [[dataset](https://github.com/ykdai/BasicPBC/tree/main/dataset)]
 
 **Coloring anime line art videos with transformation region enhancement network** \
 *Ning Wang, Muyao Niu, Zhi Dou, Zhihui Wang, Zhiyong Wang, Zhaoyan Ming, Bin Liu, Haojie Li*\
 [Sep., 2023] [Elsevier, 2023] \
-[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320323002625)]
+[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320323002625)]
 
 **Animation Line Art Colorization Based on Optical Flow Method** \
 *Yifeng Yu, Jiangbo Qian, Chong Wang, Yihong Dong, Baisong Liu*\
 [27 Aug., 2022] [SSNR, 2022] \
-[[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202289)]
+[[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202289)]
 
 **The Animation Transformer: Visual Correspondence via Segment Matching** \
 *Evan Casey, Víctor Pérez, Zhuoru Li, Harry Teitelman, Nick Boyajian, Tim Pulver, Mike Manh, William Grisaitis*\
 [6 Sep., 2021] [arXiv, 2021] \
-[[Paper](https://arxiv.org/abs/2109.02614)] | [[Demo](https://cadmium.app/)]
+[[paper](https://arxiv.org/abs/2109.02614)] | [[demo](https://cadmium.app/)]
 
 **Artist-Guided Semiautomatic Animation Colorization** \
 *Harrish Thasarathan, Mehran Ebrahimi* \
 [22 Jun., 2020] [arXiv, 2020] \
-[[Paper](https://arxiv.org/abs/2006.13717)]
+[[paper](https://arxiv.org/abs/2006.13717)]
 
 **Line Art Correlation Matching Feature Transfer Network for Automatic Animation Colorization** \
 *Zhang Qian, Wang Bo, Wen Wei, Li Hai, Liu Jun Hui* \
 [14 Apr., 2020] [arXiv, 2020] \
-[[Paper](https://arxiv.org/abs/2004.06718)]
+[[paper](https://arxiv.org/abs/2004.06718)]
 
 **Deep Line Art Video Colorization with a Few References** \
 *Min Shi, Jia-Qi Zhang, Shu-Yu Chen, Lin Gao, Yu-Kun Lai, Fang-Lue Zhang* \
 [24 Mar., 2020] [arXiv, 2020] \
-[[Paper](https://arxiv.org/abs/2003.10685)]
+[[paper](https://arxiv.org/abs/2003.10685)]
 
 **Automatic Temporally Coherent Video Colorization** \
 *Harrish Thasarathan, Kamyar Nazeri, Mehran Ebrahimi* \
 [21 Apr., 2019] [arXiv, 2019] \
-[[Paper](https://arxiv.org/abs/1904.09527)] | [[project](https://github.com/Harry-Thasarathan/TCVC)]
+[[paper](https://arxiv.org/abs/1904.09527)] | [[project](https://github.com/Harry-Thasarathan/TCVC)]
 
 
 
@@ -101,7 +101,7 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 **Joint Stroke Tracing and Correspondence for 2D Animationn** \
 *Haoran Mo, Chengying Gao, Ruomei Wang*\
 [9 Apr., 2024] [SIGGRAPH, 2024] \
-[[Paper](https://dl.acm.org/doi/10.1145/3649890)] | [[project](https://github.com/MarkMoHR/JoSTC)]
+[[paper](https://dl.acm.org/doi/10.1145/3649890)] | [[project](https://github.com/MarkMoHR/JoSTC)]
 
 **Deep Geometrized Cartoon Line Inbetweening** \
 *Li Siyao, Tianpei Gu, Weiye Xiao, Henghui Ding, Ziwei Liu, Chen Change Loy*\
@@ -172,14 +172,14 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 **Globally Optimal Toon Tracking** \
 *Haichao Zhu, Xueting Liu, Tien-Tsin Wong, Pheng-Ann Heng* \
 [11 Jul., 2016] [TOG, 2016] \
-[[Paper](https://dl.acm.org/doi/10.1145/2897824.2925872)]
+[[paper](https://dl.acm.org/doi/10.1145/2897824.2925872)]
 
 ## Segmentation
 
 **Stereoscopizing Cel Animations** \
 *Xueting Liu, Xiangyu Mao, Xuan Yang, Linling Zhang, Tien-Tsin Wong* \
 [11 Jul., 2016] [ACM, 2013] \
-[[Paper](https://dl.acm.org/doi/abs/10.1145/2508363.2508396)]
+[[paper](https://dl.acm.org/doi/abs/10.1145/2508363.2508396)]
 
 
 ## How to Contribute

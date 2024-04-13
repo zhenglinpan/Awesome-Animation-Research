@@ -27,7 +27,7 @@
 ## 新文章
 <!-- [<span style="color:red">*new</span>]  -->
 
-🚩**Joint Stroke Tracing and Correspondence for 2D Animationn** \
+🚩**Joint Stroke Tracing and Correspondence for 2D Animation** \
 *Haoran Mo, Chengying Gao, Ruomei Wang*\
 [9 Apr., 2024] [SIGGRAPH, 2024] \
 [[Paper](https://dl.acm.org/doi/10.1145/3649890)] | [[project](https://github.com/MarkMoHR/JoSTC)]
@@ -35,7 +35,7 @@
 🚩**Learning Inclusion Matching for Animation Paint Bucket Colorization** \
 *Yuekun Dai, Shangchen Zhou, Qinyue Li, Chongyi Li, Chen Change Loy*\
 [2024] [CVPR, 2024] \
-[[Paper](https://www.scholar-inbox.com/papers/Dai2024ARXIV_Learning_Inclusion_Matching_for.pdf)] | [[demo](https://www.youtube.com/watch?v=nNnPUItGvSo&ab_channel=YuekunDai)] | [dataset]
+[[paper](https://arxiv.org/pdf/2403.18342.pdf)] | [[demo](https://www.youtube.com/watch?v=nNnPUItGvSo&ab_channel=YuekunDai)] | [[project](https://github.com/ykdai/BasicPBC)] | [[dataset](https://github.com/ykdai/BasicPBC/tree/main/dataset)]
 
 🚩 **Re:Draw -- Context Aware Translation as a Controllable Method for Artistic Production** \
 *Joao Liborio Cardoso, Francesco Banterle, Paolo Cignoni, Michael Wimmer*\
@@ -56,7 +56,7 @@
 **Learning Inclusion Matching for Animation Paint Bucket Colorization** \
 *Yuekun Dai, Shangchen Zhou, Qinyue Li, Chongyi Li, Chen Change Loy*\
 [2024] [CVPR, 2024] \
-[[Paper](https://www.scholar-inbox.com/papers/Dai2024ARXIV_Learning_Inclusion_Matching_for.pdf)] | [[demo](https://www.youtube.com/watch?v=nNnPUItGvSo&ab_channel=YuekunDai)] | [dataset]
+[[paper](https://arxiv.org/pdf/2403.18342.pdf)] | [[demo](https://www.youtube.com/watch?v=nNnPUItGvSo&ab_channel=YuekunDai)] | [[project](https://github.com/ykdai/BasicPBC)] | [[dataset](https://github.com/ykdai/BasicPBC/tree/main/dataset)]
 
 **Coloring anime line art videos with transformation region enhancement network** \
 *Ning Wang, Muyao Niu, Zhi Dou, Zhihui Wang, Zhiyong Wang, Zhaoyan Ming, Bin Liu, Haojie Li*\
