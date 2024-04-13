@@ -100,7 +100,7 @@
 
 ## 中割/插帧
 
-**Joint Stroke Tracing and Correspondence for 2D Animationn** \
+**Joint Stroke Tracing and Correspondence for 2D Animation** \
 *Haoran Mo, Chengying Gao, Ruomei Wang*\
 [9 Apr., 2024] [SIGGRAPH, 2024] \
 [[Paper](https://dl.acm.org/doi/10.1145/3649890)] | [[project](https://github.com/MarkMoHR/JoSTC)]
