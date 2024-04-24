@@ -63,6 +63,11 @@
 [Sep., 2023] [Elsevier, 2023] \
 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320323002625)]
 
+**SketchBetween: Video-to-Video Synthesis for Sprite Animation via Sketches** \
+*Dagmar Lukka Loftsdóttir, Matthew Guzdial*\
+[1 Sep., 2022] [ECCV, 2022] \
+[[paper](https://arxiv.org/abs/2209.00185)] | [[project](https://github.com/ribombee/SketchBetween)]
+
 **Animation Line Art Colorization Based on Optical Flow Method** \
 *Yifeng Yu, Jiangbo Qian, Chong Wang, Yihong Dong, Baisong Liu*\
 [27 Aug., 2022] [SSNR, 2022] \
@@ -114,11 +119,6 @@
 *T Fukusato, A Maejima, T Igarashi, T Yotsukura*\
 [1 Sep., 2023] [MTA 2023] \
 [[paper](https://link.springer.com/article/10.1007/s11042-023-17354-x)]
-
-**SketchBetween: Video-to-Video Synthesis for Sprite Animation via Sketches** \
-*Dagmar Lukka Loftsdóttir, Matthew Guzdial*\
-[1 Sep., 2022] [ECCV, 2022] \
-[[paper](https://arxiv.org/abs/2209.00185)] | [[project](https://github.com/ribombee/SketchBetween)]
 
 **Enhanced Deep Animation Video Interpolation** \
 *Wang Shen, Cheng Ming, Wenbo Bao, Guangtao Zhai, Li Chen, Zhiyong Gao*\
