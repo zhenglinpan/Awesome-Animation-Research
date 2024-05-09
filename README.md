@@ -26,17 +26,17 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 ## New Papers
 <!-- [<span style="color:red">*new</span>]  -->
 
-🚩**Joint Stroke Tracing and Correspondence for 2D Animation** \
+🚩【Inbetween】 **Joint Stroke Tracing and Correspondence for 2D Animation** \
 *Haoran Mo, Chengying Gao, Ruomei Wang*\
 [9 Apr., 2024] [SIGGRAPH, 2024] \
 [[paper](https://dl.acm.org/doi/10.1145/3649890)] | [[project](https://github.com/MarkMoHR/JoSTC)]
 
-🚩**Learning Inclusion Matching for Animation Paint Bucket Colorization** \
+🚩【Colorization】 **Learning Inclusion Matching for Animation Paint Bucket Colorization** \
 *Yuekun Dai, Shangchen Zhou, Qinyue Li, Chongyi Li, Chen Change Loy*\
 [2024] [CVPR, 2024] \
 [[paper](https://arxiv.org/pdf/2403.18342.pdf)] | [[demo](https://www.youtube.com/watch?v=nNnPUItGvSo&ab_channel=YuekunDai)] | [[project](https://github.com/ykdai/BasicPBC)] | [[dataset](https://github.com/ykdai/BasicPBC/tree/main/dataset)]
 
-🚩 **Re:Draw -- Context Aware Translation as a Controllable Method for Artistic Production** \
+🚩 【Editing】 **Re:Draw -- Context Aware Translation as a Controllable Method for Artistic Production** \
 *Joao Liborio Cardoso, Francesco Banterle, Paolo Cignoni, Michael Wimmer*\
 [Jan., 2024] [*TBA 2024] \
 [[paper](https://arxiv.org/abs/2401.03499)]
