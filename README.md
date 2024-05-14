@@ -193,3 +193,12 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 We encourage animation enthusiasts, researchers, and scholars to contribute to this repository by adding relevant papers, articles, and resources. Your contributions will help build a valuable reference for anyone interested in the art and science of animation.
 
 To contribute, simply fork this repository, make your additions or improvements, and submit a pull request. Please follow the contribution guidelines outlined in the repository's README file.
+
+<div>
+   <p align="center" style="font-style: italic;">
+      May Animation Get Better With Us.
+   </p>
+   <div style="text-align: center;">
+      <img src="https://github.com/zhenglinpan/Awesome-Animation-Research/blob/master/assets/Hatsune_Miku_@illufinch.png" alt="Twitter©illufinch" title="Image Title" style="display: block; margin: 0 auto;">
+   </div>
+</div>
