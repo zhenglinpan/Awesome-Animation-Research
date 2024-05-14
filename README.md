@@ -9,15 +9,15 @@
 
 # Awesome Animation Research 🎥📚
 
-This repository provides a curated collection of dataset, research, and resources related to **cel animation(cartoon video)** specifically. 
+This repository provides a curated collection of dataset, research, and resources related to **🎞️cel animation / 🎞️hand-drawn cartoons** specifically. 
 
-**What You'll Find Here:** Papers/Dataset/Repo closely related to cel animation(cartoon video) that could potentially assist creating animation. e.g. Inbetweening, Genga Colorization. 
+💁‍♀️**What You'll Find Here:** Papers/Dataset/Repo closely related to cel animation(cartoon video) that could potentially assist creating animation. e.g. Inbetweening, Genga Colorization. 
 
-**What's Not Included:** General Anime Research. i.e. Anime Style Transfer, Anime Image Enhancement, Anime Image generation. If you are interested in general anime research, please refer to [AwesomeAnimeResearch](https://github.com/SerialLain3170/AwesomeAnimeResearch).
+🤷‍♀️**What's Not Included:** General Anime Research. i.e. Anime Style Transfer, Anime Image Enhancement, Anime Image generation. If you are interested in general anime research, please refer to [AwesomeAnimeResearch](https://github.com/SerialLain3170/AwesomeAnimeResearch).
 
 ****
 
-Creating animation is time-consuming and often involves manual work. AI tools are changing this landscape. Researchers are tackling animation-specific challenges like inbetweening and frame-to-frame color propagation. 
+🙇‍♀️Creating animation is time-consuming and often involves manual work. AI tools are changing this landscape. Researchers are tackling animation-specific challenges like inbetweening and frame-to-frame color propagation. 
 
 You might notice the repo's list is currently short. Animation research is a relatively new and niche area, and we look forward to more researchers, including you, contributing to its growth.
 
