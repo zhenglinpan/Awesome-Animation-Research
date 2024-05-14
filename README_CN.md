@@ -27,6 +27,11 @@
 ## 新文章
 <!-- [<span style="color:red">*new</span>]  -->
 
+🚩【数据集】**Sakuga-42M Dataset: Scaling Up Cartoon Research** \
+*Zhenglin Pan, Yu Zhu, Yuxuan Mu* \
+[13 May., 2024] [arXiv, 2024] \
+[[paper](https://arxiv.org/abs/2405.07425)] | [webpage] | [demo] | [[repo](https://github.com/zhenglinpan/SakugaDataset)] | [[dataset](https://github.com/zhenglinpan/SakugaDataset)]
+
 🚩【中割】**Joint Stroke Tracing and Correspondence for 2D Animation** \
 *Haoran Mo, Chengying Gao, Ruomei Wang*\
 [9 Apr., 2024] [SIGGRAPH, 2024] \
@@ -37,13 +42,12 @@
 [2024] [CVPR, 2024] \
 [[paper](https://arxiv.org/abs/2403.18342)] | [[webpage](https://ykdai.github.io/projects/InclusionMatching)] | [[demo](https://www.youtube.com/watch?v=nNnPUItGvSo&ab_channel=YuekunDai)] | [[repo](https://github.com/ykdai/BasicPBC)] | [[dataset](https://github.com/ykdai/BasicPBC/tree/main/dataset)]
 
-🚩 【编辑】**Re:Draw -- Context Aware Translation as a Controllable Method for Artistic Production** \
-*Joao Liborio Cardoso, Francesco Banterle, Paolo Cignoni, Michael Wimmer*\
-[Jan., 2024] [*TBA 2024] \
-[[paper](https://arxiv.org/abs/2401.03499)] | [webpage] | [demo] | [repo] | [dataset]
-
-
 ## 数据集
+
+**Sakuga-42M Dataset: Scaling Up Cartoon Research** \
+*Zhenglin Pan, Yu Zhu, Yuxuan Mu* \
+[13 May., 2024] [arXiv, 2024] \
+[[paper](https://arxiv.org/abs/2405.07425)] | [webpage] | [demo] | [[repo](https://github.com/zhenglinpan/SakugaDataset)] | [[dataset](https://github.com/zhenglinpan/SakugaDataset)]
 
 **AnimeRun: 2D Animation Visual Correspondence from Open Source 3D Movies** \
 *Li Siyao, Yuhang Li, Bo Li, Chao Dong, Ziwei Liu, Chen Change Loy* \
