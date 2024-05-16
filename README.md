@@ -29,7 +29,7 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 🚩【Dataset】**Sakuga-42M Dataset: Scaling Up Cartoon Research** \
 *Zhenglin Pan, Yu Zhu, Yuxuan Mu* \
 [13 May., 2024] [arXiv, 2024] \
-[[paper](https://arxiv.org/abs/2405.07425)] | [webpage] | [demo] | [[repo](https://github.com/zhenglinpan/SakugaDataset)] | [[dataset](https://github.com/zhenglinpan/SakugaDataset)]
+[[paper](https://arxiv.org/abs/2405.07425)] | [[webpage](https://zhenglinpan.github.io/Sakuga_42M/)] | [demo] | [[repo](https://github.com/zhenglinpan/SakugaDataset)] | [[dataset](https://github.com/zhenglinpan/SakugaDataset)]
 
 🚩【Inbetween】 **Joint Stroke Tracing and Correspondence for 2D Animation** \
 *Haoran Mo, Chengying Gao, Ruomei Wang*\
