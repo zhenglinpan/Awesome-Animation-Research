@@ -30,7 +30,7 @@
 🚩【数据集】**Sakuga-42M Dataset: Scaling Up Cartoon Research** \
 *Zhenglin Pan, Yu Zhu, Yuxuan Mu* \
 [13 May., 2024] [arXiv, 2024] \
-[[paper](https://arxiv.org/abs/2405.07425)] | [webpage] | [demo] | [[repo](https://github.com/zhenglinpan/SakugaDataset)] | [[dataset](https://github.com/zhenglinpan/SakugaDataset)]
+[[paper](https://arxiv.org/abs/2405.07425)] | [webpage](https://zhenglinpan.github.io/Sakuga_42M/) | [demo] | [[repo](https://github.com/zhenglinpan/SakugaDataset)] | [[dataset](https://github.com/zhenglinpan/SakugaDataset)]
 
 🚩【中割】**Joint Stroke Tracing and Correspondence for 2D Animation** \
 *Haoran Mo, Chengying Gao, Ruomei Wang*\
@@ -47,7 +47,7 @@
 **Sakuga-42M Dataset: Scaling Up Cartoon Research** \
 *Zhenglin Pan, Yu Zhu, Yuxuan Mu* \
 [13 May., 2024] [arXiv, 2024] \
-[[paper](https://arxiv.org/abs/2405.07425)] | [webpage] | [demo] | [[repo](https://github.com/zhenglinpan/SakugaDataset)] | [[dataset](https://github.com/zhenglinpan/SakugaDataset)]
+[[paper](https://arxiv.org/abs/2405.07425)] | [webpage](https://zhenglinpan.github.io/Sakuga_42M/) | [demo] | [[repo](https://github.com/zhenglinpan/SakugaDataset)] | [[dataset](https://github.com/zhenglinpan/SakugaDataset)]
 
 **AnimeRun: 2D Animation Visual Correspondence from Open Source 3D Movies** \
 *Li Siyao, Yuhang Li, Bo Li, Chao Dong, Ziwei Liu, Chen Change Loy* \
