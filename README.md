@@ -34,7 +34,7 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 <a href="https://toon3d.studio/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://www.youtube.com/watch?v=tJ7UKALsF-0&feature=youtu.be"><img src="./assets/demo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://github.com/ethanweber/toon3d"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://huggingface.co/datasets/ethanweber/toon3d-dataset">🤗</a> &nbsp;
+[🤗](https://huggingface.co/spaces/ethanweber/toon3d) &nbsp;
 
 
 🚩【Dataset】**Sakuga-42M Dataset: Scaling Up Cartoon Research** \
@@ -288,7 +288,7 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 <a href="https://toon3d.studio/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://www.youtube.com/watch?v=tJ7UKALsF-0&feature=youtu.be"><img src="./assets/demo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://github.com/ethanweber/toon3d"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-[🤗](https://huggingface.co/spaces/ethanweber/toon3d)</a> &nbsp;
+[🤗](https://huggingface.co/spaces/ethanweber/toon3d) &nbsp;
 
 
 ## How to Contribute
