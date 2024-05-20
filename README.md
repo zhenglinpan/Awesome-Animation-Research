@@ -26,270 +26,217 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 ## New Papers
 <!-- [<span style="color:red">*new</span>]  -->
 
-**Toon3D: Seeing Cartoons from a New Perspective** \
-🚩【3D Assistance】*Ethan Weber, Riley Peterlinz, Rohan Mathur, Frederik Warburg, Alexei A. Efros, Angjoo Kanazawa* \
-[2024] [Arxiv, 2024]
-
+🚩【3D Assistance】**Toon3D: Seeing Cartoons from a New Perspective** &nbsp; | &nbsp;
 <a href="https://www.arxiv.org/abs/2405.10320"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://toon3d.studio/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://www.youtube.com/watch?v=tJ7UKALsF-0&feature=youtu.be"><img src="./assets/demo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://github.com/ethanweber/toon3d"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-[🤗](https://huggingface.co/spaces/ethanweber/toon3d) &nbsp;
+[🤗](https://huggingface.co/spaces/ethanweber/toon3d) &nbsp; \
+*Ethan Weber, Riley Peterlinz, Rohan Mathur, Frederik Warburg, Alexei A. Efros, Angjoo Kanazawa* \
+[2024] [Arxiv, 2024]
 
-
-🚩【Dataset】**Sakuga-42M Dataset: Scaling Up Cartoon Research** \
-*Zhenglin Pan, Yu Zhu, Yuxuan Mu* \
-[13 May., 2024] [arXiv, 2024]
-
+🚩【Dataset】**Sakuga-42M Dataset: Scaling Up Cartoon Research**  &nbsp; | &nbsp;
 <a href="https://arxiv.org/abs/2405.07425"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://zhenglinpan.github.io/Sakuga_42M/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://github.com/zhenglinpan/SakugaDataset"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://huggingface.co/datasets/aidenpan/Sakuga-42M"><img src="./assets/dataset.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://huggingface.co/datasets/aidenpan/Sakuga-42M"><img src="./assets/dataset.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Zhenglin Pan, Yu Zhu, Yuxuan Mu* \
+[13 May., 2024] [arXiv, 2024]
 
-🚩【Inbetween】 **Joint Stroke Tracing and Correspondence for 2D Animation** \
-*Haoran Mo, Chengying Gao, Ruomei Wang*\
-[9 Apr., 2024] [SIGGRAPH, 2024]
-
+🚩【Inbetween】 **Joint Stroke Tracing and Correspondence for 2D Animation** &nbsp; | &nbsp;
 <a href="https://dl.acm.org/doi/10.1145/3649890"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://markmohr.github.io/JoSTC/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://github.com/MarkMoHR/JoSTC"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-
-
-🚩【Colorization】 **Learning Inclusion Matching for Animation Paint Bucket Colorization** \
-*Yuekun Dai, Shangchen Zhou, Qinyue Li, Chongyi Li, Chen Change Loy*\
-[2024] [CVPR, 2024]
-
-<a href="https://arxiv.org/abs/2403.18342"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://ykdai.github.io/projects/InclusionMatching"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://www.youtube.com/watch?v=nNnPUItGvSo&ab_channel=YuekunDai"><img src="./assets/demo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://github.com/ykdai/BasicPBC"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://github.com/ykdai/BasicPBC/tree/main/dataset"><img src="./assets/dataset.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/MarkMoHR/JoSTC"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Haoran Mo, Chengying Gao, Ruomei Wang*\
+[9 Apr., 2024] [SIGGRAPH, 2024]
 
 
 ## Datasets
 
-**Sakuga-42M Dataset: Scaling Up Cartoon Research** \
-*Zhenglin Pan, Yu Zhu, Yuxuan Mu* \
-[13 May., 2024] [arXiv, 2024]
-
+【Dataset】**Sakuga-42M Dataset: Scaling Up Cartoon Research**  &nbsp; | &nbsp;
 <a href="https://arxiv.org/abs/2405.07425"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://zhenglinpan.github.io/Sakuga_42M/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://github.com/zhenglinpan/SakugaDataset"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://huggingface.co/datasets/aidenpan/Sakuga-42M"><img src="./assets/dataset.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://huggingface.co/datasets/aidenpan/Sakuga-42M"><img src="./assets/dataset.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Zhenglin Pan, Yu Zhu, Yuxuan Mu* \
+[13 May., 2024] [arXiv, 2024]
 
-
-**AnimeRun: 2D Animation Visual Correspondence from Open Source 3D Movies** \
-*Li Siyao, Yuhang Li, Bo Li, Chao Dong, Ziwei Liu, Chen Change Loy* \
-[10 Nov., 2022] [NeurIPS, 2022]
-
+**AnimeRun: 2D Animation Visual Correspondence from Open Source 3D Movies** &nbsp; | &nbsp;
 <a href="https://arxiv.org/abs/2211.05709"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://lisiyao21.github.io/projects/AnimeRun"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href=""><img src="./assets/demo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://github.com/lisiyao21/AnimeRun"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://lisiyao21.github.io/projects/AnimeRun"><img src="./assets/dataset.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://lisiyao21.github.io/projects/AnimeRun"><img src="./assets/dataset.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
+*Li Siyao, Yuhang Li, Bo Li, Chao Dong, Ziwei Liu, Chen Change Loy* \
+[10 Nov., 2022] [NeurIPS, 2022]
 
-<a href=""><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href=""><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href=""><img src="./assets/demo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href=""><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href=""><img src="./assets/dataset.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+
 
 
 ## Colorization
 
-**Learning Inclusion Matching for Animation Paint Bucket Colorization** \
-*Yuekun Dai, Shangchen Zhou, Qinyue Li, Chongyi Li, Chen Change Loy*\
-[2024] [CVPR, 2024]
-
+**Learning Inclusion Matching for Animation Paint Bucket Colorization**  &nbsp; | &nbsp;
 <a href="https://arxiv.org/abs/2403.18342"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://ykdai.github.io/projects/InclusionMatching"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://www.youtube.com/watch?v=nNnPUItGvSo&ab_channel=YuekunDai"><img src="./assets/demo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://github.com/ykdai/BasicPBC"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://github.com/ykdai/BasicPBC/tree/main/dataset"><img src="./assets/dataset.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/ykdai/BasicPBC/tree/main/dataset"><img src="./assets/dataset.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
+*Yuekun Dai, Shangchen Zhou, Qinyue Li, Chongyi Li, Chen Change Loy*\
+[2024] [CVPR, 2024]
 
-**Coloring anime line art videos with transformation region enhancement network** \
+**Coloring anime line art videos with transformation region enhancement network** &nbsp; | &nbsp;
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320323002625"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
 *Ning Wang, Muyao Niu, Zhi Dou, Zhihui Wang, Zhiyong Wang, Zhaoyan Ming, Bin Liu, Haojie Li*\
 [Sep., 2023] [Elsevier, 2023] 
 
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320323002625"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-
-
-**SketchBetween: Video-to-Video Synthesis for Sprite Animation via Sketches** \
+**SketchBetween: Video-to-Video Synthesis for Sprite Animation via Sketches** &nbsp; | &nbsp;
+<a href="https://arxiv.org/abs/2209.00185"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/ribombee/SketchBetween"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
 *Dagmar Lukka Loftsdóttir, Matthew Guzdial*\
 [1 Sep., 2022] [ECCV, 2022] 
 
-<a href="https://arxiv.org/abs/2209.00185"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://github.com/ribombee/SketchBetween"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-
-
-**Animation Line Art Colorization Based on Optical Flow Method** \
+**Animation Line Art Colorization Based on Optical Flow Method** &nbsp; | &nbsp;
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202289"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
 *Yifeng Yu, Jiangbo Qian, Chong Wang, Yihong Dong, Baisong Liu*\
 [27 Aug., 2022] [SSNR, 2022] 
 
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202289"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-
-**The Animation Transformer: Visual Correspondence via Segment Matching** \
+**The Animation Transformer: Visual Correspondence via Segment Matching** &nbsp; | &nbsp;
+<a href="https://arxiv.org/abs/2109.02614"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://cadmium.app/"><img src="./assets/demo.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
 *Evan Casey, Víctor Pérez, Zhuoru Li, Harry Teitelman, Nick Boyajian, Tim Pulver, Mike Manh, William Grisaitis*\
 [6 Sep., 2021] [arXiv, 2021]
 
-<a href="https://arxiv.org/abs/2109.02614"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://cadmium.app/"><img src="./assets/demo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-
-
-**Artist-Guided Semiautomatic Animation Colorization** \
+**Artist-Guided Semiautomatic Animation Colorization** &nbsp; | &nbsp;
+<a href="https://arxiv.org/abs/2006.13717"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
 *Harrish Thasarathan, Mehran Ebrahimi* \
 [22 Jun., 2020] [arXiv, 2020]
 
-<a href="https://arxiv.org/abs/2006.13717"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-
-
-**Line Art Correlation Matching Feature Transfer Network for Automatic Animation Colorization** \
+**Line Art Correlation Matching Feature Transfer Network for Automatic Animation Colorization** &nbsp; | &nbsp;
+<a href="https://arxiv.org/abs/2004.06718"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
 *Zhang Qian, Wang Bo, Wen Wei, Li Hai, Liu Jun Hui* \
 [14 Apr., 2020] [arXiv, 2020]
 
-<a href="https://arxiv.org/abs/2004.06718"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-
-
-**Deep Line Art Video Colorization with a Few References** \
+**Deep Line Art Video Colorization with a Few References** &nbsp; | &nbsp;
+<a href="https://arxiv.org/abs/2003.10685"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
 *Min Shi, Jia-Qi Zhang, Shu-Yu Chen, Lin Gao, Yu-Kun Lai, Fang-Lue Zhang* \
 [24 Mar., 2020] [arXiv, 2020]
 
-<a href="https://arxiv.org/abs/2003.10685"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-
-
-**Automatic Temporally Coherent Video Colorization** \
+**Automatic Temporally Coherent Video Colorization** &nbsp; | &nbsp;
+<a href="https://arxiv.org/abs/1904.09527"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/Harry-Thasarathan/TCVC"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
 *Harrish Thasarathan, Kamyar Nazeri, Mehran Ebrahimi*
 
-<a href="https://arxiv.org/abs/1904.09527"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://github.com/Harry-Thasarathan/TCVC"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 
 
 ## Inbetweening & Interpolation
 
-**Joint Stroke Tracing and Correspondence for 2D Animation** \
+**Joint Stroke Tracing and Correspondence for 2D Animation** &nbsp; | &nbsp;
+<a href="https://dl.acm.org/doi/10.1145/3649890"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://markmohr.github.io/JoSTC/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/MarkMoHR/JoSTC"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
 *Haoran Mo, Chengying Gao, Ruomei Wang*\
 [9 Apr., 2024] [SIGGRAPH, 2024]
 
-<a href="https://dl.acm.org/doi/10.1145/3649890"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://markmohr.github.io/JoSTC/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://github.com/MarkMoHR/JoSTC"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-
-**Deep Geometrized Cartoon Line Inbetweening** \
-*Li Siyao, Tianpei Gu, Weiye Xiao, Henghui Ding, Ziwei Liu, Chen Change Loy*\
-[Nov., 2023] [ICCV 2023]
-
+**Deep Geometrized Cartoon Line Inbetweening** &nbsp; | &nbsp;
 <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Siyao_Deep_Geometrized_Cartoon_Line_Inbetweening_ICCV_2023_paper.pdf"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://www.youtube.com/watch?si=9FViAZUyFdSfZzS5&v=iUF-LsqFKpI&feature=youtu.be"><img src="./assets/demo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://github.com/lisiyao21/AnimeInbet"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://drive.google.com/file/d/1SNRGajIECxNwRp6ZJ0IlY7AEl2mRm2DR/view"><img src="./assets/dataset.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://drive.google.com/file/d/1SNRGajIECxNwRp6ZJ0IlY7AEl2mRm2DR/view"><img src="./assets/dataset.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
+*Li Siyao, Tianpei Gu, Weiye Xiao, Henghui Ding, Ziwei Liu, Chen Change Loy*\
+[Nov., 2023] [ICCV 2023]
 
-
-**Exploring inbetween charts with trajectory-guided sliders for cutout animation** \
+**Exploring inbetween charts with trajectory-guided sliders for cutout animation** &nbsp; | &nbsp;
+<a href="https://link.springer.com/article/10.1007/s11042-023-17354-x"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
 *T Fukusato, A Maejima, T Igarashi, T Yotsukura*\
 [1 Sep., 2023] [MTA 2023]
 
-<a href="https://link.springer.com/article/10.1007/s11042-023-17354-x"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-
-
-**Enhanced Deep Animation Video Interpolation** \
+**Enhanced Deep Animation Video Interpolation** &nbsp; | &nbsp;
+<a href="https://arxiv.org/abs/2206.12657"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
 *Wang Shen, Cheng Ming, Wenbo Bao, Guangtao Zhai, Li Chen, Zhiyong Gao*\
 [25 Jun., 2022] [arXiv, 2022]
 
-<a href="https://arxiv.org/abs/2206.12657"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-
-
-**Improving the Perceptual Quality of 2D Animation Interpolation** \
+**Improving the Perceptual Quality of 2D Animation Interpolation** &nbsp; | &nbsp;
+<a href="https://arxiv.org/abs/2111.12792"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
 *Shuhong Chen, Matthias Zwicker*\
 [24 Nov., 2021] [arXiv, 2021] 
 
-<a href="https://arxiv.org/abs/2111.12792"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-
-
-**Deep Animation Video Interpolation in the Wild** \
+**Deep Animation Video Interpolation in the Wild** &nbsp; | &nbsp;
+<a href="https://arxiv.org/abs/2104.02495"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/lisiyao21/AnimeInterp/"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/lisiyao21/AnimeInterp/"><img src="./assets/dataset.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
 *Li Siyao, Shiyu Zhao, Weijiang Yu, Wenxiu Sun, Dimitris N. Metaxas, Chen Change Loy, Ziwei Liu*\
 [6 Apr., 2021] [arXiv, 2021] 
 
-<a href="https://arxiv.org/abs/2104.02495"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://github.com/lisiyao21/AnimeInterp/"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://github.com/lisiyao21/AnimeInterp/"><img src="./assets/dataset.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-
-
-**Deep Sketch-guided Cartoon Video Inbetweening** \
+**Deep Sketch-guided Cartoon Video Inbetweening** &nbsp; | &nbsp;
+<a href="https://arxiv.org/abs/2008.04149"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
 *Xiaoyu Li, Bo Zhang, Jing Liao, Pedro V. Sander*\
 [10 Aug., 2020] [arXiv, 2020]
 
-<a href="https://arxiv.org/abs/2008.04149"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-
-
-**Optical Flow Based Line Drawing Frame Interpolation Using Distance Transform to Support Inbetweenings** \
+**Optical Flow Based Line Drawing Frame Interpolation Using Distance Transform to Support Inbetweenings** &nbsp; | &nbsp;
+<a href="https://ieeexplore.ieee.org/document/8803506"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
 *Rei Narita, Keigo Hirakawa, Kiyoharu Aizawa*\
 [26 Aug., 2019] [IEEE, 2019]
 
-<a href="https://ieeexplore.ieee.org/document/8803506"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-
-
-**DiLight: Digital light table – Inbetweening for 2D animations using guidelines** \
+**DiLight: Digital light table – Inbetweening for 2D animations using guidelines** &nbsp; | &nbsp;
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849317300390"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
 *Leonardo Carvalho, Ricardo Marroquim, Emilio Vital Brazil*\
 [Jun., 2017] [Elsevier, 2017]
 
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849317300390"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 
 
 
 ## Editing
 
-**Re:Draw -- Context Aware Translation as a Controllable Method for Artistic Production** \
+**Re:Draw -- Context Aware Translation as a Controllable Method for Artistic Production** &nbsp; | &nbsp;
+<a href="https://arxiv.org/abs/2401.03499"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
 *Joao Liborio Cardoso, Francesco Banterle, Paolo Cignoni, Michael Wimmer*\
 [Jan., 2024] [*TBA 2024]
 
-<a href="https://arxiv.org/abs/2401.03499"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 
 
-**Sprite-from-Sprite: Cartoon Animation Decomposition with Self-supervised Sprite Estimation** \
+**Sprite-from-Sprite: Cartoon Animation Decomposition with Self-supervised Sprite Estimation** &nbsp; | &nbsp;
+<a href="https://dl.acm.org/doi/pdf/10.1145/3550454.3555439"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://lllyasviel.github.io/GitPageToonDecompose/"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
 *Lvmin Zhang, Tien-Tsin Wong, Yuxin Liu*\
 [Nov., 2022] [ACM 2022] 
 
-<a href="https://dl.acm.org/doi/pdf/10.1145/3550454.3555439"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://lllyasviel.github.io/GitPageToonDecompose/"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 
 
-**Toonsynth: example-based synthesis of hand-colored cartoon animations** \
+**Toonsynth: example-based synthesis of hand-colored cartoon animations** &nbsp; | &nbsp;
+<a href="https://dl.acm.org/doi/abs/10.1145/3197517.3201326"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
 *M Dvorožnák, W Li, VG Kim, D Sýkora*\
 [Jul., 2018] [TOG 2018]
 
-<a href="https://dl.acm.org/doi/abs/10.1145/3197517.3201326"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 
 
 ## Tracking & Matching
 
-**Globally Optimal Toon Tracking** \
+**Globally Optimal Toon Tracking** &nbsp; | &nbsp;
+<a href="https://dl.acm.org/doi/10.1145/2897824.2925872"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
 *Haichao Zhu, Xueting Liu, Tien-Tsin Wong, Pheng-Ann Heng* \
 [11 Jul., 2016] [TOG, 2016]
 
-<a href="https://dl.acm.org/doi/10.1145/2897824.2925872"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 
 
 ## Segmentation
 
-**Stereoscopizing Cel Animations** \
+**Stereoscopizing Cel Animations** &nbsp; | &nbsp;
+<a href="https://dl.acm.org/doi/abs/10.1145/2508363.2508396"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
 *Xueting Liu, Xiangyu Mao, Xuan Yang, Linling Zhang, Tien-Tsin Wong* \
 [11 Jul., 2016] [ACM, 2013]
 
-<a href="https://dl.acm.org/doi/abs/10.1145/2508363.2508396"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 
 
 ## 3D Rotoscoping&Assistance
 
-**Toon3D: Seeing Cartoons from a New Perspective** \
-*Ethan Weber, Riley Peterlinz, Rohan Mathur, Frederik Warburg, Alexei A. Efros, Angjoo Kanazawa* \
-[2024] [Arxiv, 2024]
-
+**Toon3D: Seeing Cartoons from a New Perspective** &nbsp; | &nbsp;
 <a href="https://www.arxiv.org/abs/2405.10320"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://toon3d.studio/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://www.youtube.com/watch?v=tJ7UKALsF-0&feature=youtu.be"><img src="./assets/demo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://github.com/ethanweber/toon3d"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-[🤗](https://huggingface.co/spaces/ethanweber/toon3d) &nbsp;
-
+[🤗](https://huggingface.co/spaces/ethanweber/toon3d) &nbsp;\
+*Ethan Weber, Riley Peterlinz, Rohan Mathur, Frederik Warburg, Alexei A. Efros, Angjoo Kanazawa* \
+[2024] [Arxiv, 2024]
 
 ## How to Contribute
 We encourage animation enthusiasts, researchers, and scholars to contribute to this repository by adding relevant papers, articles, and resources. Your contributions will help build a valuable reference for anyone interested in the art and science of animation.
