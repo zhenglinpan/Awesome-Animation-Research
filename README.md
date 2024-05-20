@@ -49,7 +49,7 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 **Sakuga-42M Dataset: Scaling Up Cartoon Research** \
 *Zhenglin Pan, Yu Zhu, Yuxuan Mu* \
 [13 May., 2024] [arXiv, 2024] \
-[[paper](https://arxiv.org/abs/2405.07425)] | [webpage] | [demo] | [[repo](https://github.com/zhenglinpan/SakugaDataset)] | [[dataset](https://github.com/zhenglinpan/SakugaDataset)]
+[[paper](https://arxiv.org/abs/2405.07425)] | [webpage](https://zhenglinpan.github.io/Sakuga_42M/) | [demo] | [[repo](https://github.com/zhenglinpan/SakugaDataset)] | [[dataset](https://github.com/zhenglinpan/SakugaDataset)]
 
 
 **AnimeRun: 2D Animation Visual Correspondence from Open Source 3D Movies** \
@@ -195,11 +195,13 @@ We encourage animation enthusiasts, researchers, and scholars to contribute to t
 
 To contribute, simply fork this repository, make your additions or improvements, and submit a pull request. Please follow the contribution guidelines outlined in the repository's README file.
 
-<div>
-   <p align="center" style="font-style: italic;">
-      May Animation Get Better With Us.
-   </p>
-   <div style="text-align: center;">
-      <img src="https://github.com/zhenglinpan/Awesome-Animation-Research/blob/master/assets/Hatsune_Miku_@illufinch.png" alt="Twitter©illufinch" title="Image Title" style="display: block; margin: 0 auto;">
-   </div>
+---
+
+<div align="center">
+    <em>May Animation Get Better With Us.</em>
 </div>
+
+<div align="center">
+   <img src="https://github.com/zhenglinpan/Awesome-Animation-Research/blob/master/assets/Hatsune_Miku_@illufinch.png" width="40" >
+</div>
+<p align="center"><sub><i>icon by Twitter</i>©illufinch</sub></p>
