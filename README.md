@@ -28,8 +28,9 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 🚩【Dataset】**Sakuga-42M Dataset: Scaling Up Cartoon Research** \
 *Zhenglin Pan, Yu Zhu, Yuxuan Mu* \
-[13 May., 2024] [arXiv, 2024] \
-[[paper](https://arxiv.org/abs/2405.07425)] | [webpage] | [demo] | [[repo](https://github.com/zhenglinpan/SakugaDataset)] | [[dataset](https://github.com/zhenglinpan/SakugaDataset)]
+[13 May., 2024] [arXiv, 2024]
+
+<a href="https://arxiv.org/abs/2405.07425"><img src="./assets/paper.svg" alt="Icon" width="20" height="20"></a> &nbsp; <a href="https://zhenglinpan.github.io/Sakuga_42M/"><img src="./assets/webpage.svg" alt="Icon" width="20" height="20"> &nbsp; <a href="https://github.com/zhenglinpan/SakugaDataset"><img src="./assets/repo.svg" alt="Icon" width="20" height="20"></a> &nbsp; <a href="https://huggingface.co/datasets/aidenpan/Sakuga-42M"><img src="./assets/dataset.svg" alt="Icon" width="20" height="20"></a> &nbsp;
 
 🚩【Inbetween】 **Joint Stroke Tracing and Correspondence for 2D Animation** \
 *Haoran Mo, Chengying Gao, Ruomei Wang*\
