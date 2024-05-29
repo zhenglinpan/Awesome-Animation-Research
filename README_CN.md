@@ -27,6 +27,13 @@
 ## 新文章
 <!-- [<span style="color:red">*new</span>]  -->
 
+🚩【补帧】 **ToonCrafter: Generative Cartoon Interpolation** &nbsp; | &nbsp;
+<a href="https://arxiv.org/abs/2405.17933"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://doubiiu.github.io/projects/ToonCrafter/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/ToonCrafter/ToonCrafter"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Jinbo Xing, Hanyuan Liu, Menghan Xia, Yong Zhang, Xintao Wang, Ying Shan, Tien-Tsin Wong*\
+[29 May., 2024] [arxiv, 2024]
+
 🚩【3D辅助】**Toon3D: Seeing Cartoons from a New Perspective** &nbsp; | &nbsp;
 <a href="https://www.arxiv.org/abs/2405.10320"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://toon3d.studio/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
@@ -44,12 +51,6 @@
 *Zhenglin Pan, Yu Zhu, Yuxuan Mu* \
 [13 May., 2024] [arXiv, 2024]
 
-🚩【中割】**Joint Stroke Tracing and Correspondence for 2D Animation** &nbsp; | &nbsp;
-<a href="https://dl.acm.org/doi/10.1145/3649890"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://markmohr.github.io/JoSTC/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://github.com/MarkMoHR/JoSTC"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
-*Haoran Mo, Chengying Gao, Ruomei Wang*\
-[9 Apr., 2024] [SIGGRAPH, 2024]
 
 ## 数据集
 
@@ -128,7 +129,14 @@
 
 
 
-## 中割/插帧
+## 中割/补帧
+
+**ToonCrafter: Generative Cartoon Interpolation** &nbsp; | &nbsp;
+<a href="https://arxiv.org/abs/2405.17933"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://doubiiu.github.io/projects/ToonCrafter/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/ToonCrafter/ToonCrafter"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Jinbo Xing, Hanyuan Liu, Menghan Xia, Yong Zhang, Xintao Wang, Ying Shan, Tien-Tsin Wong*\
+[29 May., 2024] [arxiv, 2024]
 
 **Joint Stroke Tracing and Correspondence for 2D Animation** &nbsp; | &nbsp;
 <a href="https://dl.acm.org/doi/10.1145/3649890"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
