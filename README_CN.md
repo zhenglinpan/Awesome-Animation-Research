@@ -44,7 +44,7 @@
 [2024] [Arxiv, 2024]
 
 🚩【数据集】**Sakuga-42M Dataset: Scaling Up Cartoon Research**  &nbsp; | &nbsp;
-<a href="https://arxiv.org/abs/2405.07425"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://drive.google.com/file/d/1aeJqsBw92ebELEpP-oFBo-kcUpBzHm_E/view"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://zhenglinpan.github.io/Sakuga_42M/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://github.com/zhenglinpan/SakugaDataset"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://huggingface.co/datasets/aidenpan/Sakuga-42M"><img src="./assets/dataset.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
@@ -55,7 +55,7 @@
 ## 数据集
 
 【Dataset】**Sakuga-42M Dataset: Scaling Up Cartoon Research**  &nbsp; | &nbsp;
-<a href="https://arxiv.org/abs/2405.07425"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://drive.google.com/file/d/1aeJqsBw92ebELEpP-oFBo-kcUpBzHm_E/view"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://zhenglinpan.github.io/Sakuga_42M/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://github.com/zhenglinpan/SakugaDataset"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://huggingface.co/datasets/aidenpan/Sakuga-42M"><img src="./assets/dataset.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
