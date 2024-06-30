@@ -27,6 +27,13 @@
 ## 新文章
 <!-- [<span style="color:red">*new</span>]  -->
 
+🚩【数据集】**Anita Dataset: An Industrial Animation Dataset**  &nbsp; | &nbsp;
+<a href="https://zhenglinpan.github.io/AnitaDataset_homepage/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/zhenglinpan/AnitaDataset"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://drive.google.com/file/d/1ctfD0sMpT2pVutJUOlyEYKhAxufMYmZ_/view?usp=sharing"><img src="./assets/dataset.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Zhenglin Pan, Yu Zhu* \
+[26 Jun., 2024] [Github Repo, 2024]
+
 🚩【补帧】 **ToonCrafter: Generative Cartoon Interpolation** &nbsp; | &nbsp;
 <a href="https://arxiv.org/abs/2405.17933"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://doubiiu.github.io/projects/ToonCrafter/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
@@ -43,18 +50,17 @@
 *Ethan Weber, Riley Peterlinz, Rohan Mathur, Frederik Warburg, Alexei A. Efros, Angjoo Kanazawa* \
 [2024] [Arxiv, 2024]
 
-🚩【数据集】**Sakuga-42M Dataset: Scaling Up Cartoon Research**  &nbsp; | &nbsp;
-<a href="https://drive.google.com/file/d/1aeJqsBw92ebELEpP-oFBo-kcUpBzHm_E/view"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://zhenglinpan.github.io/Sakuga_42M/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://github.com/zhenglinpan/SakugaDataset"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://huggingface.co/datasets/aidenpan/Sakuga-42M"><img src="./assets/dataset.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
-*Zhenglin Pan, Yu Zhu, Yuxuan Mu* \
-[13 May., 2024] [arXiv, 2024]
-
 
 ## 数据集
 
-【Dataset】**Sakuga-42M Dataset: Scaling Up Cartoon Research**  &nbsp; | &nbsp;
+**Anita Dataset: An Industrial Animation Dataset**  &nbsp; | &nbsp;
+<a href="https://zhenglinpan.github.io/AnitaDataset_homepage/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/zhenglinpan/AnitaDataset"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://drive.google.com/file/d/1ctfD0sMpT2pVutJUOlyEYKhAxufMYmZ_/view?usp=sharing"><img src="./assets/dataset.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Zhenglin Pan, Yu Zhu* \
+[26 Jun., 2024] [Github Repo, 2024]
+
+**Sakuga-42M Dataset: Scaling Up Cartoon Research**  &nbsp; | &nbsp;
 <a href="https://drive.google.com/file/d/1aeJqsBw92ebELEpP-oFBo-kcUpBzHm_E/view"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://zhenglinpan.github.io/Sakuga_42M/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://github.com/zhenglinpan/SakugaDataset"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
