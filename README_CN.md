@@ -27,6 +27,11 @@
 ## 新文章
 <!-- [<span style="color:red">*new</span>]  -->
 
+🚩【上色】**Continual few-shot patch-based learning for anime-style colorization**  &nbsp; | &nbsp;
+<a href="https://link.springer.com/article/10.1007/s41095-024-0414-4"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Akinobu Maejima, Seitaro Shinagawa, Hiroyuki Kubo, Takuya Funatomi, Tatsuo Yotsukura, Satoshi Nakamura & Yasuhiro Mukaigawa* \
+[09 Jul., 2024] [CVM, 2024]
+
 🚩【数据集】**Anita Dataset: An Industrial Animation Dataset**  &nbsp; | &nbsp;
 <a href="https://zhenglinpan.github.io/AnitaDataset_homepage/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://github.com/zhenglinpan/AnitaDataset"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
@@ -41,14 +46,6 @@
 *Jinbo Xing, Hanyuan Liu, Menghan Xia, Yong Zhang, Xintao Wang, Ying Shan, Tien-Tsin Wong*\
 [29 May., 2024] [arxiv, 2024]
 
-🚩【3D辅助】**Toon3D: Seeing Cartoons from a New Perspective** &nbsp; | &nbsp;
-<a href="https://www.arxiv.org/abs/2405.10320"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://toon3d.studio/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://www.youtube.com/watch?v=tJ7UKALsF-0&feature=youtu.be"><img src="./assets/demo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://github.com/ethanweber/toon3d"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-[🤗](https://huggingface.co/spaces/ethanweber/toon3d) &nbsp; \
-*Ethan Weber, Riley Peterlinz, Rohan Mathur, Frederik Warburg, Alexei A. Efros, Angjoo Kanazawa* \
-[2024] [Arxiv, 2024]
 
 
 ## 数据集
@@ -79,6 +76,11 @@
 
 
 ## 上色
+
+**Continual few-shot patch-based learning for anime-style colorization**  &nbsp; | &nbsp;
+<a href="https://link.springer.com/article/10.1007/s41095-024-0414-4"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Akinobu Maejima, Seitaro Shinagawa, Hiroyuki Kubo, Takuya Funatomi, Tatsuo Yotsukura, Satoshi Nakamura & Yasuhiro Mukaigawa* \
+[09 Jul., 2024] [CVM, 2024]
 
 **Learning Inclusion Matching for Animation Paint Bucket Colorization**  &nbsp; | &nbsp;
 <a href="https://arxiv.org/abs/2403.18342"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
