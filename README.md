@@ -17,7 +17,7 @@ This repository provides a curated collection of dataset, research, and resource
 
 ****
 
-🙇‍♀️Creating animation is time-consuming and often involves manual work. AI tools are changing this landscape. Researchers are coping with animation-specific challenges like inbetweening and frame-to-frame color propagation. 
+🙇‍♀️Creating animation is time-consuming and often involves arduour manual work. AI tools are changing this landscape. Researchers are coping with animation-specific challenges like inbetweening and frame-to-frame color propagation. 
 
 ![img2](./assets/ppl_en.png)
 
