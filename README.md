@@ -19,6 +19,8 @@ This repository provides a curated collection of dataset, research, and resource
 
 🙇‍♀️Creating animation is time-consuming and often involves manual work. AI tools are changing this landscape. Researchers are tackling animation-specific challenges like inbetweening and frame-to-frame color propagation. 
 
+![img2](./assets/ppl_en.png)
+
 You might notice the repo's list is currently short. Animation research is a relatively new and niche area, and we look forward to more researchers, including you, contributing to its growth.
 
 The repo will keep track of the latest research. Feel free to follow and star ! 🌟
