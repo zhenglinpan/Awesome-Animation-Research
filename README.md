@@ -17,11 +17,11 @@ This repository provides a curated collection of dataset, research, and resource
 
 ****
 
-🙇‍♀️Creating animation is time-consuming and often involves manual work. AI tools are changing this landscape. Researchers are tackling animation-specific challenges like inbetweening and frame-to-frame color propagation. 
+🙇‍♀️Creating animation is time-consuming and often involves manual work. AI tools are changing this landscape. Researchers are coping with animation-specific challenges like inbetweening and frame-to-frame color propagation. 
 
 ![img2](./assets/ppl_en.png)
 
-You might notice the repo's list is currently short. Animation research is a relatively new and niche area, and we look forward to more researchers, including you, contributing to its growth.
+Cartoon research is new, niche, interesting, and we look forward to more researchers, including you, contributing to it.
 
 The repo will keep track of the latest research. Feel free to follow and star ! 🌟
 
@@ -50,14 +50,14 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 ## Datasets
 
-【Dataset】**Anita Dataset: An Industrial Animation Dataset**  &nbsp; | &nbsp;
+**Anita Dataset: An Industrial Animation Dataset**  &nbsp; | &nbsp;
 <a href="https://zhenglinpan.github.io/AnitaDataset_homepage/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://github.com/zhenglinpan/AnitaDataset"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://drive.google.com/file/d/1ctfD0sMpT2pVutJUOlyEYKhAxufMYmZ_/view?usp=sharing"><img src="./assets/dataset.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
 *Zhenglin Pan, Yu Zhu* \
 [26 Jun., 2024] [Github Repo, 2024]
 
-【Dataset】**Sakuga-42M Dataset: Scaling Up Cartoon Research**  &nbsp; | &nbsp;
+**Sakuga-42M Dataset: Scaling Up Cartoon Research**  &nbsp; | &nbsp;
 <a href="https://drive.google.com/file/d/1aeJqsBw92ebELEpP-oFBo-kcUpBzHm_E/view"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://zhenglinpan.github.io/Sakuga_42M/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://github.com/zhenglinpan/SakugaDataset"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
