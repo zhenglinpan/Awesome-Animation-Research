@@ -26,6 +26,12 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 ## New Papers
 <!-- [<span style="color:red">*new</span>]  -->
 
+🚩【Interpolation】 **Thin-Plate Spline-based Interpolation for Animation Line Inbetweening** &nbsp; | &nbsp;
+<a href="https://arxiv.org/abs/2408.09131"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/Tian-one/tps-inbetween"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Jinbo Xing, Hanyuan Liu, Menghan Xia, Yong Zhang, Xintao Wang, Ying Shan, Tien-Tsin Wong*\
+[Aug 17., 2024] [arxiv, 2024]
+
 🚩【Colorization】**Continual few-shot patch-based learning for anime-style colorization**  &nbsp; | &nbsp;
 <a href="https://link.springer.com/article/10.1007/s41095-024-0414-4"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
 *Akinobu Maejima, Seitaro Shinagawa, Hiroyuki Kubo, Takuya Funatomi, Tatsuo Yotsukura, Satoshi Nakamura & Yasuhiro Mukaigawa* \
@@ -37,13 +43,6 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 <a href="https://drive.google.com/file/d/1ctfD0sMpT2pVutJUOlyEYKhAxufMYmZ_/view?usp=sharing"><img src="./assets/dataset.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
 *Zhenglin Pan, Yu Zhu* \
 [26 Jun., 2024] [Github Repo, 2024]
-
-🚩【Interpolation】 **ToonCrafter: Generative Cartoon Interpolation** &nbsp; | &nbsp;
-<a href="https://arxiv.org/abs/2405.17933"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://doubiiu.github.io/projects/ToonCrafter/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://github.com/ToonCrafter/ToonCrafter"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
-*Jinbo Xing, Hanyuan Liu, Menghan Xia, Yong Zhang, Xintao Wang, Ying Shan, Tien-Tsin Wong*\
-[29 May., 2024] [arxiv, 2024]
 
 
 ## Datasets
@@ -136,6 +135,12 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 
 ## Inbetweening & Interpolation
+
+**Thin-Plate Spline-based Interpolation for Animation Line Inbetweening** &nbsp; | &nbsp;
+<a href="https://arxiv.org/abs/2408.09131"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/Tian-one/tps-inbetween"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Jinbo Xing, Hanyuan Liu, Menghan Xia, Yong Zhang, Xintao Wang, Ying Shan, Tien-Tsin Wong*\
+[Aug 17., 2024] [arxiv, 2024]
 
 **ToonCrafter: Generative Cartoon Interpolation** &nbsp; | &nbsp;
 <a href="https://arxiv.org/abs/2405.17933"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
