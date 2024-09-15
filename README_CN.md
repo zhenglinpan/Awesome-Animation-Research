@@ -27,7 +27,7 @@
 ## 新文章
 <!-- [<span style="color:red">*new</span>]  -->
 
-🚩【插帧】 **Thin-Plate Spline-based Interpolation for Animation Line Inbetweening** &nbsp; | &nbsp;
+🚩【补帧】 **Thin-Plate Spline-based Interpolation for Animation Line Inbetweening** &nbsp; | &nbsp;
 <a href="https://arxiv.org/abs/2408.09131"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://github.com/Tian-one/tps-inbetween"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
 *Tianyi Zhu, Wei Shang, Dongwei Ren, Wangmeng Zuo*\
@@ -136,6 +136,12 @@
 
 
 ## 中割/补帧
+
+**Thin-Plate Spline-based Interpolation for Animation Line Inbetweening** &nbsp; | &nbsp;
+<a href="https://arxiv.org/abs/2408.09131"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/Tian-one/tps-inbetween"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Tianyi Zhu, Wei Shang, Dongwei Ren, Wangmeng Zuo*\
+[Aug 17., 2024] [arxiv, 2024]
 
 **ToonCrafter: Generative Cartoon Interpolation** &nbsp; | &nbsp;
 <a href="https://arxiv.org/abs/2405.17933"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
