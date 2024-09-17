@@ -26,23 +26,23 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 ## New Papers
 <!-- [<span style="color:red">*new</span>]  -->
 
+🚩【3D】**DrawingSpinUp: 3D Animation from Single Character Drawings** &nbsp; | &nbsp;
+<a href="https://arxiv.org/abs/2409.08615"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://lordliang.github.io/DrawingSpinUp/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/LordLiang/DrawingSpinUp"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Jie Zhou, Chufeng Xiao, Miu-Ling Lam, Hongbo Fu* \
+[13 Sep. 2024] [arXiv, 2024]
+
 🚩【Interpolation】 **Thin-Plate Spline-based Interpolation for Animation Line Inbetweening** &nbsp; | &nbsp;
 <a href="https://arxiv.org/abs/2408.09131"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://github.com/Tian-one/tps-inbetween"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
 *Tianyi Zhu, Wei Shang, Dongwei Ren, Wangmeng Zuo*\
-[Aug 17., 2024] [arxiv, 2024]
+[17 Aug., 2024] [arXiv, 2024]
 
 🚩【Colorization】**Continual few-shot patch-based learning for anime-style colorization**  &nbsp; | &nbsp;
 <a href="https://link.springer.com/article/10.1007/s41095-024-0414-4"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
 *Akinobu Maejima, Seitaro Shinagawa, Hiroyuki Kubo, Takuya Funatomi, Tatsuo Yotsukura, Satoshi Nakamura & Yasuhiro Mukaigawa* \
 [09 Jul., 2024] [CVM, 2024]
-
-🚩【Dataset】**Anita Dataset: An Industrial Animation Dataset**  &nbsp; | &nbsp;
-<a href="https://zhenglinpan.github.io/AnitaDataset_homepage/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://github.com/zhenglinpan/AnitaDataset"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://drive.google.com/file/d/1ctfD0sMpT2pVutJUOlyEYKhAxufMYmZ_/view?usp=sharing"><img src="./assets/dataset.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
-*Zhenglin Pan, Yu Zhu* \
-[26 Jun., 2024] [Github Repo, 2024]
 
 
 ## Datasets
@@ -140,7 +140,7 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 <a href="https://arxiv.org/abs/2408.09131"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://github.com/Tian-one/tps-inbetween"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
 *Tianyi Zhu, Wei Shang, Dongwei Ren, Wangmeng Zuo*\
-[Aug 17., 2024] [arxiv, 2024]
+[17 Aug., 2024] [arXiv, 2024]
 
 **ToonCrafter: Generative Cartoon Interpolation** &nbsp; | &nbsp;
 <a href="https://arxiv.org/abs/2405.17933"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
@@ -246,7 +246,15 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 
 
-## 3D Rotoscoping&Assistance
+## 3D&3DRotoscoping&3D Assistance
+
+**DrawingSpinUp: 3D Animation from Single Character Drawings** &nbsp; | &nbsp;
+<a href="https://arxiv.org/abs/2409.08615"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://lordliang.github.io/DrawingSpinUp/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/LordLiang/DrawingSpinUp"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+[🤗](https://huggingface.co/spaces/ethanweber/toon3d) &nbsp;\
+*Jie Zhou, Chufeng Xiao, Miu-Ling Lam, Hongbo Fu* \
+[13 Sep. 2024] [arXiv, 2024]
 
 **Toon3D: Seeing Cartoons from a New Perspective** &nbsp; | &nbsp;
 <a href="https://www.arxiv.org/abs/2405.10320"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
