@@ -27,6 +27,12 @@
 ## 新文章
 <!-- [<span style="color:red">*new</span>]  -->
 
+🚩【补帧】 **Skeleton-Driven Inbetweening of Bitmap Character Drawings** &nbsp; | &nbsp;
+<a href="https://www-labs.iro.umontreal.ca/~bmpix/inbetweening/inbetweening.pdf"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://www-labs.iro.umontreal.ca/~bmpix/inbetweening/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
+*Kirill Brodt, Mikhail Bessmeltsev*\
+[2024] [SIGGRAPH ASIA, 2024]
+
 🚩【上色】**LVCD: Reference-based Lineart Video Colorization with Diffusion Models**  &nbsp; | &nbsp;
 <a href="https://arxiv.org/abs/2409.12960"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
 <a href="https://luckyhzt.github.io/lvcd"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
@@ -40,11 +46,6 @@
 *Jie Zhou, Chufeng Xiao, Miu-Ling Lam, Hongbo Fu* \
 [13 Sep. 2024] [arXiv, 2024]
 
-🚩【补帧】 **Thin-Plate Spline-based Interpolation for Animation Line Inbetweening** &nbsp; | &nbsp;
-<a href="https://arxiv.org/abs/2408.09131"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://github.com/Tian-one/tps-inbetween"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
-*Tianyi Zhu, Wei Shang, Dongwei Ren, Wangmeng Zuo*\
-[17 Aug., 2024] [arXiv, 2024]
 
 
 ## 数据集
@@ -143,6 +144,12 @@
 
 
 ## 中割/补帧
+
+**Skeleton-Driven Inbetweening of Bitmap Character Drawings** &nbsp; | &nbsp;
+<a href="https://www-labs.iro.umontreal.ca/~bmpix/inbetweening/inbetweening.pdf"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://www-labs.iro.umontreal.ca/~bmpix/inbetweening/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
+*Kirill Brodt, Mikhail Bessmeltsev*\
+[2024] [SIGGRAPH ASIA, 2024]
 
 **Thin-Plate Spline-based Interpolation for Animation Line Inbetweening** &nbsp; | &nbsp;
 <a href="https://arxiv.org/abs/2408.09131"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
