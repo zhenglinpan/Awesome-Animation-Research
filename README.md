@@ -26,6 +26,12 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 ## New Papers
 <!-- [<span style="color:red">*new</span>]  -->
 
+🚩【Inbetweening】 **Skeleton-Driven Inbetweening of Bitmap Character Drawings** &nbsp; | &nbsp;
+<a href="https://www-labs.iro.umontreal.ca/~bmpix/inbetweening/inbetweening.pdf"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://www-labs.iro.umontreal.ca/~bmpix/inbetweening/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
+*Kirill Brodt, Mikhail Bessmeltsev*\
+[2024] [SIGGRAPH ASIA, 2024]
+
 🚩【Colorization】**LVCD: Reference-based Lineart Video Colorization with Diffusion Models**  &nbsp; | &nbsp;
 <a href="https://arxiv.org/abs/2409.12960"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
 <a href="https://luckyhzt.github.io/lvcd"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
@@ -39,11 +45,7 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 *Jie Zhou, Chufeng Xiao, Miu-Ling Lam, Hongbo Fu* \
 [13 Sep. 2024] [arXiv, 2024]
 
-🚩【Interpolation】 **Thin-Plate Spline-based Interpolation for Animation Line Inbetweening** &nbsp; | &nbsp;
-<a href="https://arxiv.org/abs/2408.09131"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://github.com/Tian-one/tps-inbetween"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
-*Tianyi Zhu, Wei Shang, Dongwei Ren, Wangmeng Zuo*\
-[17 Aug., 2024] [arXiv, 2024]
+
 
 
 ## Datasets
@@ -142,6 +144,12 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 
 ## Inbetweening & Interpolation
+
+**Skeleton-Driven Inbetweening of Bitmap Character Drawings** &nbsp; | &nbsp;
+<a href="https://www-labs.iro.umontreal.ca/~bmpix/inbetweening/inbetweening.pdf"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://www-labs.iro.umontreal.ca/~bmpix/inbetweening/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
+*Kirill Brodt, Mikhail Bessmeltsev*\
+[2024] [SIGGRAPH ASIA, 2024]
 
 **Thin-Plate Spline-based Interpolation for Animation Line Inbetweening** &nbsp; | &nbsp;
 <a href="https://arxiv.org/abs/2408.09131"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
