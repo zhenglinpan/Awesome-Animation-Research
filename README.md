@@ -26,6 +26,12 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 ## New Papers
 <!-- [<span style="color:red">*new</span>]  -->
 
+🚩【Generation】 **MikuDance: Animating Character Art with Mixed Motion Dynamics** &nbsp; | &nbsp;
+<a href="https://arxiv.org/abs/2411.08656"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://kebii.github.io/MikuDance/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
+*Jiaxu Zhang, Xianfang Zeng, Xin Chen, Wei Zuo, Gang Yu, Zhigang Tu*\
+[Nov.,2024] [arXiv, 2024]
+
 🚩【Inbetweening】 **Skeleton-Driven Inbetweening of Bitmap Character Drawings** &nbsp; | &nbsp;
 <a href="https://www-labs.iro.umontreal.ca/~bmpix/inbetweening/inbetweening.pdf"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://www-labs.iro.umontreal.ca/~bmpix/inbetweening/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
@@ -38,17 +44,12 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 *Zhitong Huang, Mohan Zhang, Jing Liao* \
 [19 Sep. 2024] [arXiv, 2024]
 
-🚩【3D】**DrawingSpinUp: 3D Animation from Single Character Drawings** &nbsp; | &nbsp;
-<a href="https://arxiv.org/abs/2409.08615"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://lordliang.github.io/DrawingSpinUp/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://github.com/LordLiang/DrawingSpinUp"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
-*Jie Zhou, Chufeng Xiao, Miu-Ling Lam, Hongbo Fu* \
-[13 Sep. 2024] [arXiv, 2024]
 
 
-
+---
 
 ## Datasets
+
 
 **Anita Dataset: An Industrial Animation Dataset**  &nbsp; | &nbsp;
 <a href="https://zhenglinpan.github.io/AnitaDataset_homepage/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
@@ -226,15 +227,11 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 *Joao Liborio Cardoso, Francesco Banterle, Paolo Cignoni, Michael Wimmer*\
 [Jan., 2024] [*TBA 2024]
 
-
-
 **Sprite-from-Sprite: Cartoon Animation Decomposition with Self-supervised Sprite Estimation** &nbsp; | &nbsp;
 <a href="https://dl.acm.org/doi/pdf/10.1145/3550454.3555439"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://lllyasviel.github.io/GitPageToonDecompose/"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
 *Lvmin Zhang, Tien-Tsin Wong, Yuxin Liu*\
 [Nov., 2022] [ACM 2022] 
-
-
 
 **Toonsynth: example-based synthesis of hand-colored cartoon animations** &nbsp; | &nbsp;
 <a href="https://dl.acm.org/doi/abs/10.1145/3197517.3201326"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
@@ -279,6 +276,19 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 [🤗](https://huggingface.co/spaces/ethanweber/toon3d) &nbsp;\
 *Ethan Weber, Riley Peterlinz, Rohan Mathur, Frederik Warburg, Alexei A. Efros, Angjoo Kanazawa* \
 [2024] [Arxiv, 2024]
+
+
+
+
+## Generative Methods
+
+**MikuDance: Animating Character Art with Mixed Motion Dynamics** &nbsp; | &nbsp;
+<a href="https://arxiv.org/abs/2411.08656"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://kebii.github.io/MikuDance/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
+*Jiaxu Zhang, Xianfang Zeng, Xin Chen, Wei Zuo, Gang Yu, Zhigang Tu*\
+[Nov.,2024] [arXiv, 2024]
+
+
 
 ## How to Contribute
 We encourage animation enthusiasts, researchers, and scholars to contribute to this repository by adding relevant papers, articles, and resources. Your contributions will help build a valuable reference for anyone interested in the art and science of animation.
