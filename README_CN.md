@@ -27,6 +27,12 @@
 ## 新文章
 <!-- [<span style="color:red">*new</span>]  -->
 
+🚩【生成】 **MikuDance: Animating Character Art with Mixed Motion Dynamics** &nbsp; | &nbsp;
+<a href="https://arxiv.org/abs/2411.08656"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://kebii.github.io/MikuDance/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
+*Jiaxu Zhang, Xianfang Zeng, Xin Chen, Wei Zuo, Gang Yu, Zhigang Tu*\
+[Nov.,2024] [arXiv, 2024]
+
 🚩【补帧】 **Skeleton-Driven Inbetweening of Bitmap Character Drawings** &nbsp; | &nbsp;
 <a href="https://www-labs.iro.umontreal.ca/~bmpix/inbetweening/inbetweening.pdf"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://www-labs.iro.umontreal.ca/~bmpix/inbetweening/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
@@ -38,13 +44,6 @@
 <a href="https://luckyhzt.github.io/lvcd"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
 *Zhitong Huang, Mohan Zhang, Jing Liao* \
 [19 Sep. 2024] [arXiv, 2024]
-
-🚩【3D】**DrawingSpinUp: 3D Animation from Single Character Drawings** &nbsp; | &nbsp;
-<a href="https://arxiv.org/abs/2409.08615"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://lordliang.github.io/DrawingSpinUp/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://github.com/LordLiang/DrawingSpinUp"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
-*Jie Zhou, Chufeng Xiao, Miu-Ling Lam, Hongbo Fu* \
-[13 Sep. 2024] [arXiv, 2024]
 
 
 
@@ -268,6 +267,16 @@
 [🤗](https://huggingface.co/spaces/ethanweber/toon3d) &nbsp;\
 *Ethan Weber, Riley Peterlinz, Rohan Mathur, Frederik Warburg, Alexei A. Efros, Angjoo Kanazawa* \
 [2024] [Arxiv, 2024]
+
+
+
+## 生成模型
+
+**MikuDance: Animating Character Art with Mixed Motion Dynamics** &nbsp; | &nbsp;
+<a href="https://arxiv.org/abs/2411.08656"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://kebii.github.io/MikuDance/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
+*Jiaxu Zhang, Xianfang Zeng, Xin Chen, Wei Zuo, Gang Yu, Zhigang Tu*\
+[Nov.,2024] [arXiv, 2024]
 
 ## 如何Contribute 
 我们鼓励动画爱好者、研究者通过添加相关论文、文章和各类资源的形式为本资料库做出贡献。您的贡献将有助于为任何对动画研究感兴趣的人提供有价值的参考。
