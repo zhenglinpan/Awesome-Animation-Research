@@ -27,6 +27,13 @@
 ## 新文章
 <!-- [<span style="color:red">*new</span>]  -->
 
+🚩【上色】 **Paint Bucket Colorization Using Anime Character Color Design Sheets** &nbsp; | &nbsp;
+<a href="https://arxiv.org/abs/2410.19424"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/ykdai/BasicPBC"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/ykdai/BasicPBC/tree/main/dataset"><img src="./assets/dataset.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
+*Yuekun Dai, Qinyue Li, Shangchen Zhou, Yihang Luo, Chongyi Li, Chen Change Loy*\
+[Oct.,2024] [arXiv, 2024]
+
 🚩【生成】 **MikuDance: Animating Character Art with Mixed Motion Dynamics** &nbsp; | &nbsp;
 <a href="https://arxiv.org/abs/2411.08656"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://kebii.github.io/MikuDance/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
@@ -38,12 +45,6 @@
 <a href="https://www-labs.iro.umontreal.ca/~bmpix/inbetweening/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
 *Kirill Brodt, Mikhail Bessmeltsev*\
 [2024] [SIGGRAPH ASIA, 2024]
-
-🚩【上色】**LVCD: Reference-based Lineart Video Colorization with Diffusion Models**  &nbsp; | &nbsp;
-<a href="https://arxiv.org/abs/2409.12960"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
-<a href="https://luckyhzt.github.io/lvcd"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
-*Zhitong Huang, Mohan Zhang, Jing Liao* \
-[19 Sep. 2024] [arXiv, 2024]
 
 
 
@@ -75,6 +76,13 @@
 
 
 ## 上色
+
+**Paint Bucket Colorization Using Anime Character Color Design Sheets** &nbsp; | &nbsp;
+<a href="https://arxiv.org/abs/2410.19424"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/ykdai/BasicPBC"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/ykdai/BasicPBC/tree/main/dataset"><img src="./assets/dataset.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
+*Yuekun Dai, Qinyue Li, Shangchen Zhou, Yihang Luo, Chongyi Li, Chen Change Loy*\
+[Oct.,2024] [arXiv, 2024]
 
 **LVCD: Reference-based Lineart Video Colorization with Diffusion Models**  &nbsp; | &nbsp;
 <a href="https://arxiv.org/abs/2409.12960"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
