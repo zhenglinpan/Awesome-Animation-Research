@@ -27,6 +27,11 @@
 ## 新文章
 <!-- [<span style="color:red">*new</span>]  -->
 
+🚩【分割】 **Fast Leak-Resistant Segmentation for Anime Line Art** &nbsp; | &nbsp;
+<a href="https://dl.acm.org/doi/full/10.1145/3681758.3698003"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
+*Benjamin Allen, Akinobu Maejima, Ken Anjyo*\
+[Nov.,2024] [SIGGRAPH, 2024]
+
 🚩【上色】 **Paint Bucket Colorization Using Anime Character Color Design Sheets** &nbsp; | &nbsp;
 <a href="https://arxiv.org/abs/2410.19424"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://github.com/ykdai/BasicPBC"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
@@ -40,11 +45,6 @@
 *Jiaxu Zhang, Xianfang Zeng, Xin Chen, Wei Zuo, Gang Yu, Zhigang Tu*\
 [Nov.,2024] [arXiv, 2024]
 
-🚩【补帧】 **Skeleton-Driven Inbetweening of Bitmap Character Drawings** &nbsp; | &nbsp;
-<a href="https://www-labs.iro.umontreal.ca/~bmpix/inbetweening/inbetweening.pdf"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://www-labs.iro.umontreal.ca/~bmpix/inbetweening/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
-*Kirill Brodt, Mikhail Bessmeltsev*\
-[2024] [SIGGRAPH ASIA, 2024]
 
 
 
@@ -252,6 +252,11 @@
 
 
 ## 分割
+
+**Fast Leak-Resistant Segmentation for Anime Line Art** &nbsp; | &nbsp;
+<a href="https://dl.acm.org/doi/full/10.1145/3681758.3698003"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
+*Benjamin Allen, Akinobu Maejima, Ken Anjyo*\
+[Nov.,2024] [SIGGRAPH, 2024]
 
 **Stereoscopizing Cel Animations** &nbsp; | &nbsp;
 <a href="https://dl.acm.org/doi/abs/10.1145/2508363.2508396"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
