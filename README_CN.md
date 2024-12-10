@@ -27,6 +27,13 @@
 ## 新文章
 <!-- [<span style="color:red">*new</span>]  -->
 
+🚩【中割】 **Bridging the Gap: Sketch-Aware Interpolation Network for High-Quality Animation Sketch Inbetweening** &nbsp; | &nbsp; \
+<a href="https://arxiv.org/abs/2308.13273"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/none-master/SAIN"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://drive.google.com/file/d/1vyu_ePFN9sFjqxc-sPdSWuSCLnWFVUT7/view"><img src="./assets/dataset.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
+*Jiaming Shen, Kun Hu, Wei Bao, Chang Wen Chen, Zhiyong Wang*\
+[Aug., 2024] [ACMMM 2024]
+
 🚩【分割】 **Fast Leak-Resistant Segmentation for Anime Line Art** &nbsp; | &nbsp;
 <a href="https://dl.acm.org/doi/full/10.1145/3681758.3698003"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
 *Benjamin Allen, Akinobu Maejima, Ken Anjyo*\
@@ -39,11 +46,6 @@
 *Yuekun Dai, Qinyue Li, Shangchen Zhou, Yihang Luo, Chongyi Li, Chen Change Loy*\
 [Oct.,2024] [arXiv, 2024]
 
-🚩【生成】 **MikuDance: Animating Character Art with Mixed Motion Dynamics** &nbsp; | &nbsp;
-<a href="https://arxiv.org/abs/2411.08656"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://kebii.github.io/MikuDance/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
-*Jiaxu Zhang, Xianfang Zeng, Xin Chen, Wei Zuo, Gang Yu, Zhigang Tu*\
-[Nov.,2024] [arXiv, 2024]
 
 
 
@@ -157,6 +159,13 @@
 <a href="https://www-labs.iro.umontreal.ca/~bmpix/inbetweening/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
 *Kirill Brodt, Mikhail Bessmeltsev*\
 [2024] [SIGGRAPH ASIA, 2024]
+
+**Bridging the Gap: Sketch-Aware Interpolation Network for High-Quality Animation Sketch Inbetweening** &nbsp; | &nbsp; \
+<a href="https://arxiv.org/abs/2308.13273"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/none-master/SAIN"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://drive.google.com/file/d/1vyu_ePFN9sFjqxc-sPdSWuSCLnWFVUT7/view"><img src="./assets/dataset.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
+*Jiaming Shen, Kun Hu, Wei Bao, Chang Wen Chen, Zhiyong Wang*\
+[Aug., 2024] [ACMMM 2024]
 
 **Thin-Plate Spline-based Interpolation for Animation Line Inbetweening** &nbsp; | &nbsp;
 <a href="https://arxiv.org/abs/2408.09131"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
