@@ -27,6 +27,21 @@
 ## 新文章
 <!-- [<span style="color:red">*new</span>]  -->
 
+🚩【上色】 **AniDoc: Animation Creation Made Easier** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/pdf/2412.14173"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/yihao-meng/AniDoc"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://yihao-meng.github.io/AniDoc_demo/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
+*Yihao Meng, Hao Ouyang, Hanlin Wang, Qiuyu Wang, Wen Wang, Ka Leong Cheng, Zhiheng Liu, Yujun Shen, Huamin Qu*\
+[Dec., 2024] [arXiv 2024]
+
+
+🚩【综述】 **AniSora: Exploring the Frontiers of Animation Video Generation in the Sora Era** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/pdf/2412.10255"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/bilibili/Index-anisora"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Yudong Jiang, Baohan Xu, Siqian Yang, Mingyu Yin, Jing Liu, Chao Xu, Siqi Wang, Yidi Wu, Bingwen Zhu, Qi Sen, Xingyu Zheng, Jixuan Xu, Yue Zhang, Jinlong Hou, Huyang Sun*\
+[Dec., 2024] [arXiv 2024]
+
+
 🚩【中割】 **Bridging the Gap: Sketch-Aware Interpolation Network for High-Quality Animation Sketch Inbetweening** &nbsp; | &nbsp; \
 <a href="https://arxiv.org/abs/2308.13273"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://github.com/none-master/SAIN"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
@@ -34,20 +49,15 @@
 *Jiaming Shen, Kun Hu, Wei Bao, Chang Wen Chen, Zhiyong Wang*\
 [Aug., 2024] [ACMMM 2024]
 
-🚩【分割】 **Fast Leak-Resistant Segmentation for Anime Line Art** &nbsp; | &nbsp;
-<a href="https://dl.acm.org/doi/full/10.1145/3681758.3698003"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
-*Benjamin Allen, Akinobu Maejima, Ken Anjyo*\
-[Nov.,2024] [SIGGRAPH, 2024]
 
-🚩【上色】 **Paint Bucket Colorization Using Anime Character Color Design Sheets** &nbsp; | &nbsp;
-<a href="https://arxiv.org/abs/2410.19424"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://github.com/ykdai/BasicPBC"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://github.com/ykdai/BasicPBC/tree/main/dataset"><img src="./assets/dataset.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
-*Yuekun Dai, Qinyue Li, Shangchen Zhou, Yihang Luo, Chongyi Li, Chen Change Loy*\
-[Oct.,2024] [arXiv, 2024]
+## 综述
 
 
-
+**AniSora: Exploring the Frontiers of Animation Video Generation in the Sora Era** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/pdf/2412.10255"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/bilibili/Index-anisora"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Yudong Jiang, Baohan Xu, Siqian Yang, Mingyu Yin, Jing Liu, Chao Xu, Siqi Wang, Yidi Wu, Bingwen Zhu, Qi Sen, Xingyu Zheng, Jixuan Xu, Yue Zhang, Jinlong Hou, Huyang Sun*\
+[Dec., 2024] [arXiv 2024]
 
 
 ## 数据集
@@ -78,6 +88,13 @@
 
 
 ## 上色
+
+【上色】 **AniDoc: Animation Creation Made Easier** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/pdf/2412.14173"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/yihao-meng/AniDoc"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://yihao-meng.github.io/AniDoc_demo/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
+*Yihao Meng, Hao Ouyang, Hanlin Wang, Qiuyu Wang, Wen Wang, Ka Leong Cheng, Zhiheng Liu, Yujun Shen, Huamin Qu*\
+[Dec., 2024] [arXiv 2024]
 
 **Paint Bucket Colorization Using Anime Character Color Design Sheets** &nbsp; | &nbsp;
 <a href="https://arxiv.org/abs/2410.19424"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
