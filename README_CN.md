@@ -35,7 +35,7 @@
 [Dec., 2024] [arXiv 2024]
 
 
-🚩【综述】 **AniSora: Exploring the Frontiers of Animation Video Generation in the Sora Era** &nbsp; | &nbsp; 
+🚩【生成】 **AniSora: Exploring the Frontiers of Animation Video Generation in the Sora Era** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/pdf/2412.10255"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://github.com/bilibili/Index-anisora"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
 *Yudong Jiang, Baohan Xu, Siqian Yang, Mingyu Yin, Jing Liu, Chao Xu, Siqi Wang, Yidi Wu, Bingwen Zhu, Qi Sen, Xingyu Zheng, Jixuan Xu, Yue Zhang, Jinlong Hou, Huyang Sun*\
@@ -48,16 +48,6 @@
 <a href="https://drive.google.com/file/d/1vyu_ePFN9sFjqxc-sPdSWuSCLnWFVUT7/view"><img src="./assets/dataset.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
 *Jiaming Shen, Kun Hu, Wei Bao, Chang Wen Chen, Zhiyong Wang*\
 [Aug., 2024] [ACMMM 2024]
-
-
-## 综述
-
-
-**AniSora: Exploring the Frontiers of Animation Video Generation in the Sora Era** &nbsp; | &nbsp; 
-<a href="https://arxiv.org/pdf/2412.10255"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://github.com/bilibili/Index-anisora"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
-*Yudong Jiang, Baohan Xu, Siqian Yang, Mingyu Yin, Jing Liu, Chao Xu, Siqi Wang, Yidi Wu, Bingwen Zhu, Qi Sen, Xingyu Zheng, Jixuan Xu, Yue Zhang, Jinlong Hou, Huyang Sun*\
-[Dec., 2024] [arXiv 2024]
 
 
 ## 数据集
@@ -309,7 +299,13 @@
 
 
 
-## 生成模型
+## 生成
+
+**AniSora: Exploring the Frontiers of Animation Video Generation in the Sora Era** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/pdf/2412.10255"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/bilibili/Index-anisora"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Yudong Jiang, Baohan Xu, Siqian Yang, Mingyu Yin, Jing Liu, Chao Xu, Siqi Wang, Yidi Wu, Bingwen Zhu, Qi Sen, Xingyu Zheng, Jixuan Xu, Yue Zhang, Jinlong Hou, Huyang Sun*\
+[Dec., 2024] [arXiv 2024]
 
 **MikuDance: Animating Character Art with Mixed Motion Dynamics** &nbsp; | &nbsp;
 <a href="https://arxiv.org/abs/2411.08656"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
