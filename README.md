@@ -34,7 +34,7 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 [Dec., 2024] [arXiv 2024]
 
 
-🚩【Survey】 **AniSora: Exploring the Frontiers of Animation Video Generation in the Sora Era** &nbsp; | &nbsp; 
+🚩【Generation】 **AniSora: Exploring the Frontiers of Animation Video Generation in the Sora Era** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/pdf/2412.10255"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://github.com/bilibili/Index-anisora"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
 *Yudong Jiang, Baohan Xu, Siqian Yang, Mingyu Yin, Jing Liu, Chao Xu, Siqi Wang, Yidi Wu, Bingwen Zhu, Qi Sen, Xingyu Zheng, Jixuan Xu, Yue Zhang, Jinlong Hou, Huyang Sun*\
@@ -48,15 +48,6 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 *Jiaming Shen, Kun Hu, Wei Bao, Chang Wen Chen, Zhiyong Wang*\
 [Aug., 2024] [ACMMM 2024]
 
-
-## Survey
-
-
-**AniSora: Exploring the Frontiers of Animation Video Generation in the Sora Era** &nbsp; | &nbsp; 
-<a href="https://arxiv.org/pdf/2412.10255"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://github.com/bilibili/Index-anisora"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
-*Yudong Jiang, Baohan Xu, Siqian Yang, Mingyu Yin, Jing Liu, Chao Xu, Siqi Wang, Yidi Wu, Bingwen Zhu, Qi Sen, Xingyu Zheng, Jixuan Xu, Yue Zhang, Jinlong Hou, Huyang Sun*\
-[Dec., 2024] [arXiv 2024]
 
 
 ## Datasets
@@ -318,6 +309,12 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 
 ## Generative Methods
+
+**AniSora: Exploring the Frontiers of Animation Video Generation in the Sora Era** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/pdf/2412.10255"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/bilibili/Index-anisora"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Yudong Jiang, Baohan Xu, Siqian Yang, Mingyu Yin, Jing Liu, Chao Xu, Siqi Wang, Yidi Wu, Bingwen Zhu, Qi Sen, Xingyu Zheng, Jixuan Xu, Yue Zhang, Jinlong Hou, Huyang Sun*\
+[Dec., 2024] [arXiv 2024]
 
 **MikuDance: Animating Character Art with Mixed Motion Dynamics** &nbsp; | &nbsp;
 <a href="https://arxiv.org/abs/2411.08656"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
