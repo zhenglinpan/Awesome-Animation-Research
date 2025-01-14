@@ -26,6 +26,12 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 ## New Papers
 <!-- [<span style="color:red">*new</span>]  -->
 
+🚩【Survey】 **Generative AI for Cel-Animation: A Survey** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2501.06250"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/yunlong10/Awesome-AI4Animation"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
+*Yunlong Tang, Junjia Guo, Pinxin Liu, Zhiyuan Wang, Hang Hua, Jia-Xing Zhong, Yunzhong Xiao, Chao Huang, Luchuan Song, Susan Liang, Yizhi Song, Liu He, Jing Bi, Mingqian Feng, Xinyang Li, Zeliang Zhang, Chenliang Xu*\
+[Jan., 2025] [arXiv 2025]
+
 🚩【Colorization】 **AniDoc: Animation Creation Made Easier** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/pdf/2412.14173"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://github.com/yihao-meng/AniDoc"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
@@ -41,13 +47,13 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 [Dec., 2024] [arXiv 2024]
 
 
-🚩【Inbetweening】 **Bridging the Gap: Sketch-Aware Interpolation Network for High-Quality Animation Sketch Inbetweening** &nbsp; | &nbsp; \
-<a href="https://arxiv.org/abs/2308.13273"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://github.com/none-master/SAIN"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://drive.google.com/file/d/1vyu_ePFN9sFjqxc-sPdSWuSCLnWFVUT7/view"><img src="./assets/dataset.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
-*Jiaming Shen, Kun Hu, Wei Bao, Chang Wen Chen, Zhiyong Wang*\
-[Aug., 2024] [ACMMM 2024]
+## Survey
 
+**Generative AI for Cel-Animation: A Survey** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2501.06250"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/yunlong10/Awesome-AI4Animation"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
+*Yunlong Tang, Junjia Guo, Pinxin Liu, Zhiyuan Wang, Hang Hua, Jia-Xing Zhong, Yunzhong Xiao, Chao Huang, Luchuan Song, Susan Liang, Yizhi Song, Liu He, Jing Bi, Mingqian Feng, Xinyang Li, Zeliang Zhang, Chenliang Xu*\
+[Jan., 2025] [arXiv 2025]
 
 
 ## Datasets
