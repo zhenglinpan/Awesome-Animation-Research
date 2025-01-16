@@ -88,6 +88,13 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 ## Generative Methods
 
+**LayerAnimate: Layer-specific Control for Animation** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2501.08295"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://layeranimate.github.io/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/IamCreateAI/LayerAnimate"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
+*Yuxue Yang, Lue Fan, Zuzen Lin, Feng Wang, Zhaoxiang Zhang*\
+[Jan., 2025] [arXiv 2025]
+
 **AniSora: Exploring the Frontiers of Animation Video Generation in the Sora Era** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/pdf/2412.10255"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://github.com/bilibili/Index-anisora"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
@@ -100,12 +107,6 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 *Jiaxu Zhang, Xianfang Zeng, Xin Chen, Wei Zuo, Gang Yu, Zhigang Tu*\
 [Nov.,2024] [arXiv, 2024]
 
-**LayerAnimate: Layer-specific Control for Animation** &nbsp; | &nbsp; 
-<a href="https://arxiv.org/abs/2501.08295"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://layeranimate.github.io/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://github.com/IamCreateAI/LayerAnimate"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
-*Yuxue Yang, Lue Fan, Zuzen Lin, Feng Wang, Zhaoxiang Zhang*\
-[Jan., 2025] [arXiv 2025]
 
 
 ## Colorization
