@@ -27,6 +27,13 @@
 ## 新文章
 <!-- [<span style="color:red">*new</span>]  -->
 
+🚩【生成】 **LayerAnimate: Layer-specific Control for Animation** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2501.08295"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://layeranimate.github.io/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/IamCreateAI/LayerAnimate"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
+*Yuxue Yang, Lue Fan, Zuzen Lin, Feng Wang, Zhaoxiang Zhang*\
+[Jan., 2025] [arXiv 2025]
+
 🚩【综述】**Generative AI for Cel-Animation: A Survey** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2501.06250"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://github.com/yunlong10/Awesome-AI4Animation"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
@@ -40,12 +47,6 @@
 *Yihao Meng, Hao Ouyang, Hanlin Wang, Qiuyu Wang, Wen Wang, Ka Leong Cheng, Zhiheng Liu, Yujun Shen, Huamin Qu*\
 [Dec., 2024] [arXiv 2024]
 
-
-🚩【生成】 **AniSora: Exploring the Frontiers of Animation Video Generation in the Sora Era** &nbsp; | &nbsp; 
-<a href="https://arxiv.org/pdf/2412.10255"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://github.com/bilibili/Index-anisora"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
-*Yudong Jiang, Baohan Xu, Siqian Yang, Mingyu Yin, Jing Liu, Chao Xu, Siqi Wang, Yidi Wu, Bingwen Zhu, Qi Sen, Xingyu Zheng, Jixuan Xu, Yue Zhang, Jinlong Hou, Huyang Sun*\
-[Dec., 2024] [arXiv 2024]
 
 
 ## 综述
@@ -82,6 +83,28 @@
 <a href="https://lisiyao21.github.io/projects/AnimeRun"><img src="./assets/dataset.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
 *Li Siyao, Yuhang Li, Bo Li, Chao Dong, Ziwei Liu, Chen Change Loy* \
 [10 Nov., 2022] [NeurIPS, 2022]
+
+
+## 生成
+
+**LayerAnimate: Layer-specific Control for Animation** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2501.08295"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://layeranimate.github.io/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/IamCreateAI/LayerAnimate"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
+*Yuxue Yang, Lue Fan, Zuzen Lin, Feng Wang, Zhaoxiang Zhang*\
+[Jan., 2025] [arXiv 2025]
+
+**AniSora: Exploring the Frontiers of Animation Video Generation in the Sora Era** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/pdf/2412.10255"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/bilibili/Index-anisora"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Yudong Jiang, Baohan Xu, Siqian Yang, Mingyu Yin, Jing Liu, Chao Xu, Siqi Wang, Yidi Wu, Bingwen Zhu, Qi Sen, Xingyu Zheng, Jixuan Xu, Yue Zhang, Jinlong Hou, Huyang Sun*\
+[Dec., 2024] [arXiv 2024]
+
+**MikuDance: Animating Character Art with Mixed Motion Dynamics** &nbsp; | &nbsp;
+<a href="https://arxiv.org/abs/2411.08656"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://kebii.github.io/MikuDance/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
+*Jiaxu Zhang, Xianfang Zeng, Xin Chen, Wei Zuo, Gang Yu, Zhigang Tu*\
+[Nov.,2024] [arXiv, 2024]
 
 
 ## 上色
@@ -305,20 +328,6 @@
 [2024] [Arxiv, 2024]
 
 
-
-## 生成
-
-**AniSora: Exploring the Frontiers of Animation Video Generation in the Sora Era** &nbsp; | &nbsp; 
-<a href="https://arxiv.org/pdf/2412.10255"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://github.com/bilibili/Index-anisora"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
-*Yudong Jiang, Baohan Xu, Siqian Yang, Mingyu Yin, Jing Liu, Chao Xu, Siqi Wang, Yidi Wu, Bingwen Zhu, Qi Sen, Xingyu Zheng, Jixuan Xu, Yue Zhang, Jinlong Hou, Huyang Sun*\
-[Dec., 2024] [arXiv 2024]
-
-**MikuDance: Animating Character Art with Mixed Motion Dynamics** &nbsp; | &nbsp;
-<a href="https://arxiv.org/abs/2411.08656"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://kebii.github.io/MikuDance/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
-*Jiaxu Zhang, Xianfang Zeng, Xin Chen, Wei Zuo, Gang Yu, Zhigang Tu*\
-[Nov.,2024] [arXiv, 2024]
 
 ## 如何Contribute 
 我们鼓励动画爱好者、研究者通过添加相关论文、文章和各类资源的形式为本资料库做出贡献。您的贡献将有助于为任何对动画研究感兴趣的人提供有价值的参考。
