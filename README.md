@@ -26,11 +26,19 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 ## New Papers
 <!-- [<span style="color:red">*new</span>]  -->
 
+🚩【Generation】 **LayerAnimate: Layer-specific Control for Animation** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2501.08295"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://layeranimate.github.io/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/IamCreateAI/LayerAnimate"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
+*Yuxue Yang, Lue Fan, Zuzen Lin, Feng Wang, Zhaoxiang Zhang*\
+[Jan., 2025] [arXiv 2025]
+
 🚩【Survey】 **Generative AI for Cel-Animation: A Survey** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2501.06250"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://github.com/yunlong10/Awesome-AI4Animation"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
 *Yunlong Tang, Junjia Guo, Pinxin Liu, Zhiyuan Wang, Hang Hua, Jia-Xing Zhong, Yunzhong Xiao, Chao Huang, Luchuan Song, Susan Liang, Yizhi Song, Liu He, Jing Bi, Mingqian Feng, Xinyang Li, Zeliang Zhang, Chenliang Xu*\
 [Jan., 2025] [arXiv 2025]
+
 
 🚩【Colorization】 **AniDoc: Animation Creation Made Easier** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/pdf/2412.14173"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
@@ -39,12 +47,6 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 *Yihao Meng, Hao Ouyang, Hanlin Wang, Qiuyu Wang, Wen Wang, Ka Leong Cheng, Zhiheng Liu, Yujun Shen, Huamin Qu*\
 [Dec., 2024] [arXiv 2024]
 
-
-🚩【Generation】 **AniSora: Exploring the Frontiers of Animation Video Generation in the Sora Era** &nbsp; | &nbsp; 
-<a href="https://arxiv.org/pdf/2412.10255"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://github.com/bilibili/Index-anisora"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
-*Yudong Jiang, Baohan Xu, Siqian Yang, Mingyu Yin, Jing Liu, Chao Xu, Siqi Wang, Yidi Wu, Bingwen Zhu, Qi Sen, Xingyu Zheng, Jixuan Xu, Yue Zhang, Jinlong Hou, Huyang Sun*\
-[Dec., 2024] [arXiv 2024]
 
 
 ## Survey
@@ -84,6 +86,26 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 [10 Nov., 2022] [NeurIPS, 2022]
 
 
+## Generative Methods
+
+**AniSora: Exploring the Frontiers of Animation Video Generation in the Sora Era** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/pdf/2412.10255"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/bilibili/Index-anisora"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Yudong Jiang, Baohan Xu, Siqian Yang, Mingyu Yin, Jing Liu, Chao Xu, Siqi Wang, Yidi Wu, Bingwen Zhu, Qi Sen, Xingyu Zheng, Jixuan Xu, Yue Zhang, Jinlong Hou, Huyang Sun*\
+[Dec., 2024] [arXiv 2024]
+
+**MikuDance: Animating Character Art with Mixed Motion Dynamics** &nbsp; | &nbsp;
+<a href="https://arxiv.org/abs/2411.08656"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://kebii.github.io/MikuDance/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
+*Jiaxu Zhang, Xianfang Zeng, Xin Chen, Wei Zuo, Gang Yu, Zhigang Tu*\
+[Nov.,2024] [arXiv, 2024]
+
+**LayerAnimate: Layer-specific Control for Animation** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2501.08295"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://layeranimate.github.io/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/IamCreateAI/LayerAnimate"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
+*Yuxue Yang, Lue Fan, Zuzen Lin, Feng Wang, Zhaoxiang Zhang*\
+[Jan., 2025] [arXiv 2025]
 
 
 ## Colorization
@@ -314,19 +336,6 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 
 
-## Generative Methods
-
-**AniSora: Exploring the Frontiers of Animation Video Generation in the Sora Era** &nbsp; | &nbsp; 
-<a href="https://arxiv.org/pdf/2412.10255"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://github.com/bilibili/Index-anisora"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
-*Yudong Jiang, Baohan Xu, Siqian Yang, Mingyu Yin, Jing Liu, Chao Xu, Siqi Wang, Yidi Wu, Bingwen Zhu, Qi Sen, Xingyu Zheng, Jixuan Xu, Yue Zhang, Jinlong Hou, Huyang Sun*\
-[Dec., 2024] [arXiv 2024]
-
-**MikuDance: Animating Character Art with Mixed Motion Dynamics** &nbsp; | &nbsp;
-<a href="https://arxiv.org/abs/2411.08656"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://kebii.github.io/MikuDance/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
-*Jiaxu Zhang, Xianfang Zeng, Xin Chen, Wei Zuo, Gang Yu, Zhigang Tu*\
-[Nov.,2024] [arXiv, 2024]
 
 
 
