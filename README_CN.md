@@ -27,6 +27,11 @@
 ## 新文章
 <!-- [<span style="color:red">*new</span>]  -->
 
+🚩【生成】 **PhysAnimator: Physics-Guided Generative Cartoon Animation** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2501.16550"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Tianyi Xie, Yiwei Zhao, Ying Jiang, Chenfanfu Jiang*\
+[Jan., 2025] [arXiv 2025]
+
 🚩【生成】 **LayerAnimate: Layer-specific Control for Animation** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2501.08295"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://layeranimate.github.io/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
@@ -40,12 +45,6 @@
 *Yunlong Tang, Junjia Guo, Pinxin Liu, Zhiyuan Wang, Hang Hua, Jia-Xing Zhong, Yunzhong Xiao, Chao Huang, Luchuan Song, Susan Liang, Yizhi Song, Liu He, Jing Bi, Mingqian Feng, Xinyang Li, Zeliang Zhang, Chenliang Xu*\
 [Jan., 2025] [arXiv 2025]
 
-🚩【上色】 **AniDoc: Animation Creation Made Easier** &nbsp; | &nbsp; 
-<a href="https://arxiv.org/pdf/2412.14173"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://github.com/yihao-meng/AniDoc"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://yihao-meng.github.io/AniDoc_demo/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
-*Yihao Meng, Hao Ouyang, Hanlin Wang, Qiuyu Wang, Wen Wang, Ka Leong Cheng, Zhiheng Liu, Yujun Shen, Huamin Qu*\
-[Dec., 2024] [arXiv 2024]
 
 
 
@@ -86,6 +85,11 @@
 
 
 ## 生成
+
+**PhysAnimator: Physics-Guided Generative Cartoon Animation** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2501.16550"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Tianyi Xie, Yiwei Zhao, Ying Jiang, Chenfanfu Jiang*\
+[Jan., 2025] [arXiv 2025]
 
 **LayerAnimate: Layer-specific Control for Animation** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2501.08295"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
