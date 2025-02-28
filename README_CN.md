@@ -27,6 +27,13 @@
 ## 新文章
 <!-- [<span style="color:red">*new</span>]  -->
 
+🚩【上色】 **Image Referenced Sketch Colorization Based on Animation Creation Workflow** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2502.19937"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/tellurion-kanata/colorizeDiffusion"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
+*Dingkun Yan, Xinrui Wang, Zhuoru Li, Suguru Saito, Yusuke Iwasawa, Yutaka Matsuo, Jiaxian Guo*\
+[Feb., 2025] [arXiv 2025]
+
+
 🚩【生成】 **PhysAnimator: Physics-Guided Generative Cartoon Animation** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2501.16550"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
 *Tianyi Xie, Yiwei Zhao, Ying Jiang, Chenfanfu Jiang*\
@@ -39,11 +46,6 @@
 *Yuxue Yang, Lue Fan, Zuzen Lin, Feng Wang, Zhaoxiang Zhang*\
 [Jan., 2025] [arXiv 2025]
 
-🚩【综述】**Generative AI for Cel-Animation: A Survey** &nbsp; | &nbsp; 
-<a href="https://arxiv.org/abs/2501.06250"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://github.com/yunlong10/Awesome-AI4Animation"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
-*Yunlong Tang, Junjia Guo, Pinxin Liu, Zhiyuan Wang, Hang Hua, Jia-Xing Zhong, Yunzhong Xiao, Chao Huang, Luchuan Song, Susan Liang, Yizhi Song, Liu He, Jing Bi, Mingqian Feng, Xinyang Li, Zeliang Zhang, Chenliang Xu*\
-[Jan., 2025] [arXiv 2025]
 
 
 
@@ -113,7 +115,13 @@
 
 ## 上色
 
-【上色】 **AniDoc: Animation Creation Made Easier** &nbsp; | &nbsp; 
+**Image Referenced Sketch Colorization Based on Animation Creation Workflow** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2502.19937"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/tellurion-kanata/colorizeDiffusion"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
+*Dingkun Yan, Xinrui Wang, Zhuoru Li, Suguru Saito, Yusuke Iwasawa, Yutaka Matsuo, Jiaxian Guo*\
+[Feb., 2025] [arXiv 2025]
+
+**AniDoc: Animation Creation Made Easier** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/pdf/2412.14173"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://github.com/yihao-meng/AniDoc"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://yihao-meng.github.io/AniDoc_demo/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
