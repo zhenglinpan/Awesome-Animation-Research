@@ -26,6 +26,12 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 ## New Papers
 <!-- [<span style="color:red">*new</span>]  -->
 
+🚩【Colorization】 **PhysAnimator: Physics-Guided Generative Cartoon Animation** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2502.19937"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/tellurion-kanata/colorizeDiffusion"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
+*Dingkun Yan, Xinrui Wang, Zhuoru Li, Suguru Saito, Yusuke Iwasawa, Yutaka Matsuo, Jiaxian Guo*\
+[Feb., 2025] [arXiv 2025]
+
 🚩【Generation】 **PhysAnimator: Physics-Guided Generative Cartoon Animation** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2501.16550"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
 *Tianyi Xie, Yiwei Zhao, Ying Jiang, Chenfanfu Jiang*\
@@ -38,11 +44,6 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 *Yuxue Yang, Lue Fan, Zuzen Lin, Feng Wang, Zhaoxiang Zhang*\
 [Jan., 2025] [arXiv 2025]
 
-🚩【Survey】 **Generative AI for Cel-Animation: A Survey** &nbsp; | &nbsp; 
-<a href="https://arxiv.org/abs/2501.06250"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://github.com/yunlong10/Awesome-AI4Animation"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
-*Yunlong Tang, Junjia Guo, Pinxin Liu, Zhiyuan Wang, Hang Hua, Jia-Xing Zhong, Yunzhong Xiao, Chao Huang, Luchuan Song, Susan Liang, Yizhi Song, Liu He, Jing Bi, Mingqian Feng, Xinyang Li, Zeliang Zhang, Chenliang Xu*\
-[Jan., 2025] [arXiv 2025]
 
 
 
@@ -113,6 +114,12 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 
 ## Colorization
+
+**PhysAnimator: Physics-Guided Generative Cartoon Animation** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2502.19937"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/tellurion-kanata/colorizeDiffusion"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
+*Dingkun Yan, Xinrui Wang, Zhuoru Li, Suguru Saito, Yusuke Iwasawa, Yutaka Matsuo, Jiaxian Guo*\
+[Feb., 2025] [arXiv 2025]
 
 **AniDoc: Animation Creation Made Easier** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/pdf/2412.14173"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
