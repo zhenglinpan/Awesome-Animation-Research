@@ -26,7 +26,7 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 ## New Papers
 <!-- [<span style="color:red">*new</span>]  -->
 
-🚩【Colorization】 **PhysAnimator: Physics-Guided Generative Cartoon Animation** &nbsp; | &nbsp; 
+🚩【Colorization】 **Image Referenced Sketch Colorization Based on Animation Creation Workflow** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2502.19937"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://github.com/tellurion-kanata/colorizeDiffusion"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
 *Dingkun Yan, Xinrui Wang, Zhuoru Li, Suguru Saito, Yusuke Iwasawa, Yutaka Matsuo, Jiaxian Guo*\
@@ -115,7 +115,7 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 ## Colorization
 
-**PhysAnimator: Physics-Guided Generative Cartoon Animation** &nbsp; | &nbsp; 
+**Image Referenced Sketch Colorization Based on Animation Creation Workflow** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2502.19937"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://github.com/tellurion-kanata/colorizeDiffusion"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
 *Dingkun Yan, Xinrui Wang, Zhuoru Li, Suguru Saito, Yusuke Iwasawa, Yutaka Matsuo, Jiaxian Guo*\
