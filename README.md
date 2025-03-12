@@ -26,6 +26,11 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 ## New Papers
 <!-- [<span style="color:red">*new</span>]  -->
 
+🚩【Colorization】 **Animation Anycolor: Enhancing Line Drawing Colorization with Keypoint Matching** &nbsp; | &nbsp; 
+<a href="https://ieeexplore.ieee.org/abstract/document/10888082"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Dingkun Yan, Xinrui Wang, Zhuoru Li, Suguru Saito, Yusuke Iwasawa, Yutaka Matsuo, Jiaxian Guo*\
+[Feb., 2025] [ICASSP 2025]
+
 🚩【Colorization】 **Image Referenced Sketch Colorization Based on Animation Creation Workflow** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2502.19937"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://github.com/tellurion-kanata/colorizeDiffusion"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
@@ -36,14 +41,6 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 <a href="https://arxiv.org/abs/2501.16550"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
 *Tianyi Xie, Yiwei Zhao, Ying Jiang, Chenfanfu Jiang*\
 [Jan., 2025] [arXiv 2025]
-
-🚩【Generation】 **LayerAnimate: Layer-specific Control for Animation** &nbsp; | &nbsp; 
-<a href="https://arxiv.org/abs/2501.08295"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://layeranimate.github.io/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://github.com/IamCreateAI/LayerAnimate"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
-*Yuxue Yang, Lue Fan, Zuzen Lin, Feng Wang, Zhaoxiang Zhang*\
-[Jan., 2025] [arXiv 2025]
-
 
 
 
@@ -114,6 +111,11 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 
 ## Colorization
+
+**Animation Anycolor: Enhancing Line Drawing Colorization with Keypoint Matching** &nbsp; | &nbsp; 
+<a href="https://ieeexplore.ieee.org/abstract/document/10888082"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Dingkun Yan, Xinrui Wang, Zhuoru Li, Suguru Saito, Yusuke Iwasawa, Yutaka Matsuo, Jiaxian Guo*\
+[Feb., 2025] [ICASSP 2025]
 
 **Image Referenced Sketch Colorization Based on Animation Creation Workflow** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2502.19937"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
