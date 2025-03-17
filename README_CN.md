@@ -29,8 +29,8 @@
 
 🚩【上色】 **Animation Anycolor: Enhancing Line Drawing Colorization with Keypoint Matching** &nbsp; | &nbsp; 
 <a href="https://ieeexplore.ieee.org/abstract/document/10888082"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
-*Dingkun Yan, Xinrui Wang, Zhuoru Li, Suguru Saito, Yusuke Iwasawa, Yutaka Matsuo, Jiaxian Guo*\
-[Feb., 2025] [ICASSP 2025]
+*Liyao Wang; Zuzeng Lin; Danni Wu; Zihao Yu; Suzhe Zhang; Zixian Wu*\
+[Mar., 2025] [ICASSP 2025]
 
 🚩【上色】 **Image Referenced Sketch Colorization Based on Animation Creation Workflow** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2502.19937"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
@@ -115,8 +115,8 @@
 
 **Animation Anycolor: Enhancing Line Drawing Colorization with Keypoint Matching** &nbsp; | &nbsp; 
 <a href="https://ieeexplore.ieee.org/abstract/document/10888082"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
-*Dingkun Yan, Xinrui Wang, Zhuoru Li, Suguru Saito, Yusuke Iwasawa, Yutaka Matsuo, Jiaxian Guo*\
-[Feb., 2025] [ICASSP 2025]
+*Liyao Wang; Zuzeng Lin; Danni Wu; Zihao Yu; Suzhe Zhang; Zixian Wu*\
+[Mar., 2025] [ICASSP 2025]
 
 **Image Referenced Sketch Colorization Based on Animation Creation Workflow** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2502.19937"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
