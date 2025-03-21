@@ -26,6 +26,14 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 ## New Papers
 <!-- [<span style="color:red">*new</span>]  -->
 
+🚩【3D】 **StdGEN: Semantic-Decomposed 3D Character Generation from Single Images** &nbsp; | &nbsp; 
+<a href="https://ieeexplore.ieee.org/abstract/document/10888082"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://stdgen.github.io/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://github.com/hyz317/StdGEN"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+[🤗](https://huggingface.co/spaces/ethanweber/toon3d) &nbsp;\
+*Yuze He, Yanning Zhou, Wang Zhao, Zhongkai Wu, Kaiwen Xiao, Wei Yang, Yong-Jin Liu, Xiao Han*\
+[Mar., 2025] [CVPR 2025]
+
 🚩【Colorization】 **Animation Anycolor: Enhancing Line Drawing Colorization with Keypoint Matching** &nbsp; | &nbsp; 
 <a href="https://ieeexplore.ieee.org/abstract/document/10888082"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
 *Liyao Wang; Zuzeng Lin; Danni Wu; Zihao Yu; Suzhe Zhang; Zixian Wu*\
@@ -36,11 +44,6 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 <a href="https://github.com/tellurion-kanata/colorizeDiffusion"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
 *Dingkun Yan, Xinrui Wang, Zhuoru Li, Suguru Saito, Yusuke Iwasawa, Yutaka Matsuo, Jiaxian Guo*\
 [Feb., 2025] [arXiv 2025]
-
-🚩【Generation】 **PhysAnimator: Physics-Guided Generative Cartoon Animation** &nbsp; | &nbsp; 
-<a href="https://arxiv.org/abs/2501.16550"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
-*Tianyi Xie, Yiwei Zhao, Ying Jiang, Chenfanfu Jiang*\
-[Jan., 2025] [arXiv 2025]
 
 
 
@@ -328,6 +331,14 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 
 ## 3D&3DRotoscoping&3D Assistance
+
+**StdGEN: Semantic-Decomposed 3D Character Generation from Single Images** &nbsp; | &nbsp; 
+<a href="https://ieeexplore.ieee.org/abstract/document/10888082"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://stdgen.github.io/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://github.com/hyz317/StdGEN"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+[🤗](https://huggingface.co/spaces/ethanweber/toon3d) &nbsp;\
+*Yuze He, Yanning Zhou, Wang Zhao, Zhongkai Wu, Kaiwen Xiao, Wei Yang, Yong-Jin Liu, Xiao Han*\
+[Mar., 2025] [CVPR 2025]
 
 **DrawingSpinUp: 3D Animation from Single Character Drawings** &nbsp; | &nbsp;
 <a href="https://arxiv.org/abs/2409.08615"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
