@@ -26,6 +26,11 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 ## New Papers
 <!-- [<span style="color:red">*new</span>]  -->
 
+🚩【Generation】Aligning Anime Video Generation with Human Feedback
+<a href="https://arxiv.org/abs/2504.10044"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Bingwen Zhu, Yudong Jiang, Baohan Xu, Siqian Yang, Mingyu Yin, Yidi Wu, Huyang Sun, Zuxuan Wu*\
+[Apr., 2025] [arXiv 2025]
+
 🚩【3D】 **StdGEN: Semantic-Decomposed 3D Character Generation from Single Images** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2411.05738"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
 <a href="https://stdgen.github.io/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
@@ -38,13 +43,6 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 <a href="https://ieeexplore.ieee.org/abstract/document/10888082"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
 *Liyao Wang; Zuzeng Lin; Danni Wu; Zihao Yu; Suzhe Zhang; Zixian Wu*\
 [Mar., 2025] [ICASSP 2025]
-
-🚩【Colorization】 **Image Referenced Sketch Colorization Based on Animation Creation Workflow** &nbsp; | &nbsp; 
-<a href="https://arxiv.org/abs/2502.19937"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://github.com/tellurion-kanata/colorizeDiffusion"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
-*Dingkun Yan, Xinrui Wang, Zhuoru Li, Suguru Saito, Yusuke Iwasawa, Yutaka Matsuo, Jiaxian Guo*\
-[Feb., 2025] [arXiv 2025]
-
 
 
 
