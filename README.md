@@ -26,7 +26,7 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 ## New Papers
 <!-- [<span style="color:red">*new</span>]  -->
 
-🚩【Generation】Aligning Anime Video Generation with Human Feedback
+🚩【Generation】**Aligning Anime Video Generation with Human Feedback** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2504.10044"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
 *Bingwen Zhu, Yudong Jiang, Baohan Xu, Siqian Yang, Mingyu Yin, Yidi Wu, Huyang Sun, Zuxuan Wu*\
 [Apr., 2025] [arXiv 2025]
@@ -84,6 +84,11 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 
 ## Generative Methods
+
+**Aligning Anime Video Generation with Human Feedback** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2504.10044"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Bingwen Zhu, Yudong Jiang, Baohan Xu, Siqian Yang, Mingyu Yin, Yidi Wu, Huyang Sun, Zuxuan Wu*\
+[Apr., 2025] [arXiv 2025]
 
 **PhysAnimator: Physics-Guided Generative Cartoon Animation** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2501.16550"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
