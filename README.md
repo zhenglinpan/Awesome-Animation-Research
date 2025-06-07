@@ -26,24 +26,35 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 ## New Papers
 <!-- [<span style="color:red">*new</span>]  -->
 
-🚩【Generation】**Aligning Anime Video Generation with Human Feedback** &nbsp; | &nbsp; 
-<a href="https://arxiv.org/abs/2504.10044"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
-*Bingwen Zhu, Yudong Jiang, Baohan Xu, Siqian Yang, Mingyu Yin, Yidi Wu, Huyang Sun, Zuxuan Wu*\
+
+🚩【Dataset】**AnimeShooter: A Multi-Shot Animation Dataset for Reference-Guided Video Generation** &nbsp; | &nbsp; 
+<a href="https://www.arxiv.org/abs/2506.03126"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://qiulu66.github.io/animeshooter/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://github.com/qiulu66/Anime-Shooter"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://huggingface.co/datasets/qiulu66/AnimeShooter"><img src="./assets/dataset.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+[🤗](https://huggingface.co/qiulu66/AnimeShooterGen) &nbsp;\
+*Lu Qiu, Yizhuo Li, Yuying Ge, Yixiao Ge, Ying Shan, Xihui Liu*\
+[Jun., 2025] [arXiv 2025]
+
+🚩【Dataset】**LinkTo-Anime: A 2D Animation Optical Flow Dataset from 3D Model Rendering** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2506.02733"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+[🤗](https://huggingface.co/datasets/LecterF/LinkTo-Anime) &nbsp;\
+*Xiaoyi Feng, Kaifeng Zou, Caichun Cen, Tao Huang, Hui Guo, Zizhou Huang, Yingli Zhao, Mingqing Zhang, Diwei Wang, Yuntao Zou, Dagang Li*\
+[Jun., 2025] [arXiv 2025]
+
+🚩【Generation】**DreamDance: Animating Character Art via Inpainting Stable Gaussian Worlds** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2505.24733"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://kebii.github.io/DreamDance/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://github.com/Kebii/DreamDance"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Jiaxu Zhang, Xianfang Zeng, Xin Chen, Wei Zuo, Gang Yu, Guosheng Lin, Zhigang Tu*\
+[May., 2025] [arXiv 2025]
+
+🚩【3D】**Sketch2Anim: Towards Transferring Sketch Storyboards into 3D Animation** &nbsp; | &nbsp; 
+<a href="https://www.arxiv.org/abs/2504.19189"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://zhongleilz.github.io/Sketch2Anim/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://www.youtube.com/watch?v=5xZacNOLMKM"><img src="./assets/demo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Lei Zhong, Chuan Guo, Yiming Xie, Jiawei Wang, Changjian Li*\
 [Apr., 2025] [arXiv 2025]
-
-🚩【3D】 **StdGEN: Semantic-Decomposed 3D Character Generation from Single Images** &nbsp; | &nbsp; 
-<a href="https://arxiv.org/abs/2411.05738"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
-<a href="https://stdgen.github.io/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
-<a href="https://github.com/hyz317/StdGEN"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
-[🤗](https://huggingface.co/spaces/ethanweber/toon3d) &nbsp;\
-*Yuze He, Yanning Zhou, Wang Zhao, Zhongkai Wu, Kaiwen Xiao, Wei Yang, Yong-Jin Liu, Xiao Han*\
-[Mar., 2025] [CVPR 2025]
-
-🚩【Colorization】 **Animation Anycolor: Enhancing Line Drawing Colorization with Keypoint Matching** &nbsp; | &nbsp; 
-<a href="https://ieeexplore.ieee.org/abstract/document/10888082"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
-*Liyao Wang; Zuzeng Lin; Danni Wu; Zihao Yu; Suzhe Zhang; Zixian Wu*\
-[Mar., 2025] [ICASSP 2025]
-
 
 
 ## Survey
@@ -57,6 +68,20 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 ## Datasets
 
+**AnimeShooter: A Multi-Shot Animation Dataset for Reference-Guided Video Generation** &nbsp; | &nbsp; 
+<a href="https://www.arxiv.org/abs/2506.03126"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://qiulu66.github.io/animeshooter/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://github.com/qiulu66/Anime-Shooter"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://huggingface.co/datasets/qiulu66/AnimeShooter"><img src="./assets/dataset.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+[🤗](https://huggingface.co/qiulu66/AnimeShooterGen) &nbsp;\
+*Lu Qiu, Yizhuo Li, Yuying Ge, Yixiao Ge, Ying Shan, Xihui Liu*\
+[Jun., 2025] [arXiv 2025]
+
+**LinkTo-Anime: A 2D Animation Optical Flow Dataset from 3D Model Rendering** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2506.02733"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+[🤗](https://huggingface.co/datasets/LecterF/LinkTo-Anime) &nbsp;\
+*Xiaoyi Feng, Kaifeng Zou, Caichun Cen, Tao Huang, Hui Guo, Zizhou Huang, Yingli Zhao, Mingqing Zhang, Diwei Wang, Yuntao Zou, Dagang Li*\
+[Jun., 2025] [arXiv 2025]
 
 **Anita Dataset: An Industrial Animation Dataset**  &nbsp; | &nbsp;
 <a href="https://zhenglinpan.github.io/AnitaDataset_homepage/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
@@ -84,6 +109,13 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 
 ## Generative Methods
+
+**DreamDance: Animating Character Art via Inpainting Stable Gaussian Worlds** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2505.24733"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://kebii.github.io/DreamDance/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://github.com/Kebii/DreamDance"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Jiaxu Zhang, Xianfang Zeng, Xin Chen, Wei Zuo, Gang Yu, Guosheng Lin, Zhigang Tu*\
+[May., 2025] [arXiv 2025]
 
 **Aligning Anime Video Generation with Human Feedback** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2504.10044"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
@@ -334,6 +366,13 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 
 ## 3D&3DRotoscoping&3D Assistance
+
+**Sketch2Anim: Towards Transferring Sketch Storyboards into 3D Animation** &nbsp; | &nbsp; 
+<a href="https://www.arxiv.org/abs/2504.19189"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://zhongleilz.github.io/Sketch2Anim/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://www.youtube.com/watch?v=5xZacNOLMKM"><img src="./assets/demo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Lei Zhong, Chuan Guo, Yiming Xie, Jiawei Wang, Changjian Li*\
+[Apr., 2025] [arXiv 2025]
 
 **StdGEN: Semantic-Decomposed 3D Character Generation from Single Images** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2411.05738"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
