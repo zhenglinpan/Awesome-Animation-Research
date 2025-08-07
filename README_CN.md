@@ -27,25 +27,38 @@
 ## 新文章
 <!-- [<span style="color:red">*new</span>]  -->
 
-🚩【生成】 **Aligning Anime Video Generation with Human Feedback** &nbsp; | &nbsp; 
-<a href="https://arxiv.org/abs/2504.10044"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
-*Bingwen Zhu, Yudong Jiang, Baohan Xu, Siqian Yang, Mingyu Yin, Yidi Wu, Huyang Sun, Zuxuan Wu*\
-[Apr., 2025] [arXiv 2025]
 
-🚩【3D】 **StdGEN: Semantic-Decomposed 3D Character Generation from Single Images** &nbsp; | &nbsp; 
-<a href="https://arxiv.org/abs/2411.05738"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
-<a href="https://stdgen.github.io/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
-<a href="https://github.com/hyz317/StdGEN"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
-[🤗](https://huggingface.co/spaces/ethanweber/toon3d) &nbsp;\
-*Yuze He, Yanning Zhou, Wang Zhao, Zhongkai Wu, Kaiwen Xiao, Wei Yang, Yong-Jin Liu, Xiao Han*\
-[Mar., 2025] [CVPR 2025]
+🚩【上色】**AnimeColor: Reference-based Animation Colorization with Diffusion Transformers** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2507.20158"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://github.com/IamCreateAI/AnimeColor"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+*Yuhong Zhang, Liyao Wang, Han Wang, Danni Wu, Zuzeng Lin, Feng Wang, Li Song*\
+[Jul., 2025] [arXiv 2025]
 
-🚩【上色】 **Animation Anycolor: Enhancing Line Drawing Colorization with Keypoint Matching** &nbsp; | &nbsp; 
-<a href="https://ieeexplore.ieee.org/abstract/document/10888082"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
-*Liyao Wang; Zuzeng Lin; Danni Wu; Zihao Yu; Suzhe Zhang; Zixian Wu*\
-[Mar., 2025] [ICASSP 2025]
+🚩【上色】**SketchColour: Channel Concat Guided DiT-based Sketch-to-Colour Pipeline for 2D Animation** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2507.01586"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://bconstantine.github.io/SketchColour/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://github.com/bconstantine/SketchColour"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Bryan Constantine Sadihin, Michael Hua Wang, Shei Pern Chua, Hang Su*\
+[Jul., 2025] [arXiv 2025]
 
+🚩【生成】**LongAnimation: Long Animation Generation with Dynamic Global-Local Memory** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2507.01945"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://cn-makers.github.io/long_animation_web/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://github.com/CN-makers/LongAnimation"><img src="./assets/demo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Nan Chen, Mengqi Huang, Yihao Meng, Zhendong Mao*\
+[Jul., 2025] [arXiv 2025]
 
+🚩【数据集】**MagicAnime: A Hierarchically Annotated, Multimodal and Multitasking Dataset with Benchmarks for Cartoon Animation Generation** &nbsp; | &nbsp; 
+<a href="https://www.arxiv.org/abs/2507.20368"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Shuolin Xu, Bingyuan Wang, Zeyu Cai, Fangteng Fu, Yue Ma, Tongyi Lee, Hongchuan Yu, Zeyu Wang*\
+[Jul., 2025] [arXiv 2025]
+
+🚩【生成】**FairyGen: Storied Cartoon Video from a Single Child-Drawn Character** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2506.21272"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://jayleejia.github.io/FairyGen/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://github.com/GVCLab/FairyGen"><img src="./assets/demo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Jiayi Zheng, Xiaodong Cun*\
+[Jun., 2025] [arXiv 2025]
 
 
 
@@ -62,6 +75,11 @@
 
 
 ## 数据集
+
+**MagicAnime: A Hierarchically Annotated, Multimodal and Multitasking Dataset with Benchmarks for Cartoon Animation Generation** &nbsp; | &nbsp; 
+<a href="https://www.arxiv.org/abs/2507.20368"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Shuolin Xu, Bingyuan Wang, Zeyu Cai, Fangteng Fu, Yue Ma, Tongyi Lee, Hongchuan Yu, Zeyu Wang*\
+[Jul., 2025] [arXiv 2025]
 
 **Anita Dataset: An Industrial Animation Dataset**  &nbsp; | &nbsp;
 <a href="https://zhenglinpan.github.io/AnitaDataset_homepage/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
@@ -89,6 +107,20 @@
 
 
 ## 生成
+
+**LongAnimation: Long Animation Generation with Dynamic Global-Local Memory** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2507.01945"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://cn-makers.github.io/long_animation_web/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://github.com/CN-makers/LongAnimation"><img src="./assets/demo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Nan Chen, Mengqi Huang, Yihao Meng, Zhendong Mao*\
+[Jul., 2025] [arXiv 2025]
+
+**FairyGen: Storied Cartoon Video from a Single Child-Drawn Character** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2506.21272"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://jayleejia.github.io/FairyGen/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://github.com/GVCLab/FairyGen"><img src="./assets/demo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Jiayi Zheng, Xiaodong Cun*\
+[Jun., 2025] [arXiv 2025]
 
 **Aligning Anime Video Generation with Human Feedback** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2504.10044"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
@@ -121,6 +153,19 @@
 
 
 ## 上色
+
+**AnimeColor: Reference-based Animation Colorization with Diffusion Transformers** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2507.20158"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://github.com/IamCreateAI/AnimeColor"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+*Yuhong Zhang, Liyao Wang, Han Wang, Danni Wu, Zuzeng Lin, Feng Wang, Li Song*\
+[Jul., 2025] [arXiv 2025]
+
+**SketchColour: Channel Concat Guided DiT-based Sketch-to-Colour Pipeline for 2D Animation** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2507.01586"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://bconstantine.github.io/SketchColour/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://github.com/bconstantine/SketchColour"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Bryan Constantine Sadihin, Michael Hua Wang, Shei Pern Chua, Hang Su*\
+[Jul., 2025] [arXiv 2025]
 
 **Animation Anycolor: Enhancing Line Drawing Colorization with Keypoint Matching** &nbsp; | &nbsp; 
 <a href="https://ieeexplore.ieee.org/abstract/document/10888082"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
