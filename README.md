@@ -43,7 +43,7 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 🚩【Generation】**LongAnimation: Long Animation Generation with Dynamic Global-Local Memory** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2507.01945"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
 <a href="https://cn-makers.github.io/long_animation_web/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
-<a href="https://github.com/CN-makers/LongAnimation"><img src="./assets/demo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+<a href="https://github.com/CN-makers/LongAnimation"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
 *Nan Chen, Mengqi Huang, Yihao Meng, Zhendong Mao*\
 [Jul., 2025] [arXiv 2025]
 
@@ -55,7 +55,7 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 🚩【Generation】**FairyGen: Storied Cartoon Video from a Single Child-Drawn Character** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2506.21272"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
 <a href="https://jayleejia.github.io/FairyGen/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
-<a href="https://github.com/GVCLab/FairyGen"><img src="./assets/demo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+<a href="https://github.com/GVCLab/FairyGen"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
 *Jiayi Zheng, Xiaodong Cun*\
 [Jun., 2025] [arXiv 2025]
 
@@ -121,14 +121,14 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 **LongAnimation: Long Animation Generation with Dynamic Global-Local Memory** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2507.01945"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
 <a href="https://cn-makers.github.io/long_animation_web/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
-<a href="https://github.com/CN-makers/LongAnimation"><img src="./assets/demo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+<a href="https://github.com/CN-makers/LongAnimation"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
 *Nan Chen, Mengqi Huang, Yihao Meng, Zhendong Mao*\
 [Jul., 2025] [arXiv 2025]
 
 **FairyGen: Storied Cartoon Video from a Single Child-Drawn Character** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2506.21272"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
 <a href="https://jayleejia.github.io/FairyGen/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
-<a href="https://github.com/GVCLab/FairyGen"><img src="./assets/demo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+<a href="https://github.com/GVCLab/FairyGen"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
 *Jiayi Zheng, Xiaodong Cun*\
 [Jun., 2025] [arXiv 2025]
 
