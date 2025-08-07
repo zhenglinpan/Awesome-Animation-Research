@@ -27,34 +27,37 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 <!-- [<span style="color:red">*new</span>]  -->
 
 
-🚩【Dataset】**AnimeShooter: A Multi-Shot Animation Dataset for Reference-Guided Video Generation** &nbsp; | &nbsp; 
-<a href="https://www.arxiv.org/abs/2506.03126"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
-<a href="https://qiulu66.github.io/animeshooter/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
-<a href="https://github.com/qiulu66/Anime-Shooter"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
-<a href="https://huggingface.co/datasets/qiulu66/AnimeShooter"><img src="./assets/dataset.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
-[🤗](https://huggingface.co/qiulu66/AnimeShooterGen) &nbsp;\
-*Lu Qiu, Yizhuo Li, Yuying Ge, Yixiao Ge, Ying Shan, Xihui Liu*\
+🚩【Colorization】**AnimeColor: Reference-based Animation Colorization with Diffusion Transformers** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2507.20158"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://github.com/IamCreateAI/AnimeColor"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+*Yuhong Zhang, Liyao Wang, Han Wang, Danni Wu, Zuzeng Lin, Feng Wang, Li Song*\
+[Jul., 2025] [arXiv 2025]
+
+🚩【Colorization】**SketchColour: Channel Concat Guided DiT-based Sketch-to-Colour Pipeline for 2D Animation** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2507.01586"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://bconstantine.github.io/SketchColour/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://github.com/bconstantine/SketchColour"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Bryan Constantine Sadihin, Michael Hua Wang, Shei Pern Chua, Hang Su*\
+[Jul., 2025] [arXiv 2025]
+
+🚩【Generation】**LongAnimation: Long Animation Generation with Dynamic Global-Local Memory** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2507.01945"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://cn-makers.github.io/long_animation_web/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://github.com/CN-makers/LongAnimation"><img src="./assets/demo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Nan Chen, Mengqi Huang, Yihao Meng, Zhendong Mao*\
+[Jul., 2025] [arXiv 2025]
+
+🚩【Dataset】**MagicAnime: A Hierarchically Annotated, Multimodal and Multitasking Dataset with Benchmarks for Cartoon Animation Generation** &nbsp; | &nbsp; 
+<a href="https://www.arxiv.org/abs/2507.20368"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Shuolin Xu, Bingyuan Wang, Zeyu Cai, Fangteng Fu, Yue Ma, Tongyi Lee, Hongchuan Yu, Zeyu Wang*\
+[Jul., 2025] [arXiv 2025]
+
+🚩【Generation】**FairyGen: Storied Cartoon Video from a Single Child-Drawn Character** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2506.21272"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://jayleejia.github.io/FairyGen/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://github.com/GVCLab/FairyGen"><img src="./assets/demo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Jiayi Zheng, Xiaodong Cun*\
 [Jun., 2025] [arXiv 2025]
-
-🚩【Dataset】**LinkTo-Anime: A 2D Animation Optical Flow Dataset from 3D Model Rendering** &nbsp; | &nbsp; 
-<a href="https://arxiv.org/abs/2506.02733"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
-[🤗](https://huggingface.co/datasets/LecterF/LinkTo-Anime) &nbsp;\
-*Xiaoyi Feng, Kaifeng Zou, Caichun Cen, Tao Huang, Hui Guo, Zizhou Huang, Yingli Zhao, Mingqing Zhang, Diwei Wang, Yuntao Zou, Dagang Li*\
-[Jun., 2025] [arXiv 2025]
-
-🚩【Generation】**DreamDance: Animating Character Art via Inpainting Stable Gaussian Worlds** &nbsp; | &nbsp; 
-<a href="https://arxiv.org/abs/2505.24733"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
-<a href="https://kebii.github.io/DreamDance/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
-<a href="https://github.com/Kebii/DreamDance"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
-*Jiaxu Zhang, Xianfang Zeng, Xin Chen, Wei Zuo, Gang Yu, Guosheng Lin, Zhigang Tu*\
-[May., 2025] [arXiv 2025]
-
-🚩【3D】**Sketch2Anim: Towards Transferring Sketch Storyboards into 3D Animation** &nbsp; | &nbsp; 
-<a href="https://www.arxiv.org/abs/2504.19189"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
-<a href="https://zhongleilz.github.io/Sketch2Anim/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
-<a href="https://www.youtube.com/watch?v=5xZacNOLMKM"><img src="./assets/demo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
-*Lei Zhong, Chuan Guo, Yiming Xie, Jiawei Wang, Changjian Li*\
-[Apr., 2025] [arXiv 2025]
 
 
 ## Survey
@@ -67,6 +70,11 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 
 ## Datasets
+
+**MagicAnime: A Hierarchically Annotated, Multimodal and Multitasking Dataset with Benchmarks for Cartoon Animation Generation** &nbsp; | &nbsp; 
+<a href="https://www.arxiv.org/abs/2507.20368"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Shuolin Xu, Bingyuan Wang, Zeyu Cai, Fangteng Fu, Yue Ma, Tongyi Lee, Hongchuan Yu, Zeyu Wang*\
+[Jul., 2025] [arXiv 2025]
 
 **AnimeShooter: A Multi-Shot Animation Dataset for Reference-Guided Video Generation** &nbsp; | &nbsp; 
 <a href="https://www.arxiv.org/abs/2506.03126"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
@@ -110,6 +118,20 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 ## Generative Methods
 
+**LongAnimation: Long Animation Generation with Dynamic Global-Local Memory** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2507.01945"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://cn-makers.github.io/long_animation_web/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://github.com/CN-makers/LongAnimation"><img src="./assets/demo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Nan Chen, Mengqi Huang, Yihao Meng, Zhendong Mao*\
+[Jul., 2025] [arXiv 2025]
+
+**FairyGen: Storied Cartoon Video from a Single Child-Drawn Character** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2506.21272"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://jayleejia.github.io/FairyGen/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://github.com/GVCLab/FairyGen"><img src="./assets/demo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Jiayi Zheng, Xiaodong Cun*\
+[Jun., 2025] [arXiv 2025]
+
 **DreamDance: Animating Character Art via Inpainting Stable Gaussian Worlds** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2505.24733"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
 <a href="https://kebii.github.io/DreamDance/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
@@ -149,6 +171,19 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 
 ## Colorization
+
+**AnimeColor: Reference-based Animation Colorization with Diffusion Transformers** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2507.20158"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://github.com/IamCreateAI/AnimeColor"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+*Yuhong Zhang, Liyao Wang, Han Wang, Danni Wu, Zuzeng Lin, Feng Wang, Li Song*\
+[Jul., 2025] [arXiv 2025]
+
+**SketchColour: Channel Concat Guided DiT-based Sketch-to-Colour Pipeline for 2D Animation** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2507.01586"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://bconstantine.github.io/SketchColour/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://github.com/bconstantine/SketchColour"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Bryan Constantine Sadihin, Michael Hua Wang, Shei Pern Chua, Hang Su*\
+[Jul., 2025] [arXiv 2025]
 
 **Animation Anycolor: Enhancing Line Drawing Colorization with Keypoint Matching** &nbsp; | &nbsp; 
 <a href="https://ieeexplore.ieee.org/abstract/document/10888082"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
