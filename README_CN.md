@@ -30,7 +30,7 @@
 
 🚩【上色】**AnimeColor: Reference-based Animation Colorization with Diffusion Transformers** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2507.20158"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
-<a href="https://github.com/IamCreateAI/AnimeColor"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://github.com/IamCreateAI/AnimeColor"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
 *Yuhong Zhang, Liyao Wang, Han Wang, Danni Wu, Zuzeng Lin, Feng Wang, Li Song*\
 [Jul., 2025] [arXiv 2025]
 
@@ -44,7 +44,7 @@
 🚩【生成】**LongAnimation: Long Animation Generation with Dynamic Global-Local Memory** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2507.01945"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
 <a href="https://cn-makers.github.io/long_animation_web/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
-<a href="https://github.com/CN-makers/LongAnimation"><img src="./assets/demo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+<a href="https://github.com/CN-makers/LongAnimation"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
 *Nan Chen, Mengqi Huang, Yihao Meng, Zhendong Mao*\
 [Jul., 2025] [arXiv 2025]
 
@@ -56,7 +56,7 @@
 🚩【生成】**FairyGen: Storied Cartoon Video from a Single Child-Drawn Character** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2506.21272"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
 <a href="https://jayleejia.github.io/FairyGen/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
-<a href="https://github.com/GVCLab/FairyGen"><img src="./assets/demo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+<a href="https://github.com/GVCLab/FairyGen"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
 *Jiayi Zheng, Xiaodong Cun*\
 [Jun., 2025] [arXiv 2025]
 
@@ -156,7 +156,7 @@
 
 **AnimeColor: Reference-based Animation Colorization with Diffusion Transformers** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2507.20158"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
-<a href="https://github.com/IamCreateAI/AnimeColor"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://github.com/IamCreateAI/AnimeColor"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
 *Yuhong Zhang, Liyao Wang, Han Wang, Danni Wu, Zuzeng Lin, Feng Wang, Li Song*\
 [Jul., 2025] [arXiv 2025]
 
