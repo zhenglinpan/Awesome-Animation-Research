@@ -26,38 +26,32 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 ## New Papers
 <!-- [<span style="color:red">*new</span>]  -->
 
+🚩【Generation】**ToonComposer: Streamlining Cartoon Production with Generative Post-Keyframing** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2508.10881"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://lg-li.github.io/project/tooncomposer/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://github.com/TencentARC/ToonComposer"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+[🤗](https://huggingface.co/spaces/TencentARC/ToonComposer) &nbsp;\
+*Lingen Li, Guangzhi Wang, Zhaoyang Zhang, Yaowei Li, Xiaoyu Li, Qi Dou, Jinwei Gu, Tianfan Xue, Ying Shan*\
+[Aug., 2025] [arXiv 2025]
 
-🚩【Colorization】**AnimeColor: Reference-based Animation Colorization with Diffusion Transformers** &nbsp; | &nbsp; 
-<a href="https://arxiv.org/abs/2507.20158"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
-<a href="https://github.com/IamCreateAI/AnimeColor"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
-*Yuhong Zhang, Liyao Wang, Han Wang, Danni Wu, Zuzeng Lin, Feng Wang, Li Song*\
-[Jul., 2025] [arXiv 2025]
+🚩【StoryBoard】**Story2Board: A Training-Free Approach for Expressive Storyboard Generation** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2508.09983"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://daviddinkevich.github.io/Story2Board/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;  
+<a href="https://github.com/daviddinkevich/Story2Board"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
+*David Dinkevich, Matan Levy, Omri Avrahami, Dvir Samuel, Dani Lischinski*\
+[Aug., 2025] [arXiv 2025]
 
-🚩【Colorization】**SketchColour: Channel Concat Guided DiT-based Sketch-to-Colour Pipeline for 2D Animation** &nbsp; | &nbsp; 
-<a href="https://arxiv.org/abs/2507.01586"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
-<a href="https://bconstantine.github.io/SketchColour/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
-<a href="https://github.com/bconstantine/SketchColour"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
-*Bryan Constantine Sadihin, Michael Hua Wang, Shei Pern Chua, Hang Su*\
-[Jul., 2025] [arXiv 2025]
+🚩【StoryBoard】**Lay2Story: Extending Diffusion Transformers for Layout-Togglable Story Generation** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2508.08949"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Ao Ma, Jiasong Feng, Ke Cao, Jing Wang, Yun Wang, Quanwei Zhang, Zhanjie Zhang*\
+[Aug., 2025] [arXiv 2025]
 
-🚩【Generation】**LongAnimation: Long Animation Generation with Dynamic Global-Local Memory** &nbsp; | &nbsp; 
-<a href="https://arxiv.org/abs/2507.01945"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
-<a href="https://cn-makers.github.io/long_animation_web/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
-<a href="https://github.com/CN-makers/LongAnimation"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
-*Nan Chen, Mengqi Huang, Yihao Meng, Zhendong Mao*\
-[Jul., 2025] [arXiv 2025]
+🚩【3D】**CharacterShot: Controllable and Consistent 4D Character Animation** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2508.07409"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://github.com/Jeoyal/CharacterShot"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Junyao Gao, Jiaxing Li, Wenran Liu, Yanhong Zeng, Fei Shen, Kai Chen, Yanan Sun, Cairong Zhao*\
+[Aug., 2025] [arXiv 2025]
 
-🚩【Dataset】**MagicAnime: A Hierarchically Annotated, Multimodal and Multitasking Dataset with Benchmarks for Cartoon Animation Generation** &nbsp; | &nbsp; 
-<a href="https://www.arxiv.org/abs/2507.20368"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
-*Shuolin Xu, Bingyuan Wang, Zeyu Cai, Fangteng Fu, Yue Ma, Tongyi Lee, Hongchuan Yu, Zeyu Wang*\
-[Jul., 2025] [arXiv 2025]
-
-🚩【Generation】**FairyGen: Storied Cartoon Video from a Single Child-Drawn Character** &nbsp; | &nbsp; 
-<a href="https://arxiv.org/abs/2506.21272"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
-<a href="https://jayleejia.github.io/FairyGen/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
-<a href="https://github.com/GVCLab/FairyGen"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
-*Jiayi Zheng, Xiaodong Cun*\
-[Jun., 2025] [arXiv 2025]
 
 
 ## Survey
@@ -118,6 +112,14 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 ## Generative Methods
 
+**ToonComposer: Streamlining Cartoon Production with Generative Post-Keyframing** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2508.10881"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://lg-li.github.io/project/tooncomposer/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://github.com/TencentARC/ToonComposer"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+[🤗](https://huggingface.co/spaces/TencentARC/ToonComposer) &nbsp;\
+*Lingen Li, Guangzhi Wang, Zhaoyang Zhang, Yaowei Li, Xiaoyu Li, Qi Dou, Jinwei Gu, Tianfan Xue, Ying Shan*\
+[Aug., 2025] [arXiv 2025]
+
 **LongAnimation: Long Animation Generation with Dynamic Global-Local Memory** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2507.01945"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
 <a href="https://cn-makers.github.io/long_animation_web/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
@@ -168,6 +170,20 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 *Jiaxu Zhang, Xianfang Zeng, Xin Chen, Wei Zuo, Gang Yu, Zhigang Tu*\
 [Nov.,2024] [arXiv, 2024]
 
+
+## StoryBoard
+
+**Story2Board: A Training-Free Approach for Expressive Storyboard Generation** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2508.09983"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://daviddinkevich.github.io/Story2Board/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;  
+<a href="https://github.com/daviddinkevich/Story2Board"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
+*David Dinkevich, Matan Levy, Omri Avrahami, Dvir Samuel, Dani Lischinski*\
+[Aug., 2025] [arXiv 2025]
+
+**Lay2Story: Extending Diffusion Transformers for Layout-Togglable Story Generation** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2508.08949"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Ao Ma, Jiasong Feng, Ke Cao, Jing Wang, Yun Wang, Quanwei Zhang, Zhanjie Zhang*\
+[Aug., 2025] [arXiv 2025]
 
 
 ## Colorization
@@ -401,6 +417,13 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 
 ## 3D&3DRotoscoping&3D Assistance
+
+**CharacterShot: Controllable and Consistent 4D Character Animation** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2508.07409"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://github.com/Jeoyal/CharacterShot"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Junyao Gao, Jiaxing Li, Wenran Liu, Yanhong Zeng, Fei Shen, Kai Chen, Yanan Sun, Cairong Zhao*\
+[Aug., 2025] [arXiv 2025]
+
 
 **Sketch2Anim: Towards Transferring Sketch Storyboards into 3D Animation** &nbsp; | &nbsp; 
 <a href="https://www.arxiv.org/abs/2504.19189"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
