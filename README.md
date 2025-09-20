@@ -26,6 +26,12 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 ## New Papers
 <!-- [<span style="color:red">*new</span>]  -->
 
+🚩【Colorization】**DACoN: DINO for Anime Paint Bucket Colorization with Any Number of Reference Images** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2509.14685"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://github.com/kzmngt/DACoN"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Kazuma Nagata, Naoshi Kaneko*\
+[Sep., 2025] [arXiv 2025]
+
 🚩【Generation】**ToonComposer: Streamlining Cartoon Production with Generative Post-Keyframing** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2508.10881"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
 <a href="https://lg-li.github.io/project/tooncomposer/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
@@ -187,6 +193,12 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 
 ## Colorization
+
+**DACoN: DINO for Anime Paint Bucket Colorization with Any Number of Reference Images** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2509.14685"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://github.com/kzmngt/DACoN"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Kazuma Nagata, Naoshi Kaneko*\
+[Sep., 2025] [arXiv 2025]
 
 **AnimeColor: Reference-based Animation Colorization with Diffusion Transformers** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2507.20158"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
