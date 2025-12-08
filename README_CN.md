@@ -27,6 +27,11 @@
 ## 新文章
 <!-- [<span style="color:red">*new</span>]  -->
 
+🚩【数据集】**OregairuChar: A Benchmark Dataset for Character Appearance Frequency Analysis in My Teen Romantic Comedy SNAFU**  &nbsp; | &nbsp;
+<a href="https://arxiv.org/abs/2511.05263"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Qi Sun, Dingju Zhou, Lina Zhang* \
+[Nov., 2025] [arXiv, 2025]
+
 🚩【上色】**DACoN: DINO for Anime Paint Bucket Colorization with Any Number of Reference Images** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2509.14685"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
 <a href="https://github.com/kzmngt/DACoN"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
@@ -39,24 +44,6 @@
 <a href="https://github.com/TencentARC/ToonComposer"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
 [🤗](https://huggingface.co/spaces/TencentARC/ToonComposer) &nbsp;\
 *Lingen Li, Guangzhi Wang, Zhaoyang Zhang, Yaowei Li, Xiaoyu Li, Qi Dou, Jinwei Gu, Tianfan Xue, Ying Shan*\
-[Aug., 2025] [arXiv 2025]
-
-🚩【分镜】**Story2Board: A Training-Free Approach for Expressive Storyboard Generation** &nbsp; | &nbsp; 
-<a href="https://arxiv.org/abs/2508.09983"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
-<a href="https://daviddinkevich.github.io/Story2Board/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;  
-<a href="https://github.com/daviddinkevich/Story2Board"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
-*David Dinkevich, Matan Levy, Omri Avrahami, Dvir Samuel, Dani Lischinski*\
-[Aug., 2025] [arXiv 2025]
-
-🚩【分镜】**Lay2Story: Extending Diffusion Transformers for Layout-Togglable Story Generation** &nbsp; | &nbsp; 
-<a href="https://arxiv.org/abs/2508.08949"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
-*Ao Ma, Jiasong Feng, Ke Cao, Jing Wang, Yun Wang, Quanwei Zhang, Zhanjie Zhang*\
-[Aug., 2025] [arXiv 2025]
-
-🚩【3D】**CharacterShot: Controllable and Consistent 4D Character Animation** &nbsp; | &nbsp; 
-<a href="https://arxiv.org/abs/2508.07409"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
-<a href="https://github.com/Jeoyal/CharacterShot"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
-*Junyao Gao, Jiaxing Li, Wenran Liu, Yanhong Zeng, Fei Shen, Kai Chen, Yanan Sun, Cairong Zhao*\
 [Aug., 2025] [arXiv 2025]
 
 
@@ -74,6 +61,11 @@
 
 
 ## 数据集
+
+**OregairuChar: A Benchmark Dataset for Character Appearance Frequency Analysis in My Teen Romantic Comedy SNAFU**  &nbsp; | &nbsp;
+<a href="https://arxiv.org/abs/2511.05263"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Qi Sun, Dingju Zhou, Lina Zhang* \
+[Nov., 2025] [arXiv, 2025]
 
 **MagicAnime: A Hierarchically Annotated, Multimodal and Multitasking Dataset with Benchmarks for Cartoon Animation Generation** &nbsp; | &nbsp; 
 <a href="https://www.arxiv.org/abs/2507.20368"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
