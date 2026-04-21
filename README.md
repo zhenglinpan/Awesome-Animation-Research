@@ -22,6 +22,7 @@ Cartoon research is new, niche, interesting, and we look forward to more researc
 
 The repo will keep track of the latest research. Feel free to follow and star ! 🌟
 
+**Table of Contents:**
 - [Awesome Animation Research](#awesome-animation-research)
   - [🚩New Papers](#new-papers)
   - [Survey](#survey)
@@ -35,12 +36,15 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
   - [Segmentation](#segmentation)
   - [3D\&3DRotoscoping\&3D Assistance](#3d3drotoscoping3d-assistance)
 
+---
+
+**Click to open/close the toggles!**
+
 <a id="new-papers"></a>
 <details open>
-<summary><strong>🚩 New Papers</strong></summary>
+<summary><strong>👉 🚩 New Papers</strong></summary>
 
 <!-- [<span style="color:red">*new</span>]  -->
-
 
 🚩【Survey】**From Pixels to Personas: Tracking the Evolution of Anime Characters** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2604.05507"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
@@ -102,7 +106,7 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 <a id="survey"></a>
 <details open>
-<summary><strong>Survey</strong></summary>
+<summary><strong>👉 Survey</strong></summary>
 
 **From Pixels to Personas: Tracking the Evolution of Anime Characters** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2604.05507"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
@@ -126,7 +130,7 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 <a id="datasets"></a>
 <details open>
-<summary><strong>Datasets</strong></summary>
+<summary><strong>👉 Datasets</strong></summary>
 
 **OregairuChar: A Benchmark Dataset for Character Appearance Frequency Analysis in My Teen Romantic Comedy SNAFU**  &nbsp; | &nbsp;
 <a href="https://arxiv.org/abs/2511.05263"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
@@ -182,7 +186,7 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 <a id="generative-methods"></a>
 <details open>
-<summary><strong>Generative Methods</strong></summary>
+<summary><strong>👉 Generative Methods</strong></summary>
 
 **Anime-Ready: Controllable 3D Anime Character Generation with Body-Aligned Component-Wise Garment Modeling** &nbsp; | &nbsp; 
 <a href="https://openreview.net/forum?id=BRoAjhYWoQ"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
@@ -252,7 +256,7 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 <a id="storyboard"></a>
 <details open>
-<summary><strong>StoryBoard</strong></summary>
+<summary><strong>👉 StoryBoard</strong></summary>
 
 **AnimeAgent: Is the Multi-Agent via Image-to-Video models a Good Disney Storytelling Artist?** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2602.20664"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
@@ -276,7 +280,7 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 <a id="colorization"></a>
 <details open>
-<summary><strong>Colorization</strong></summary>
+<summary><strong>👉 Colorization</strong></summary>
 
 **OmniColor: A Unified Framework for Multi-modal Lineart Colorization** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2603.27531"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
@@ -419,7 +423,7 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 <a id="inbetweening--interpolation"></a>
 <details open>
-<summary><strong>Inbetweening & Interpolation</strong></summary>
+<summary><strong>👉 Inbetweening & Interpolation</strong></summary>
 
 **Skeleton-Driven Inbetweening of Bitmap Character Drawings** &nbsp; | &nbsp;
 <a href="https://www-labs.iro.umontreal.ca/~bmpix/inbetweening/inbetweening.pdf"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
@@ -506,7 +510,7 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 <a id="editing"></a>
 <details open>
-<summary><strong>Editing</strong></summary>
+<summary><strong>👉 Editing</strong></summary>
 
 **See-through: Single-image Layer Decomposition for Anime Characters** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2602.03749"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
@@ -535,7 +539,7 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 <a id="tracking--matching"></a>
 <details open>
-<summary><strong>Tracking & Matching</strong></summary>
+<summary><strong>👉 Tracking & Matching</strong></summary>
 
 **Globally Optimal Toon Tracking** &nbsp; | &nbsp;
 <a href="https://dl.acm.org/doi/10.1145/2897824.2925872"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
@@ -548,7 +552,7 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 <a id="segmentation"></a>
 <details open>
-<summary><strong>Segmentation</strong></summary>
+<summary><strong>👉 Segmentation</strong></summary>
 
 **Fast Leak-Resistant Segmentation for Anime Line Art** &nbsp; | &nbsp;
 <a href="https://dl.acm.org/doi/full/10.1145/3681758.3698003"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
@@ -566,7 +570,7 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 <a id="3d3drotoscoping3d-assistance"></a>
 <details open>
-<summary><strong>3D&3DRotoscoping&3D Assistance</strong></summary>
+<summary><strong>👉 3D&3DRotoscoping&3D Assistance</strong></summary>
 
 **CharacterShot: Controllable and Consistent 4D Character Animation** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2508.07409"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
@@ -617,7 +621,7 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 <a id="how-to-contribute"></a>
 <details open>
-<summary><strong>How to Contribute</strong></summary>
+<summary><strong>👉 How to Contribute</strong></summary>
 
 We encourage animation enthusiasts, researchers, and scholars to contribute to this repository by adding relevant papers, articles, and resources. Your contributions will help build a valuable reference for anyone interested in the art and science of animation.
 
