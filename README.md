@@ -1,11 +1,10 @@
+<!-- This is a github repository -->
+
 ![img1](https://github.com/zhenglinpan/Awesome-Animation-Research/blob/master/assets/teaser.gif)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Teaser](https://img.shields.io/badge/Teaser_by-寝国-pink)](https://space.bilibili.com/177312952?spm_id_from=333.337.0.0)
-<p align="left">
-   ENGLISH | <a href="https://github.com/zhenglinpan/Awesome-Animation-Research/blob/master/README_CN.md">简体中文</a>
-</p>
 
 # Awesome Animation Research 
 
@@ -23,31 +22,98 @@ Cartoon research is new, niche, interesting, and we look forward to more researc
 
 The repo will keep track of the latest research. Feel free to follow and star ! 🌟
 
-## New Papers
+- [Awesome Animation Research](#awesome-animation-research)
+  - [🚩New Papers](#new-papers)
+  - [Survey](#survey)
+  - [Datasets](#datasets)
+  - [Generative Methods](#generative-methods)
+  - [StoryBoard](#storyboard)
+  - [Colorization](#colorization)
+  - [Inbetweening \& Interpolation](#inbetweening--interpolation)
+  - [Editing](#editing)
+  - [Tracking \& Matching](#tracking--matching)
+  - [Segmentation](#segmentation)
+  - [3D\&3DRotoscoping\&3D Assistance](#3d3drotoscoping3d-assistance)
+
+<a id="new-papers"></a>
+<details open>
+<summary><h2>New Papers</h2></summary>
+
 <!-- [<span style="color:red">*new</span>]  -->
 
-🚩【Dataset】**OregairuChar: A Benchmark Dataset for Character Appearance Frequency Analysis in My Teen Romantic Comedy SNAFU**  &nbsp; | &nbsp;
-<a href="https://arxiv.org/abs/2511.05263"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
-*Qi Sun, Dingju Zhou, Lina Zhang* \
-[Nov., 2025] [arXiv, 2025]
 
-🚩【Colorization】**DACoN: DINO for Anime Paint Bucket Colorization with Any Number of Reference Images** &nbsp; | &nbsp; 
-<a href="https://arxiv.org/abs/2509.14685"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
-<a href="https://github.com/kzmngt/DACoN"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
-*Kazuma Nagata, Naoshi Kaneko*\
-[Sep., 2025] [arXiv 2025]
+🚩【Survey】**From Pixels to Personas: Tracking the Evolution of Anime Characters** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2604.05507"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://github.com/Arc-Celt/pixels2personas"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Rongze Liu, Jiaxin Pei, Jian Zhu*\
+[Apr., 2026] [arXiv, 2026]
 
-🚩【Generation】**ToonComposer: Streamlining Cartoon Production with Generative Post-Keyframing** &nbsp; | &nbsp; 
-<a href="https://arxiv.org/abs/2508.10881"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
-<a href="https://lg-li.github.io/project/tooncomposer/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
-<a href="https://github.com/TencentARC/ToonComposer"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
-[🤗](https://huggingface.co/spaces/TencentARC/ToonComposer) &nbsp;\
-*Lingen Li, Guangzhi Wang, Zhaoyang Zhang, Yaowei Li, Xiaoyu Li, Qi Dou, Jinwei Gu, Tianfan Xue, Ying Shan*\
-[Aug., 2025] [arXiv 2025]
+🚩【Survey】**The Rise of AI-Generated Anime Avatars: Trends, Challenges, and Opportunities** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2603.28365"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Fernanda Miyuki Yamada, João Paulo Gois, Hiroki Takahashi*\
+[Mar., 2026] [arXiv, 2026]
+
+🚩【Colorization】**OmniColor: A Unified Framework for Multi-modal Lineart Colorization** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2603.27531"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://github.com/zhangxulu1996/OmniColor"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Xulu Zhang, Haoqian Du, Xiaoyong Wei, Qing Li*\
+[Mar., 2026] [arXiv, 2026]
+
+🚩【Colorization】**InstanceAnimator: Multi-Instance Sketch Video Colorization** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2603.25357"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://yinhan-zhang.github.io/animator/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/YinHan-Zhang/InstanceAnimator"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://modelscope.cn/datasets/NiceYinHan/OpenAnimate"><img src="./assets/dataset.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Yinhan Zhang, Yue Ma, Bingyuan Wang, Kunyu Feng, Yeying Jin, Qifeng Chen, Anyi Rao, Zeyu Wang*\
+[Mar., 2026] [arXiv, 2026]
+
+🚩【Storyboard】**AnimeAgent: Is the Multi-Agent via Image-to-Video models a Good Disney Storytelling Artist?** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2602.20664"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Hailong Yan, Shice Liu, Tao Wang, Xiangtao Zhang, Yijie Zhong, Jinwei Chen, Le Zhang, Bo Li*\
+[Feb., 2026] [arXiv, 2026]
+
+🚩【Editing】**See-through: Single-image Layer Decomposition for Anime Characters** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2602.03749"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+*Jian Lin, Chengze Li, Haoyun Qin, Kwun Wang Chan, Yanghua Jin, Hanyuan Liu, Stephen Chun Wang Choy, Xueting Liu*\
+[Feb., 2026] [arXiv, 2026]
+
+🚩【Colorization】**Line Art Colorization with Offset Prior-based Diffusion Model**  &nbsp; | &nbsp;
+<a href="https://openaccess.thecvf.com/content/WACV2026/papers/Zhu_Line_Art_Colorization_with_Offset_Prior-based_Diffusion_Model_WACV_2026_paper.pdf"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Xuan Zhu, Miao Cao, Fang-Lue Zhang, Yu-Kun Lai, Paul L Rosin* \
+[., 2025] [WACV, 2026]
+
+🚩【Colorization】**Diverse Sketch Colorization with Content-Enhanced Style Representation and Recolorization Distillation** &nbsp; | &nbsp; 
+<a href="https://openaccess.thecvf.com//content/WACV2026/papers/Mao_Diverse_Sketch_Colorization_with_Content-Enhanced_Style_Representation_and_Recolorization_Distillation_WACV_2026_paper.pdf"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Shuangming Mao, Haixiang Zhu*\
+[., 2026] [WACV, 2026]
+
+🚩【Colorization】**Uni-Animator: Towards Unified Visual Colorization** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2602.23191"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Xinyuan Chen, Yao Xu, Shaowen Wang, Pengjie Song, Bowen Deng*\
+[., 2026] [WACV, 2026]
+
+🚩【Generation, 3D】**Anime-Ready: Controllable 3D Anime Character Generation with Body-Aligned Component-Wise Garment Modeling** &nbsp; | &nbsp; 
+<a href="https://openreview.net/forum?id=BRoAjhYWoQ"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Jiachen Qian, Hongye Yang, Youtian Lin, tianhao zhao, Feihu Zhang, Yao Yao, Hengshuang Zhao*\
+[Jan., 2026] [ICLR, 2026]
 
 
+</details>
 
-## Survey
+<a id="survey"></a>
+<details>
+<summary><h2>Survey</h2></summary>
+
+**From Pixels to Personas: Tracking the Evolution of Anime Characters** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2604.05507"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://github.com/Arc-Celt/pixels2personas"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Rongze Liu, Jiaxin Pei, Jian Zhu*\
+[Apr., 2026] [arXiv, 2026]
+
+**The Rise of AI-Generated Anime Avatars: Trends, Challenges, and Opportunities** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2603.28365"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Fernanda Miyuki Yamada, João Paulo Gois, Hiroki Takahashi*\
+[Mar., 2026] [arXiv, 2026]
 
 **Generative AI for Cel-Animation: A Survey** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2501.06250"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
@@ -56,7 +122,11 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 [Jan., 2025] [arXiv 2025]
 
 
-## Datasets
+</details>
+
+<a id="datasets"></a>
+<details>
+<summary><h2>Datasets</h2></summary>
 
 **OregairuChar: A Benchmark Dataset for Character Appearance Frequency Analysis in My Teen Romantic Comedy SNAFU**  &nbsp; | &nbsp;
 <a href="https://arxiv.org/abs/2511.05263"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
@@ -108,7 +178,16 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 [10 Nov., 2022] [NeurIPS, 2022]
 
 
-## Generative Methods
+</details>
+
+<a id="generative-methods"></a>
+<details>
+<summary><h2>Generative Methods</h2></summary>
+
+**Anime-Ready: Controllable 3D Anime Character Generation with Body-Aligned Component-Wise Garment Modeling** &nbsp; | &nbsp; 
+<a href="https://openreview.net/forum?id=BRoAjhYWoQ"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Jiachen Qian, Hongye Yang, Youtian Lin, tianhao zhao, Feihu Zhang, Yao Yao, Hengshuang Zhao*\
+[Jan., 2026] [ICLR, 2026]
 
 **ToonComposer: Streamlining Cartoon Production with Generative Post-Keyframing** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2508.10881"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
@@ -169,7 +248,16 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 [Nov.,2024] [arXiv, 2024]
 
 
-## StoryBoard
+</details>
+
+<a id="storyboard"></a>
+<details>
+<summary><h2>StoryBoard</h2></summary>
+
+**AnimeAgent: Is the Multi-Agent via Image-to-Video models a Good Disney Storytelling Artist?** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2602.20664"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Hailong Yan, Shice Liu, Tao Wang, Xiangtao Zhang, Yijie Zhong, Jinwei Chen, Le Zhang, Bo Li*\
+[Feb., 2026] [arXiv, 2026]
 
 **Story2Board: A Training-Free Approach for Expressive Storyboard Generation** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2508.09983"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
@@ -184,7 +272,40 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 [Aug., 2025] [arXiv 2025]
 
 
-## Colorization
+</details>
+
+<a id="colorization"></a>
+<details>
+<summary><h2>Colorization</h2></summary>
+
+**OmniColor: A Unified Framework for Multi-modal Lineart Colorization** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2603.27531"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://github.com/zhangxulu1996/OmniColor"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Xulu Zhang, Haoqian Du, Xiaoyong Wei, Qing Li*\
+[Mar., 2026] [arXiv, 2026]
+
+**InstanceAnimator: Multi-Instance Sketch Video Colorization** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2603.25357"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://yinhan-zhang.github.io/animator/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/YinHan-Zhang/InstanceAnimator"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+<a href="https://modelscope.cn/datasets/NiceYinHan/OpenAnimate"><img src="./assets/dataset.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Yinhan Zhang, Yue Ma, Bingyuan Wang, Kunyu Feng, Yeying Jin, Qifeng Chen, Anyi Rao, Zeyu Wang*\
+[Mar., 2026] [arXiv, 2026]
+
+**Line Art Colorization with Offset Prior-based Diffusion Model**  &nbsp; | &nbsp;
+<a href="https://openaccess.thecvf.com/content/WACV2026/papers/Zhu_Line_Art_Colorization_with_Offset_Prior-based_Diffusion_Model_WACV_2026_paper.pdf"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Xuan Zhu, Miao Cao, Fang-Lue Zhang, Yu-Kun Lai, Paul L Rosin* \
+[., 2025] [WACV, 2026]
+
+**Diverse Sketch Colorization with Content-Enhanced Style Representation and Recolorization Distillation** &nbsp; | &nbsp; 
+<a href="https://openaccess.thecvf.com//content/WACV2026/papers/Mao_Diverse_Sketch_Colorization_with_Content-Enhanced_Style_Representation_and_Recolorization_Distillation_WACV_2026_paper.pdf"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Shuangming Mao, Haixiang Zhu*\
+[., 2026] [WACV, 2026]
+
+**Uni-Animator: Towards Unified Visual Colorization** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2602.23191"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Xinyuan Chen, Yao Xu, Shaowen Wang, Pengjie Song, Bowen Deng*\
+[., 2026] [WACV, 2026]
 
 **DACoN: DINO for Anime Paint Bucket Colorization with Any Number of Reference Images** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2509.14685"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
@@ -294,7 +415,11 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 
 
-## Inbetweening & Interpolation
+</details>
+
+<a id="inbetweening--interpolation"></a>
+<details>
+<summary><h2>Inbetweening & Interpolation</h2></summary>
 
 **Skeleton-Driven Inbetweening of Bitmap Character Drawings** &nbsp; | &nbsp;
 <a href="https://www-labs.iro.umontreal.ca/~bmpix/inbetweening/inbetweening.pdf"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
@@ -377,7 +502,16 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 
 
-## Editing
+</details>
+
+<a id="editing"></a>
+<details>
+<summary><h2>Editing</h2></summary>
+
+**See-through: Single-image Layer Decomposition for Anime Characters** &nbsp; | &nbsp; 
+<a href="https://arxiv.org/abs/2602.03749"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
+*Jian Lin, Chengze Li, Haoyun Qin, Kwun Wang Chan, Yanghua Jin, Hanyuan Liu, Stephen Chun Wang Choy, Xueting Liu*\
+[Feb., 2026] [arXiv, 2026]
 
 **Re:Draw -- Context Aware Translation as a Controllable Method for Artistic Production** &nbsp; | &nbsp;
 <a href="https://arxiv.org/abs/2401.03499"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
@@ -397,7 +531,11 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 
 
-## Tracking & Matching
+</details>
+
+<a id="tracking--matching"></a>
+<details>
+<summary><h2>Tracking & Matching</h2></summary>
 
 **Globally Optimal Toon Tracking** &nbsp; | &nbsp;
 <a href="https://dl.acm.org/doi/10.1145/2897824.2925872"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;\
@@ -406,7 +544,11 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 
 
-## Segmentation
+</details>
+
+<a id="segmentation"></a>
+<details>
+<summary><h2>Segmentation</h2></summary>
 
 **Fast Leak-Resistant Segmentation for Anime Line Art** &nbsp; | &nbsp;
 <a href="https://dl.acm.org/doi/full/10.1145/3681758.3698003"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
@@ -420,7 +562,11 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 
 
-## 3D&3DRotoscoping&3D Assistance
+</details>
+
+<a id="3d3drotoscoping3d-assistance"></a>
+<details>
+<summary><h2>3D&3DRotoscoping&3D Assistance</h2></summary>
 
 **CharacterShot: Controllable and Consistent 4D Character Animation** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2508.07409"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
@@ -467,7 +613,12 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 
 
-## How to Contribute
+</details>
+
+<a id="how-to-contribute"></a>
+<details>
+<summary><h2>How to Contribute</h2></summary>
+
 We encourage animation enthusiasts, researchers, and scholars to contribute to this repository by adding relevant papers, articles, and resources. Your contributions will help build a valuable reference for anyone interested in the art and science of animation.
 
 To contribute, simply fork this repository, make your additions or improvements, and submit a pull request. Please follow the contribution guidelines outlined in the repository's README file.
@@ -482,3 +633,5 @@ To contribute, simply fork this repository, make your additions or improvements,
    <img src="https://github.com/zhenglinpan/Awesome-Animation-Research/blob/master/assets/Hatsune_Miku_@illufinch.png" width="40" >
 </div>
 <p align="center"><sub><i>icon by Twitter</i>©illufinch</sub></p>
+
+</details>
