@@ -425,6 +425,12 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 <details>
 <summary><strong>👉 Inbetweening & Interpolation</strong></summary>
 
+**Animating on Twos: Training Keyframe-Animation Adapters on a Pretrained Video Model** &nbsp; | &nbsp;
+<a href="https://alvdansen.github.io/animating-on-twos/"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/alvdansen/animating-on-twos"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Minta Carlson, Timothy Bielec*\
+[Aug., 2026] [Alvdansen Labs, 2026]
+
 **Skeleton-Driven Inbetweening of Bitmap Character Drawings** &nbsp; | &nbsp;
 <a href="https://www-labs.iro.umontreal.ca/~bmpix/inbetweening/inbetweening.pdf"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
 <a href="https://www-labs.iro.umontreal.ca/~bmpix/inbetweening/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;  \
