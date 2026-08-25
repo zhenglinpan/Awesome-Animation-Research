@@ -46,6 +46,12 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 <!-- [<span style="color:red">*new</span>]  -->
 
+🚩 **Animating on Twos: Training Keyframe-Animation Adapters on a Pretrained Video Model** &nbsp; | &nbsp;
+<a href="https://alvdansen.github.io/animating-on-twos/"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/alvdansen/animating-on-twos"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Minta Carlson, Timothy Bielec*\
+[Aug., 2026] [Alvdansen Labs, 2026]
+
 🚩【Survey】**From Pixels to Personas: Tracking the Evolution of Anime Characters** &nbsp; | &nbsp; 
 <a href="https://arxiv.org/abs/2604.05507"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
 <a href="https://github.com/Arc-Celt/pixels2personas"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
@@ -62,44 +68,6 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 <a href="https://github.com/zhangxulu1996/OmniColor"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
 *Xulu Zhang, Haoqian Du, Xiaoyong Wei, Qing Li*\
 [Mar., 2026] [arXiv, 2026]
-
-🚩【Colorization】**InstanceAnimator: Multi-Instance Sketch Video Colorization** &nbsp; | &nbsp; 
-<a href="https://arxiv.org/abs/2603.25357"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
-<a href="https://yinhan-zhang.github.io/animator/"><img src="./assets/webpage.svg" alt="Icon" width="15" height="15"></a> &nbsp;
-<a href="https://github.com/YinHan-Zhang/InstanceAnimator"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
-<a href="https://modelscope.cn/datasets/NiceYinHan/OpenAnimate"><img src="./assets/dataset.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
-*Yinhan Zhang, Yue Ma, Bingyuan Wang, Kunyu Feng, Yeying Jin, Qifeng Chen, Anyi Rao, Zeyu Wang*\
-[Mar., 2026] [arXiv, 2026]
-
-🚩【Storyboard】**AnimeAgent: Is the Multi-Agent via Image-to-Video models a Good Disney Storytelling Artist?** &nbsp; | &nbsp; 
-<a href="https://arxiv.org/abs/2602.20664"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
-*Hailong Yan, Shice Liu, Tao Wang, Xiangtao Zhang, Yijie Zhong, Jinwei Chen, Le Zhang, Bo Li*\
-[Feb., 2026] [arXiv, 2026]
-
-🚩【Editing】**See-through: Single-image Layer Decomposition for Anime Characters** &nbsp; | &nbsp; 
-<a href="https://arxiv.org/abs/2602.03749"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; 
-*Jian Lin, Chengze Li, Haoyun Qin, Kwun Wang Chan, Yanghua Jin, Hanyuan Liu, Stephen Chun Wang Choy, Xueting Liu*\
-[Feb., 2026] [arXiv, 2026]
-
-🚩【Colorization】**Line Art Colorization with Offset Prior-based Diffusion Model**  &nbsp; | &nbsp;
-<a href="https://openaccess.thecvf.com/content/WACV2026/papers/Zhu_Line_Art_Colorization_with_Offset_Prior-based_Diffusion_Model_WACV_2026_paper.pdf"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
-*Xuan Zhu, Miao Cao, Fang-Lue Zhang, Yu-Kun Lai, Paul L Rosin* \
-[., 2025] [WACV, 2026]
-
-🚩【Colorization】**Diverse Sketch Colorization with Content-Enhanced Style Representation and Recolorization Distillation** &nbsp; | &nbsp; 
-<a href="https://openaccess.thecvf.com//content/WACV2026/papers/Mao_Diverse_Sketch_Colorization_with_Content-Enhanced_Style_Representation_and_Recolorization_Distillation_WACV_2026_paper.pdf"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
-*Shuangming Mao, Haixiang Zhu*\
-[., 2026] [WACV, 2026]
-
-🚩【Colorization】**Uni-Animator: Towards Unified Visual Colorization** &nbsp; | &nbsp; 
-<a href="https://arxiv.org/abs/2602.23191"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
-*Xinyuan Chen, Yao Xu, Shaowen Wang, Pengjie Song, Bowen Deng*\
-[., 2026] [WACV, 2026]
-
-🚩【Generation, 3D】**Anime-Ready: Controllable 3D Anime Character Generation with Body-Aligned Component-Wise Garment Modeling** &nbsp; | &nbsp; 
-<a href="https://openreview.net/forum?id=BRoAjhYWoQ"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
-*Jiachen Qian, Hongye Yang, Youtian Lin, tianhao zhao, Feihu Zhang, Yao Yao, Hengshuang Zhao*\
-[Jan., 2026] [ICLR, 2026]
 
 
 </details>
