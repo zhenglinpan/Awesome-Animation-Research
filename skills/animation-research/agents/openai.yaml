@@ -1,0 +1,4 @@
+interface:
+  display_name: "Animation Research"
+  short_description: "Find animation papers and verify their resources"
+  default_prompt: "Use $animation-research to find recent 2D animation-production papers and verify their official code, datasets, homepages and Hugging Face resources."

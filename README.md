@@ -8,15 +8,16 @@
 
 # Awesome Animation Research 
 
+> ### 🤖 Let your agent find your next animation paper
+> Hey, it's Agent Era already. You can discover new research, check official resources, and get a weekly digest. You can use these skills:
+>
+> **[🔎 Explore animation research](skills/animation-research/SKILL.md)** &nbsp; | &nbsp; **[📬 Set up a weekly paper watch](prompts/animation-research-watch.md)**
+
 This repository provides a curated collection of research for **🎞️hand-drawn animation / 🎞️cartoon videos**. 
 
 💁‍♀️**What You'll Find Here:** **Anime Video Research.** Stuff closely related to hand-drawn animation(cartoon video) that could potentially **assist enthusiasts or professionals create animations**. e.g. Inbetweening, Colorization, etc.
 
 🤷‍♀️**What's Not Included:** **General Anime Research.** i.e. Anime Style Transfer, Anime Image Enhancement, Anime Image generation. If you are interested in general anime research, please refer to this cool repo: [🕶️AwesomeAnimeResearch](https://github.com/SerialLain3170/AwesomeAnimeResearch).
-
-Pure manga/comic research (generation, colorization, panel layout, or understanding) is outside this repository’s scope. Manga-to-animation work is considered only when it contributes directly to animation production and evaluates animation outputs; generic illustration segmentation alone is not sufficient.
-
-> **Follow animation research with Codex** — [Set up a weekly paper watch](prompts/animation-research-watch.md). Open the prompt, copy its text block into Codex, and run it.
 
 ****
 
@@ -50,7 +51,10 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 🚩【Storyboard】**Manga2Animate: An Agentic Framework for Faithful Manga Animation with Script and Storyboard Planning** &nbsp; | &nbsp;
 <a href="https://arxiv.org/abs/2610.26851"><img src="./assets/paper.svg" alt="Paper" width="15" height="15"></a> &nbsp;
-<a href="https://annchenn.github.io/Manga2Animate/"><img src="./assets/webpage.svg" alt="Project page" width="15" height="15"></a> &nbsp; \
+<a href="https://annchenn.github.io/Manga2Animate/"><img src="./assets/webpage.svg" alt="Project page" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/annchenn/Manga2Animate" title="Official code"><img src="./assets/repo.svg" alt="Official code" width="15" height="15"></a> &nbsp;
+<a href="https://drive.google.com/drive/folders/1CTwp8wCjtqUCDPo5QmUIPYL7WjWh3VCP" title="Evaluation data"><img src="./assets/dataset.svg" alt="Evaluation data" width="15" height="15"></a> &nbsp;
+<a href="https://huggingface.co/papers/2610.26851" title="Hugging Face paper page (not weights or demo)">🤗</a> &nbsp; \
 *Sheng-Wei Zhang, Hsi-An Chen, Yan-Ting Liou, Chih-Hsuan Chen, Shih-Chen Tseng, Yu-Lun Liu*\
 [19 Oct., 2026] [arXiv, 2026]
 
@@ -61,23 +65,32 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 🚩【Colorization】**PeCA: Palette Context Assisted Inference for Test-Time Paint-Bucket Colourisation on Animation Videos** &nbsp; | &nbsp;
 <a href="https://arxiv.org/abs/2608.00903"><img src="./assets/paper.svg" alt="Paper" width="15" height="15"></a> &nbsp;
-<a href="https://rathgrith.github.io/PeCA/"><img src="./assets/webpage.svg" alt="Project page" width="15" height="15"></a> &nbsp; \
+<a href="https://rathgrith.github.io/PeCA/"><img src="./assets/webpage.svg" alt="Project page" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/Rathgrith/PeCA" title="Official code"><img src="./assets/repo.svg" alt="Official code" width="15" height="15"></a> &nbsp; \
 *Dongheng Lin, Jianbo Jiao*\
 [2 Aug., 2026] [ECCV, 2026]
 
 🚩【Inbetweening】**LayerInbetween: Occlusion-Aware Stroke Correspondence and Inbetweening with Automatic Layering** &nbsp; | &nbsp;
 <a href="https://doi.org/10.1145/3811364"><img src="./assets/paper.svg" alt="Paper" width="15" height="15"></a> &nbsp;
-<a href="https://mo-haoran.com/LayerInbetween/"><img src="./assets/webpage.svg" alt="Project page" width="15" height="15"></a> &nbsp; \
+<a href="https://mo-haoran.com/LayerInbetween/"><img src="./assets/webpage.svg" alt="Project page" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/MarkMoHR/LayerInbetween" title="Official code"><img src="./assets/repo.svg" alt="Official code" width="15" height="15"></a> &nbsp; \
 *Haoran Mo, Zhongyue Guan, Yixin Hu, Zeyu Wang*\
 [3 Jul., 2026; online publication] [TOG / SIGGRAPH, 2026]
 
 🚩【Storyboard】**DrawVideo: Grounded and Faithful Multi-Shot Video Generation from Storyboard Keyframe Sketches** &nbsp; | &nbsp;
-<a href="https://arxiv.org/abs/2605.23508"><img src="./assets/paper.svg" alt="Paper" width="15" height="15"></a> &nbsp; \
+<a href="https://arxiv.org/abs/2605.23508"><img src="./assets/paper.svg" alt="Paper" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/LouckXu/DrawVideo" title="Official code"><img src="./assets/repo.svg" alt="Official code" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/LouckXu/DrawVideo#sketchlongvideo" title="SketchLongVideo access instructions (download requires sign-in)"><img src="./assets/dataset.svg" alt="SketchLongVideo access instructions (download requires sign-in)" width="15" height="15"></a> &nbsp; \
 *Chuanzhi Xu, Huiqi Liang, Bang Shi, Huiming Zhang, Guangcheng Lin, Yifan Xiao, Haodong Chen, Qiang Qu, Zhicheng Lu, Weidong Cai*\
 [22 May, 2026; revised 2 Oct., 2026] [arXiv, 2026]
 
 🚩【Generation】**CogOmniControl: Reasoning-Driven Controllable Video Generation via Creative Intent Cognition** &nbsp; | &nbsp;
-<a href="https://arxiv.org/abs/2605.19995"><img src="./assets/paper.svg" alt="Paper" width="15" height="15"></a> &nbsp; \
+<a href="https://arxiv.org/abs/2605.19995"><img src="./assets/paper.svg" alt="Paper" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/um-lab/CogOmniControl-Offical" title="Official code"><img src="./assets/repo.svg" alt="Official code" width="15" height="15"></a> &nbsp;
+<a href="https://um-lab.github.io/CogOmniControl/" title="Project page"><img src="./assets/webpage.svg" alt="Project page" width="15" height="15"></a> &nbsp;
+<a href="https://huggingface.co/datasets/yang1232009/CogControlBench" title="CogControlBench dataset"><img src="./assets/dataset.svg" alt="CogControlBench dataset" width="15" height="15"></a> &nbsp;
+<a href="https://huggingface.co/yang1232009/CogOmniControl" title="CogOmniDiT weights">🤗</a> &nbsp;
+<a href="https://huggingface.co/yang1232009/CogVLM" title="CogVLM weights">🤗</a> &nbsp; \
 *Hongji Yang, Songlian Li, Yucheng Zhou, Xiaotong Zhao, Alan Zhao, Chengzhong Xu, Jianbing Shen*\
 [19 May, 2026] [arXiv, 2026]
 
@@ -88,12 +101,16 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 🚩【Colorization】**No Pixel Left Behind: Filling Gaps in Anime Colorization** &nbsp; | &nbsp;
 <a href="https://arxiv.org/abs/2609.00800"><img src="./assets/paper.svg" alt="Paper" width="15" height="15"></a> &nbsp;
-<a href="https://marc2825.github.io/GapFill/"><img src="./assets/webpage.svg" alt="Project page" width="15" height="15"></a> &nbsp; \
+<a href="https://marc2825.github.io/GapFill/"><img src="./assets/webpage.svg" alt="Project page" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/marc2825/GapFill" title="Official code"><img src="./assets/repo.svg" alt="Official code" width="15" height="15"></a> &nbsp;
+<a href="https://gapfill-refactored.marckono2825-033.workers.dev/" title="Interactive GapFill demo"><img src="./assets/demo.svg" alt="Interactive GapFill demo" width="15" height="15"></a> &nbsp; \
 *Masahiro Kono, Akinobu Maejima, Yuki Koyama, Yotam Sechayk, Takeo Igarashi*\
 [Apr., 2026; conference presentation; arXiv uploaded 1 Sep., 2026] [CHI, 2026]
 
 🚩【Colorization】**TimeColor: Flexible Reference Colorization via Temporal Concatenation** &nbsp; | &nbsp;
-<a href="https://arxiv.org/abs/2601.00296"><img src="./assets/paper.svg" alt="Paper" width="15" height="15"></a> &nbsp; \
+<a href="https://arxiv.org/abs/2601.00296"><img src="./assets/paper.svg" alt="Paper" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/bconstantine/TimeColor" title="Official code"><img src="./assets/repo.svg" alt="Official code" width="15" height="15"></a> &nbsp;
+<a href="https://bconstantine.github.io/TimeColor/" title="Project page"><img src="./assets/webpage.svg" alt="Project page" width="15" height="15"></a> &nbsp; \
 *Bryan Constantine Sadihin, Yihao Meng, Michael Hua Wang, Matteo Jiahao Chen, Hang Su*\
 [1 Jan., 2026] [arXiv, 2026]
 
@@ -212,7 +229,12 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 <a id="paper-cogomnicontrol"></a>
 
 **CogOmniControl: Reasoning-Driven Controllable Video Generation via Creative Intent Cognition** &nbsp; | &nbsp;
-<a href="https://arxiv.org/abs/2605.19995"><img src="./assets/paper.svg" alt="Paper" width="15" height="15"></a> &nbsp; \
+<a href="https://arxiv.org/abs/2605.19995"><img src="./assets/paper.svg" alt="Paper" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/um-lab/CogOmniControl-Offical" title="Official code"><img src="./assets/repo.svg" alt="Official code" width="15" height="15"></a> &nbsp;
+<a href="https://um-lab.github.io/CogOmniControl/" title="Project page"><img src="./assets/webpage.svg" alt="Project page" width="15" height="15"></a> &nbsp;
+<a href="https://huggingface.co/datasets/yang1232009/CogControlBench" title="CogControlBench dataset"><img src="./assets/dataset.svg" alt="CogControlBench dataset" width="15" height="15"></a> &nbsp;
+<a href="https://huggingface.co/yang1232009/CogOmniControl" title="CogOmniDiT weights">🤗</a> &nbsp;
+<a href="https://huggingface.co/yang1232009/CogVLM" title="CogVLM weights">🤗</a> &nbsp; \
 *Hongji Yang, Songlian Li, Yucheng Zhou, Xiaotong Zhao, Alan Zhao, Chengzhong Xu, Jianbing Shen*\
 [19 May, 2026] [arXiv, 2026]
 
@@ -297,14 +319,19 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 **Manga2Animate: An Agentic Framework for Faithful Manga Animation with Script and Storyboard Planning** &nbsp; | &nbsp;
 <a href="https://arxiv.org/abs/2610.26851"><img src="./assets/paper.svg" alt="Paper" width="15" height="15"></a> &nbsp;
-<a href="https://annchenn.github.io/Manga2Animate/"><img src="./assets/webpage.svg" alt="Project page" width="15" height="15"></a> &nbsp; \
+<a href="https://annchenn.github.io/Manga2Animate/"><img src="./assets/webpage.svg" alt="Project page" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/annchenn/Manga2Animate" title="Official code"><img src="./assets/repo.svg" alt="Official code" width="15" height="15"></a> &nbsp;
+<a href="https://drive.google.com/drive/folders/1CTwp8wCjtqUCDPo5QmUIPYL7WjWh3VCP" title="Evaluation data"><img src="./assets/dataset.svg" alt="Evaluation data" width="15" height="15"></a> &nbsp;
+<a href="https://huggingface.co/papers/2610.26851" title="Hugging Face paper page (not weights or demo)">🤗</a> &nbsp; \
 *Sheng-Wei Zhang, Hsi-An Chen, Yan-Ting Liou, Chih-Hsuan Chen, Shih-Chen Tseng, Yu-Lun Liu*\
 [19 Oct., 2026] [arXiv, 2026]
 
 <a id="paper-drawvideo"></a>
 
 **DrawVideo: Grounded and Faithful Multi-Shot Video Generation from Storyboard Keyframe Sketches** &nbsp; | &nbsp;
-<a href="https://arxiv.org/abs/2605.23508"><img src="./assets/paper.svg" alt="Paper" width="15" height="15"></a> &nbsp; \
+<a href="https://arxiv.org/abs/2605.23508"><img src="./assets/paper.svg" alt="Paper" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/LouckXu/DrawVideo" title="Official code"><img src="./assets/repo.svg" alt="Official code" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/LouckXu/DrawVideo#sketchlongvideo" title="SketchLongVideo access instructions (download requires sign-in)"><img src="./assets/dataset.svg" alt="SketchLongVideo access instructions (download requires sign-in)" width="15" height="15"></a> &nbsp; \
 *Chuanzhi Xu, Huiqi Liang, Bang Shi, Huiming Zhang, Guangcheng Lin, Yifan Xiao, Haodong Chen, Qiang Qu, Zhicheng Lu, Weidong Cai*\
 [22 May, 2026; revised 2 Oct., 2026] [arXiv, 2026]
 
@@ -343,7 +370,8 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 **PeCA: Palette Context Assisted Inference for Test-Time Paint-Bucket Colourisation on Animation Videos** &nbsp; | &nbsp;
 <a href="https://arxiv.org/abs/2608.00903"><img src="./assets/paper.svg" alt="Paper" width="15" height="15"></a> &nbsp;
-<a href="https://rathgrith.github.io/PeCA/"><img src="./assets/webpage.svg" alt="Project page" width="15" height="15"></a> &nbsp; \
+<a href="https://rathgrith.github.io/PeCA/"><img src="./assets/webpage.svg" alt="Project page" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/Rathgrith/PeCA" title="Official code"><img src="./assets/repo.svg" alt="Official code" width="15" height="15"></a> &nbsp; \
 *Dongheng Lin, Jianbo Jiao*\
 [2 Aug., 2026] [ECCV, 2026]
 
@@ -351,7 +379,9 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 **No Pixel Left Behind: Filling Gaps in Anime Colorization** &nbsp; | &nbsp;
 <a href="https://arxiv.org/abs/2609.00800"><img src="./assets/paper.svg" alt="Paper" width="15" height="15"></a> &nbsp;
-<a href="https://marc2825.github.io/GapFill/"><img src="./assets/webpage.svg" alt="Project page" width="15" height="15"></a> &nbsp; \
+<a href="https://marc2825.github.io/GapFill/"><img src="./assets/webpage.svg" alt="Project page" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/marc2825/GapFill" title="Official code"><img src="./assets/repo.svg" alt="Official code" width="15" height="15"></a> &nbsp;
+<a href="https://gapfill-refactored.marckono2825-033.workers.dev/" title="Interactive GapFill demo"><img src="./assets/demo.svg" alt="Interactive GapFill demo" width="15" height="15"></a> &nbsp; \
 *Masahiro Kono, Akinobu Maejima, Yuki Koyama, Yotam Sechayk, Takeo Igarashi*\
 [Apr., 2026; conference presentation; arXiv uploaded 1 Sep., 2026] [CHI, 2026]
 
@@ -387,7 +417,9 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 <a id="paper-timecolor"></a>
 
 **TimeColor: Flexible Reference Colorization via Temporal Concatenation** &nbsp; | &nbsp;
-<a href="https://arxiv.org/abs/2601.00296"><img src="./assets/paper.svg" alt="Paper" width="15" height="15"></a> &nbsp; \
+<a href="https://arxiv.org/abs/2601.00296"><img src="./assets/paper.svg" alt="Paper" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/bconstantine/TimeColor" title="Official code"><img src="./assets/repo.svg" alt="Official code" width="15" height="15"></a> &nbsp;
+<a href="https://bconstantine.github.io/TimeColor/" title="Project page"><img src="./assets/webpage.svg" alt="Project page" width="15" height="15"></a> &nbsp; \
 *Bryan Constantine Sadihin, Yihao Meng, Michael Hua Wang, Matteo Jiahao Chen, Hang Su*\
 [1 Jan., 2026] [arXiv, 2026]
 
@@ -515,7 +547,8 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 
 **LayerInbetween: Occlusion-Aware Stroke Correspondence and Inbetweening with Automatic Layering** &nbsp; | &nbsp;
 <a href="https://doi.org/10.1145/3811364"><img src="./assets/paper.svg" alt="Paper" width="15" height="15"></a> &nbsp;
-<a href="https://mo-haoran.com/LayerInbetween/"><img src="./assets/webpage.svg" alt="Project page" width="15" height="15"></a> &nbsp; \
+<a href="https://mo-haoran.com/LayerInbetween/"><img src="./assets/webpage.svg" alt="Project page" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/MarkMoHR/LayerInbetween" title="Official code"><img src="./assets/repo.svg" alt="Official code" width="15" height="15"></a> &nbsp; \
 *Haoran Mo, Zhongyue Guan, Yixin Hu, Zeyu Wang*\
 [3 Jul., 2026; online publication] [TOG / SIGGRAPH, 2026]
 
