@@ -48,19 +48,80 @@ The repo will keep track of the latest research. Feel free to follow and star ! 
 <details>
 <summary><strong>👉 🚩 New Papers</strong></summary>
 
-Added on 8 Nov., 2026 — includes newly published research and earlier missing papers. Dates in the main entries distinguish preprints, publication, and later uploads.
+🚩【Storyboard】**Manga2Animate: An Agentic Framework for Faithful Manga Animation with Script and Storyboard Planning** &nbsp; | &nbsp;
+<a href="https://arxiv.org/abs/2610.26851"><img src="./assets/paper.svg" alt="Paper" width="15" height="15"></a> &nbsp;
+<a href="https://annchenn.github.io/Manga2Animate/"><img src="./assets/webpage.svg" alt="Project page" width="15" height="15"></a> &nbsp; \
+*Sheng-Wei Zhang, Hsi-An Chen, Yan-Ting Liou, Chih-Hsuan Chen, Shih-Chen Tseng, Yu-Lun Liu*\
+[19 Oct., 2026] [arXiv, 2026]
 
-- **StoryBoard:** [Manga2Animate: An Agentic Framework for Faithful Manga Animation with Script and Storyboard Planning](#paper-manga2animate)
-- **Colorization:** [TopoColor: Topology-Aware Region Correspondence for Line Art Colorization](#paper-topocolor)
-- **Colorization:** [PeCA: Palette Context Assisted Inference for Test-Time Paint-Bucket Colourisation on Animation Videos](#paper-peca)
-- **Inbetweening & Interpolation:** [LayerInbetween: Occlusion-Aware Stroke Correspondence and Inbetweening with Automatic Layering](#paper-layerinbetween)
-- **StoryBoard:** [DrawVideo: Grounded and Faithful Multi-Shot Video Generation from Storyboard Keyframe Sketches](#paper-drawvideo)
-- **Generative Methods:** [CogOmniControl: Reasoning-Driven Controllable Video Generation via Creative Intent Cognition](#paper-cogomnicontrol)
-- **Generative Methods:** [AniMatrix: An Anime Video Generation Model that Thinks in Art, Not Physics](#paper-animatrix)
-- **Colorization:** [No Pixel Left Behind: Filling Gaps in Anime Colorization](#paper-gapfill)
-- **Colorization:** [TimeColor: Flexible Reference Colorization via Temporal Concatenation](#paper-timecolor)
+🚩【Colorization】**TopoColor: Topology-Aware Region Correspondence for Line Art Colorization** &nbsp; | &nbsp;
+<a href="https://doi.org/10.1109/TVCG.2026.3725399"><img src="./assets/paper.svg" alt="Paper" width="15" height="15"></a> &nbsp; \
+*Bin Huang, Haoran Mo, Chengying Gao*\
+[20 Aug., 2026; online publication] [TVCG, 2026]
 
-Previously added: [Animating on Twos](#inbetweening--interpolation).
+🚩【Colorization】**PeCA: Palette Context Assisted Inference for Test-Time Paint-Bucket Colourisation on Animation Videos** &nbsp; | &nbsp;
+<a href="https://arxiv.org/abs/2608.00903"><img src="./assets/paper.svg" alt="Paper" width="15" height="15"></a> &nbsp;
+<a href="https://rathgrith.github.io/PeCA/"><img src="./assets/webpage.svg" alt="Project page" width="15" height="15"></a> &nbsp; \
+*Dongheng Lin, Jianbo Jiao*\
+[2 Aug., 2026] [ECCV, 2026]
+
+🚩【Inbetweening】**LayerInbetween: Occlusion-Aware Stroke Correspondence and Inbetweening with Automatic Layering** &nbsp; | &nbsp;
+<a href="https://doi.org/10.1145/3811364"><img src="./assets/paper.svg" alt="Paper" width="15" height="15"></a> &nbsp;
+<a href="https://mo-haoran.com/LayerInbetween/"><img src="./assets/webpage.svg" alt="Project page" width="15" height="15"></a> &nbsp; \
+*Haoran Mo, Zhongyue Guan, Yixin Hu, Zeyu Wang*\
+[3 Jul., 2026; online publication] [TOG / SIGGRAPH, 2026]
+
+🚩【Storyboard】**DrawVideo: Grounded and Faithful Multi-Shot Video Generation from Storyboard Keyframe Sketches** &nbsp; | &nbsp;
+<a href="https://arxiv.org/abs/2605.23508"><img src="./assets/paper.svg" alt="Paper" width="15" height="15"></a> &nbsp; \
+*Chuanzhi Xu, Huiqi Liang, Bang Shi, Huiming Zhang, Guangcheng Lin, Yifan Xiao, Haodong Chen, Qiang Qu, Zhicheng Lu, Weidong Cai*\
+[22 May, 2026; revised 2 Oct., 2026] [arXiv, 2026]
+
+🚩【Generation】**CogOmniControl: Reasoning-Driven Controllable Video Generation via Creative Intent Cognition** &nbsp; | &nbsp;
+<a href="https://arxiv.org/abs/2605.19995"><img src="./assets/paper.svg" alt="Paper" width="15" height="15"></a> &nbsp; \
+*Hongji Yang, Songlian Li, Yucheng Zhou, Xiaotong Zhao, Alan Zhao, Chengzhong Xu, Jianbing Shen*\
+[19 May, 2026] [arXiv, 2026]
+
+🚩【Generation】**AniMatrix: An Anime Video Generation Model that Thinks in Art, Not Physics** &nbsp; | &nbsp;
+<a href="https://arxiv.org/abs/2605.03652"><img src="./assets/paper.svg" alt="Paper" width="15" height="15"></a> &nbsp; \
+*Tencent HY Team*\
+[5 May, 2026] [arXiv technical report, 2026]
+
+🚩【Colorization】**No Pixel Left Behind: Filling Gaps in Anime Colorization** &nbsp; | &nbsp;
+<a href="https://arxiv.org/abs/2609.00800"><img src="./assets/paper.svg" alt="Paper" width="15" height="15"></a> &nbsp;
+<a href="https://marc2825.github.io/GapFill/"><img src="./assets/webpage.svg" alt="Project page" width="15" height="15"></a> &nbsp; \
+*Masahiro Kono, Akinobu Maejima, Yuki Koyama, Yotam Sechayk, Takeo Igarashi*\
+[Apr., 2026; conference presentation; arXiv uploaded 1 Sep., 2026] [CHI, 2026]
+
+🚩【Colorization】**TimeColor: Flexible Reference Colorization via Temporal Concatenation** &nbsp; | &nbsp;
+<a href="https://arxiv.org/abs/2601.00296"><img src="./assets/paper.svg" alt="Paper" width="15" height="15"></a> &nbsp; \
+*Bryan Constantine Sadihin, Yihao Meng, Michael Hua Wang, Matteo Jiahao Chen, Hang Su*\
+[1 Jan., 2026] [arXiv, 2026]
+
+<!-- [<span style="color:red">*new</span>]  -->
+
+🚩 **Animating on Twos: Training Keyframe-Animation Adapters on a Pretrained Video Model** &nbsp; | &nbsp;
+<a href="https://alvdansen.github.io/animating-on-twos/"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/alvdansen/animating-on-twos"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Minta Carlson, Timothy Bielec*\
+[Aug., 2026] [Alvdansen Labs, 2026]
+
+🚩【Survey】**From Pixels to Personas: Tracking the Evolution of Anime Characters** &nbsp; | &nbsp;
+<a href="https://arxiv.org/abs/2604.05507"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/Arc-Celt/pixels2personas"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Rongze Liu, Jiaxin Pei, Jian Zhu*\
+[Apr., 2026] [arXiv, 2026]
+
+🚩【Survey】**The Rise of AI-Generated Anime Avatars: Trends, Challenges, and Opportunities** &nbsp; | &nbsp;
+<a href="https://arxiv.org/abs/2603.28365"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Fernanda Miyuki Yamada, João Paulo Gois, Hiroki Takahashi*\
+[Mar., 2026] [arXiv, 2026]
+
+🚩【Colorization】**OmniColor: A Unified Framework for Multi-modal Lineart Colorization** &nbsp; | &nbsp;
+<a href="https://arxiv.org/abs/2603.27531"><img src="./assets/paper.svg" alt="Icon" width="15" height="15"></a> &nbsp;
+<a href="https://github.com/zhangxulu1996/OmniColor"><img src="./assets/repo.svg" alt="Icon" width="15" height="15"></a> &nbsp; \
+*Xulu Zhang, Haoqian Du, Xiaoyong Wei, Qing Li*\
+[Mar., 2026] [arXiv, 2026]
+
 
 </details>
 
